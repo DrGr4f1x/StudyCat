@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace StudyCat
+{
+	public class SectionDesc
+	{
+		public string Title { get; set; }
+		public int Number { get; set; }
+		public string Pages { get; set; }
+		public int NumProblems { get; set; }
+	}
+
+	public class ChapterDesc
+	{
+		private List<SectionDesc> m_sections = new List<SectionDesc>();
+
+		public string Title { get; set; }
+		public int Number { get; set; }
+		public List<SectionDesc> Sections
+		{
+			get	{ return m_sections; }
+			set	{ m_sections = value; }
+		}
+	}
+
+	public class BookDesc
+	{
+		private List<ChapterDesc> m_chapters = new List<ChapterDesc>();
+
+		public string Title { get; set; }
+		public string Authors { get; set; }
+		public string Publisher { get; set; }
+		public string Year { get; set; }
+
+		public List<ChapterDesc> Chapters
+		{
+			get
+			{
+				return m_chapters;
+			}
+			set
+			{
+				m_chapters = value;
+			}
+		}
+	}
+
+}
