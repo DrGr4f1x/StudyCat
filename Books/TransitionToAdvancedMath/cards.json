@@ -1,0 +1,3593 @@
+{
+  "Title": "A Transition to Advanced Mathematics",
+  "Authors": "Smith, Douglas; Eggen, Maurice; St. Andre, Richard",
+  "Publisher": "Cengage",
+  "Year": "2014",
+  "Chapters": [
+    {
+      "Title": "Logic and Proofs",
+      "Number": 1,
+      "Sections": [
+        {
+          "Title": "Propositions and Connectives",
+          "Number": 1,
+          "Pages": "pp. 7-0",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Conditionals and Biconditionals",
+          "Number": 2,
+          "Pages": "pp. 15-18",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Quantified Statements",
+          "Number": 3,
+          "Pages": "pp. 26-28",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Basic Proof Methods: I",
+          "Number": 4,
+          "Pages": "pp. 38-41",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Basic Proof Methods: II",
+          "Number": 5,
+          "Pages": "pp. 48-51",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Proofs Involving Quantifiers",
+          "Number": 6,
+          "Pages": "pp. 60-63",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Strategies for Constructing Proofs",
+          "Number": 7,
+          "Pages": "pp. 72-76",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Proofs from Number Theory",
+          "Number": 8,
+          "Pages": "pp. 81-84",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 17,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 18,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 19,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 20,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Sets and Induction",
+      "Number": 2,
+      "Sections": [
+        {
+          "Title": "Basic Concepts of Set Theory",
+          "Number": 1,
+          "Pages": "pp. 91-94",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 17,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 18,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Set Operations",
+          "Number": 2,
+          "Pages": "pp. 101-103",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 17,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 18,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 19,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Indexed Families of Sets",
+          "Number": 3,
+          "Pages": "pp. 110-113",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 17,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Mathematical Induction",
+          "Number": 4,
+          "Pages": "pp. 123-126",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Equivalent Forms of Induction",
+          "Number": 5,
+          "Pages": "pp. 133-135",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Principles of Counting",
+          "Number": 6,
+          "Pages": "pp. 147-150",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 17,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 18,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 19,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 20,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 21,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 22,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 23,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 24,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Relations and Partitions",
+      "Number": 3,
+      "Sections": [
+        {
+          "Title": "Relations",
+          "Number": 1,
+          "Pages": "pp. 160-162",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Equivalence Relations",
+          "Number": 2,
+          "Pages": "pp. 171-174",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 17,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 18,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Partitions",
+          "Number": 3,
+          "Pages": "pp. 179-181",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Modular Arithmetic",
+          "Number": 4,
+          "Pages": "pp. 186-188",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Ordering Relations",
+          "Number": 5,
+          "Pages": "pp. 196-200",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 17,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 18,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 19,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 20,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 21,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Functions",
+      "Number": 4,
+      "Sections": [
+        {
+          "Title": "Functions as Relations",
+          "Number": 1,
+          "Pages": "pp. 209-211",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 17,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 18,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Constructions of Functions",
+          "Number": 2,
+          "Pages": "pp. 218-220",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 17,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 18,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Functions That are Onto; One-to-One Functions",
+          "Number": 3,
+          "Pages": "pp. 227-229",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Inverse Functions",
+          "Number": 4,
+          "Pages": "pp. 236-237",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Set Images",
+          "Number": 5,
+          "Pages": "pp. 241-242",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Sequences",
+          "Number": 6,
+          "Pages": "pp. 248-250",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Limits and Continuity of Real Functions",
+          "Number": 7,
+          "Pages": "pp. 257-259",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Cardinality",
+      "Number": 5,
+      "Sections": [
+        {
+          "Title": "Equivalent Sets; Finite Sets",
+          "Number": 1,
+          "Pages": "pp. 268-270",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 17,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 18,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 19,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 20,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 21,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Infinite Sets",
+          "Number": 2,
+          "Pages": "pp. 277-278",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Countable Sets",
+          "Number": 3,
+          "Pages": "pp. 284-286",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "The Ordering of Cardinal Numbers",
+          "Number": 4,
+          "Pages": "pp. 293-295",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Comparability and the Axiom of Choice",
+          "Number": 5,
+          "Pages": "pp. 300-301",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Concepts of Algebra",
+      "Number": 6,
+      "Sections": [
+        {
+          "Title": "Algebraic Structures",
+          "Number": 1,
+          "Pages": "pp. 309-311",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Groups",
+          "Number": 2,
+          "Pages": "pp. 317-319",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 17,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Subgroups",
+          "Number": 3,
+          "Pages": "pp. 324-326",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Operation Preserving Maps",
+          "Number": 4,
+          "Pages": "pp. 331-333",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 17,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 18,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 19,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "Rings and Fields",
+          "Number": 5,
+          "Pages": "pp. 339-341",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Concepts of Analysis",
+      "Number": 7,
+      "Sections": [
+        {
+          "Title": "The Completeness Property",
+          "Number": 1,
+          "Pages": "pp. 349-351",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 17,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 18,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 19,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "The Heine-Borel Theorem",
+          "Number": 2,
+          "Pages": "pp. 360-362",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 14,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 15,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 16,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 17,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 18,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 19,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 20,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 21,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "The Bolzano-Weierstrass Theorem",
+          "Number": 3,
+          "Pages": "pp. 366-368",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 13,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "The Bounded Monotone Sequence Theorem",
+          "Number": 4,
+          "Pages": "pp. 372-373",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 7,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 8,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 9,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 10,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 11,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 12,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        },
+        {
+          "Title": "The Equivalents of Completeness",
+          "Number": 5,
+          "Pages": "pp. 377-378",
+          "SessionNum": 0,
+          "Problems": [
+            {
+              "Number": 0,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "TimesReviewed": 0
+            },
+            {
+              "Number": 6,
+              "Deck": 0,
+              "TimesReviewed": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "Title": "A Transition to Advanced Mathematics",
+  "Authors": "Smith, Douglas; Eggen, Maurice; St. Andre, Richard",
+  "Publisher": "Cengage",
+  "Year": "2014",
+  "Chapters": [
+    {
+      "Title": "Logic and Proofs",
+      "Number": 1,
+      "Sections": [
+        {
+          "Title": "Propositions and Connectives",
+          "Number": 1,
+          "Pages": "pp. 7-0",
+          "NumProblems": 14
+        },
+        {
+          "Title": "Conditionals and Biconditionals",
+          "Number": 2,
+          "Pages": "pp. 15-18",
+          "NumProblems": 17
+        },
+        {
+          "Title": "Quantified Statements",
+          "Number": 3,
+          "Pages": "pp. 26-28",
+          "NumProblems": 14
+        },
+        {
+          "Title": "Basic Proof Methods: I",
+          "Number": 4,
+          "Pages": "pp. 38-41",
+          "NumProblems": 11
+        },
+        {
+          "Title": "Basic Proof Methods: II",
+          "Number": 5,
+          "Pages": "pp. 48-51",
+          "NumProblems": 12
+        },
+        {
+          "Title": "Proofs Involving Quantifiers",
+          "Number": 6,
+          "Pages": "pp. 60-63",
+          "NumProblems": 9
+        },
+        {
+          "Title": "Strategies for Constructing Proofs",
+          "Number": 7,
+          "Pages": "pp. 72-76",
+          "NumProblems": 11
+        },
+        {
+          "Title": "Proofs from Number Theory",
+          "Number": 8,
+          "Pages": "pp. 81-84",
+          "NumProblems": 21
+        },
+      ]
+    },
+    {
+      "Title": "Sets and Induction",
+      "Number": 2,
+      "Sections": [
+        {
+          "Title": "Basic Concepts of Set Theory",
+          "Number": 1,
+          "Pages": "pp. 91-94",
+          "NumProblems": 19
+        },
+        {
+          "Title": "Set Operations",
+          "Number": 2,
+          "Pages": "pp. 101-103",
+          "NumProblems": 20
+        },
+        {
+          "Title": "Indexed Families of Sets",
+          "Number": 3,
+          "Pages": "pp. 110-113",
+          "NumProblems": 18
+        },
+        {
+          "Title": "Mathematical Induction",
+          "Number": 4,
+          "Pages": "pp. 123-126",
+          "NumProblems": 12
+        },
+        {
+          "Title": "Equivalent Forms of Induction",
+          "Number": 5,
+          "Pages": "pp. 133-135",
+          "NumProblems": 14
+        },
+        {
+          "Title": "Principles of Counting",
+          "Number": 6,
+          "Pages": "pp. 147-150",
+          "NumProblems": 25
+        }
+      ]
+    },
+    {
+      "Title": "Relations and Partitions",
+      "Number": 3,
+      "Sections": [
+        {
+          "Title": "Relations",
+          "Number": 1,
+          "Pages": "pp. 160-162",
+          "NumProblems": 17
+        },
+        {
+          "Title": "Equivalence Relations",
+          "Number": 2,
+          "Pages": "pp. 171-174",
+          "NumProblems": 19
+        },
+        {
+          "Title": "Partitions",
+          "Number": 3,
+          "Pages": "pp. 179-181",
+          "NumProblems": 15
+        },
+        {
+          "Title": "Modular Arithmetic",
+          "Number": 4,
+          "Pages": "pp. 186-188",
+          "NumProblems": 12
+        },
+        {
+          "Title": "Ordering Relations",
+          "Number": 5,
+          "Pages": "pp. 196-200",
+          "NumProblems": 22
+        }
+      ]
+    },
+    {
+      "Title": "Functions",
+      "Number": 4,
+      "Sections": [
+        {
+          "Title": "Functions as Relations",
+          "Number": 1,
+          "Pages": "pp. 209-211",
+          "NumProblems": 19
+        },
+        {
+          "Title": "Constructions of Functions",
+          "Number": 2,
+          "Pages": "pp. 218-220",
+          "NumProblems": 19
+        },
+        {
+          "Title": "Functions That are Onto; One-to-One Functions",
+          "Number": 3,
+          "Pages": "pp. 227-229",
+          "NumProblems": 15
+        },
+        {
+          "Title": "Inverse Functions",
+          "Number": 4,
+          "Pages": "pp. 236-237",
+          "NumProblems": 10
+        },
+        {
+          "Title": "Set Images",
+          "Number": 5,
+          "Pages": "pp. 241-242",
+          "NumProblems": 17
+        },
+        {
+          "Title": "Sequences",
+          "Number": 6,
+          "Pages": "pp. 248-250",
+          "NumProblems": 13
+        },
+        {
+          "Title": "Limits and Continuity of Real Functions",
+          "Number": 7,
+          "Pages": "pp. 257-259",
+          "NumProblems": 9
+        }
+      ]
+    },
+    {
+      "Title": "Cardinality",
+      "Number": 5,
+      "Sections": [
+        {
+          "Title": "Equivalent Sets; Finite Sets",
+          "Number": 1,
+          "Pages": "pp. 268-270",
+          "NumProblems": 22
+        },
+        {
+          "Title": "Infinite Sets",
+          "Number": 2,
+          "Pages": "pp. 277-278",
+          "NumProblems": 12
+        },
+        {
+          "Title": "Countable Sets",
+          "Number": 3,
+          "Pages": "pp. 284-286",
+          "NumProblems": 16
+        },
+        {
+          "Title": "The Ordering of Cardinal Numbers",
+          "Number": 4,
+          "Pages": "pp. 293-295",
+          "NumProblems": 17
+        },
+        {
+          "Title": "Comparability and the Axiom of Choice",
+          "Number": 5,
+          "Pages": "pp. 300-301",
+          "NumProblems": 10
+        }
+      ]
+    },
+    {
+      "Title": "Concepts of Algebra",
+      "Number": 6,
+      "Sections": [
+        {
+          "Title": "Algebraic Structures",
+          "Number": 1,
+          "Pages": "pp. 309-311",
+          "NumProblems": 16
+        },
+        {
+          "Title": "Groups",
+          "Number": 2,
+          "Pages": "pp. 317-319",
+          "NumProblems": 18
+        },
+        {
+          "Title": "Subgroups",
+          "Number": 3,
+          "Pages": "pp. 324-326",
+          "NumProblems": 17
+        },
+        {
+          "Title": "Operation Preserving Maps",
+          "Number": 4,
+          "Pages": "pp. 331-333",
+          "NumProblems": 20
+        },
+        {
+          "Title": "Rings and Fields",
+          "Number": 5,
+          "Pages": "pp. 339-341",
+          "NumProblems": 15
+        }
+      ]
+    },
+    {
+      "Title": "Concepts of Analysis",
+      "Number": 7,
+      "Sections": [
+        {
+          "Title": "The Completeness Property",
+          "Number": 1,
+          "Pages": "pp. 349-351",
+          "NumProblems": 20
+        },
+        {
+          "Title": "The Heine-Borel Theorem",
+          "Number": 2,
+          "Pages": "pp. 360-362",
+          "NumProblems": 22
+        },
+        {
+          "Title": "The Bolzano-Weierstrass Theorem",
+          "Number": 3,
+          "Pages": "pp. 366-368",
+          "NumProblems": 14
+        },
+        {
+          "Title": "The Bounded Monotone Sequence Theorem",
+          "Number": 4,
+          "Pages": "pp. 372-373",
+          "NumProblems": 13
+        },
+        {
+          "Title": "The Equivalents of Completeness",
+          "Number": 5,
+          "Pages": "pp. 377-378",
+          "NumProblems": 7
+        }
+      ]
+    }
+  ]
+}

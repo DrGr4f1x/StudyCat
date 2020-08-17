@@ -1,0 +1,572 @@
+{
+  "Title": "Elementary Linear Algebra",
+  "Authors": "Anton, Howard; Rorres, Chris",
+  "Publisher": "Wiley",
+  "Year": "2010",
+  "Chapters": [
+    {
+      "Title": "Systems of Linear Equations and Matrices",
+      "Number": 1,
+      "Sections": [
+        {
+          "Title": "Introduction to Systems of Linear Equations",
+          "Number": 1,
+          "Pages": "pp. 9-10",
+          "NumProblems": 17
+        },
+        {
+          "Title": "Gaussian Elimination",
+          "Number": 2,
+          "Pages": "pp. 22-25",
+          "NumProblems": 43
+        },
+        {
+          "Title": "Matrices and Matrix Operations",
+          "Number": 3,
+          "Pages": "pp. 35-37",
+          "NumProblems": 30
+        },
+        {
+          "Title": "Inverses; Algebraic Properties of Matrices",
+          "Number": 4,
+          "Pages": "pp. 49-50",
+          "NumProblems": 55
+        },
+        {
+          "Title": "Elementary Matrices and a Method for Finding A^-1",
+          "Number": 5,
+          "Pages": "pp. 58-59",
+          "NumProblems": 43
+        },
+        {
+          "Title": "More on Linear Systems and Invertible Matrices",
+          "Number": 6,
+          "Pages": "pp. 65-66",
+          "NumProblems": 24
+        },
+        {
+          "Title": "Diagonal, Triangular, and Symmetric Matrices",
+          "Number": 7,
+          "Pages": "pp. 71=73",
+          "NumProblems": 43
+        },
+        {
+          "Title": "Applications of Linear Systems",
+          "Number": 8,
+          "Pages": "pp. 84-85",
+          "NumProblems": 18
+        },
+        {
+          "Title": "Leontief Input-Output Models",
+          "Number": 9,
+          "Pages": "pp. 90-91",
+          "NumProblems": 1
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 10,
+          "Pages": "pp. 91-92",
+          "NumProblems": 24
+        }
+      ]
+    },
+    {
+      "Title": "Determinants",
+      "Number": 2,
+      "Sections": [
+        {
+          "Title": "Determinants by Cofactor Expansion",
+          "Number": 1,
+          "Pages": "pp. 98-100",
+          "NumProblems": 42
+        },
+        {
+          "Title": "Evaluating Determinants by Row Reduction",
+          "Number": 2,
+          "Pages": "pp. 105-106",
+          "NumProblems": 36
+        },
+        {
+          "Title": "Properties of Determinants; Cramer's Rule",
+          "Number": 3,
+          "Pages": "pp. 115-116",
+          "NumProblems": 39
+        },
+        {
+          "Title": "Supplementary Exercies",
+          "Number": 4,
+          "Pages": "pp. 117-118",
+          "NumProblems": 36
+        }
+      ]
+    },
+    {
+      "Title": "Euclidean Vector Spaces",
+      "Number": 3,
+      "Sections": [
+        {
+          "Title": "Vectors in 2-Space, 3-Space, and n-Space",
+          "Number": 1,
+          "Pages": "pp. 128-230",
+          "NumProblems": 37
+        },
+        {
+          "Title": "Norm, Dot Product, and Distance in R^n",
+          "Number": 2,
+          "Pages": "pp. 141-143",
+          "NumProblems": 34
+        },
+        {
+          "Title": "Orthogonality",
+          "Number": 3,
+          "Pages": "pp. 150-152",
+          "NumProblems": 46
+        },
+        {
+          "Title": "The Geometry of Linear Systems",
+          "Number": 4,
+          "Pages": "pp. 159-160",
+          "NumProblems": 28
+        },
+        {
+          "Title": "Cross Product",
+          "Number": 5,
+          "Pages": "pp. 168-169",
+          "NumProblems": 40
+        },
+        {
+          "Title": "Supplementary Exercies",
+          "Number": 6,
+          "Pages": "pp. 170",
+          "NumProblems": 29
+        }
+      ]
+    },
+    {
+      "Title": "General Vector Spaces",
+      "Number": 4,
+      "Sections": [
+        {
+          "Title": "Real Vector Spaces",
+          "Number": 1,
+          "Pages": "pp. 178-179",
+          "NumProblems": 27
+        },
+        {
+          "Title": "Subspaces",
+          "Number": 2,
+          "Pages": "pp. 188-190",
+          "NumProblems": 20
+        },
+        {
+          "Title": "Linear Independence",
+          "Number": 3,
+          "Pages": "pp. 199-200",
+          "NumProblems": 28
+        },
+        {
+          "Title": "Coordinates and Basis",
+          "Number": 4,
+          "Pages": "pp. 207-208",
+          "NumProblems": 19
+        },
+        {
+          "Title": "Dimension",
+          "Number": 5,
+          "Pages": "pp. 216-217",
+          "NumProblems": 22
+        },
+        {
+          "Title": "Change of Basis",
+          "Number": 6,
+          "Pages": "pp. 222-224",
+          "NumProblems": 27
+        },
+        {
+          "Title": "Row Space, Column Space, and Null Space",
+          "Number": 7,
+          "Pages": "pp. 235-237",
+          "NumProblems": 19
+        },
+        {
+          "Title": "Rank, Nullity, and the Fundamental Matrix Spaces",
+          "Number": 8,
+          "Pages": "pp. 246-247",
+          "NumProblems": 20
+        },
+        {
+          "Title": "Matrix Transforms from R^n to R^m",
+          "Number": 9,
+          "Pages": "pp. 260-262",
+          "NumProblems": 35
+        },
+        {
+          "Title": "Properties of Matrix Transforms",
+          "Number": 10,
+          "Pages": "pp. 271-273",
+          "NumProblems": 30
+        },
+        {
+          "Title": "Geometry of Matrix Operators on R^2",
+          "Number": 11,
+          "Pages": "pp. 280-281",
+          "NumProblems": 23
+        },
+        {
+          "Title": "Dynamical Systems and Markov Chains",
+          "Number": 12,
+          "Pages": "pp. 290-292",
+          "NumProblems": 24
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 13,
+          "Pages": "pp. 292-293",
+          "NumProblems": 16
+        }
+      ]
+    },
+    {
+      "Title": "Eigenvalues and Eigenvectors",
+      "Number": 5,
+      "Sections": [
+        {
+          "Title": "Eigenvalues and Eigenvectors",
+          "Number": 1,
+          "Pages": "pp. 303-304",
+          "NumProblems": 29
+        },
+        {
+          "Title": "Diagonalization",
+          "Number": 2,
+          "Pages": "pp. 313-314",
+          "NumProblems": 34
+        },
+        {
+          "Title": "Complex Vector Spaces",
+          "Number": 3,
+          "Pages": "pp. 326-327",
+          "NumProblems": 36
+        },
+        {
+          "Title": "Differential Equations",
+          "Number": 4,
+          "Pages": "pp. 332-333",
+          "NumProblems": 12
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 5,
+          "Pages": "pp. 333-334",
+          "NumProblems": 18
+        }
+      ]
+    },
+    {
+      "Title": "Inner Product Spaces",
+      "Number": 6,
+      "Sections": [
+        {
+          "Title": "Inner Products",
+          "Number": 1,
+          "Pages": "pp. 343-344",
+          "NumProblems": 32
+        },
+        {
+          "Title": "Angle and Orthogonality in Inner Product Spaces",
+          "Number": 2,
+          "Pages": "pp. 350-352",
+          "NumProblems": 32
+        },
+        {
+          "Title": "Gram-Schmidt Process; QR-Decomposition",
+          "Number": 3,
+          "Pages": "pp. 364-366",
+          "NumProblems": 34
+        },
+        {
+          "Title": "Best Approximation; Least Squares",
+          "Number": 4,
+          "Pages": "pp. 374-375",
+          "NumProblems": 22
+        },
+        {
+          "Title": "Least Squares Fitting of Data",
+          "Number": 5,
+          "Pages": "pp. 381-382",
+          "NumProblems": 11
+        },
+        {
+          "Title": "Function Approximation; Fourier Series",
+          "Number": 6,
+          "Pages": "pp. 387",
+          "NumProblems": 10
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 7,
+          "Pages": "pp. 387-388",
+          "NumProblems": 19
+        }
+      ]
+    },
+    {
+      "Title": "Diagonalization and Quadratic Forms",
+      "Number": 7,
+      "Sections": [
+        {
+          "Title": "Orthogonal Matrices",
+          "Number": 1,
+          "Pages": "pp. 395-396",
+          "NumProblems": 21
+        },
+        {
+          "Title": "Orthogonal Diagonalization",
+          "Number": 2,
+          "Pages": "pp. 404",
+          "NumProblems": 21
+        },
+        {
+          "Title": "Quadratic Forms",
+          "Number": 3,
+          "Pages": "pp. 415-416",
+          "NumProblems": 35
+        },
+        {
+          "Title": "Optimization Using Quadratic Forms",
+          "Number": 4,
+          "Pages": "pp. 423-424",
+          "NumProblems": 22
+        },
+        {
+          "Title": "Hermitian, Unitary, and Normal Matrices",
+          "Number": 5,
+          "Pages": "pp. 430-431",
+          "NumProblems": 46
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 6,
+          "Pages": "pp. 432",
+          "NumProblems": 12
+        }
+      ]
+    },
+    {
+      "Title": "Linear Transforms",
+      "Number": 8,
+      "Sections": [
+        {
+          "Title": "General Linear Transforms",
+          "Number": 1,
+          "Pages": "pp. 442-444",
+          "NumProblems": 44
+        },
+        {
+          "Title": "Isomorphism",
+          "Number": 2,
+          "Pages": "pp. 451-452",
+          "NumProblems": 20
+        },
+        {
+          "Title": "Compositions and Inverse Transforms",
+          "Number": 3,
+          "Pages": "pp. 457-458",
+          "NumProblems": 23
+        },
+        {
+          "Title": "Matrices for General Linear Transforms",
+          "Number": 4,
+          "Pages": "pp. 466-468",
+          "NumProblems": 21
+        },
+        {
+          "Title": "Similarity",
+          "Number": 5,
+          "Pages": "pp. 473-474",
+          "NumProblems": 22
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 6,
+          "Pages": "pp. 475-476",
+          "NumProblems": 25
+        }
+      ]
+    },
+    {
+      "Title": "Numerical Methods",
+      "Number": 9,
+      "Sections": [
+        {
+          "Title": "LU-Decompositions",
+          "Number": 1,
+          "Pages": "pp. 485-486",
+          "NumProblems": 21
+        },
+        {
+          "Title": "The Power Method",
+          "Number": 2,
+          "Pages": "pp. 494-495",
+          "NumProblems": 17
+        },
+        {
+          "Title": "Internet Search Engines",
+          "Number": 3,
+          "Pages": "pp. 500-501",
+          "NumProblems": 8
+        },
+        {
+          "Title": "Comparison of Procedures for Solving Linear Systems",
+          "Number": 4,
+          "Pages": "pp. 506",
+          "NumProblems": 10
+        },
+        {
+          "Title": "Singular Value Decomposition",
+          "Number": 5,
+          "Pages": "pp. 513",
+          "NumProblems": 18
+        },
+        {
+          "Title": "Data Compression Using Singular Value Decomposition",
+          "Number": 6,
+          "Pages": "pp. 517",
+          "NumProblems": 9
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 7,
+          "Pages": "pp. 517",
+          "NumProblems": 13
+        }
+      ]
+    },
+    {
+      "Title": "Applications of Linear Algebra",
+      "Number": 10,
+      "Sections": [
+        {
+          "Title": "Constructing Curves and Surface Through Specified Points",
+          "Number": 1,
+          "Pages": "pp. 524",
+          "NumProblems": 13
+        },
+        {
+          "Title": "Geometric Linear Programming",
+          "Number": 2,
+          "Pages": "pp. 534-535",
+          "NumProblems": 11
+        },
+        {
+          "Title": "The Earliest Applications of Linear Algebra",
+          "Number": 3,
+          "Pages": "pp. 541-542",
+          "NumProblems": 7
+        },
+        {
+          "Title": "Cubic Spline Interpolation",
+          "Number": 4,
+          "Pages": "pp. 552",
+          "NumProblems": 8
+        },
+        {
+          "Title": "Markov Chains",
+          "Number": 5,
+          "Pages": "pp. 562",
+          "NumProblems": 8
+        },
+        {
+          "Title": "Graph Theory",
+          "Number": 6,
+          "Pages": "pp. 570-571",
+          "NumProblems": 7
+        },
+        {
+          "Title": "Games of Strategy",
+          "Number": 7,
+          "Pages": "pp. 580",
+          "NumProblems": 8
+        },
+        {
+          "Title": "Leontief Economic Models",
+          "Number": 8,
+          "Pages": "pp. 588-589",
+          "NumProblems": 9
+        },
+        {
+          "Title": "Forest Management",
+          "Number": 9,
+          "Pages": "pp. 596",
+          "NumProblems": 6
+        },
+        {
+          "Title": "Computer Graphics",
+          "Number": 10,
+          "Pages": "pp. 604-607",
+          "NumProblems": 8
+        },
+        {
+          "Title": "Equilibrium Temperature Distributions",
+          "Number": 11,
+          "Pages": "pp. 613-614",
+          "NumProblems": 4
+        },
+        {
+          "Title": "Computed Tomography",
+          "Number": 12,
+          "Pages": "pp. 624-625",
+          "NumProblems": 8
+        },
+        {
+          "Title": "Fractals",
+          "Number": 13,
+          "Pages": "pp. 639-641",
+          "NumProblems": 12
+        },
+        {
+          "Title": "Chaos",
+          "Number": 14,
+          "Pages": "pp. 652-653",
+          "NumProblems": 14
+        },
+        {
+          "Title": "Cryptography",
+          "Number": 15,
+          "Pages": "pp. 664",
+          "NumProblems": 11
+        },
+        {
+          "Title": "Genetics",
+          "Number": 16,
+          "Pages": "pp. 674",
+          "NumProblems": 9
+        },
+        {
+          "Title": "Age-Specific Population Growth",
+          "Number": 17,
+          "Pages": "pp. 684",
+          "NumProblems": 9
+        },
+        {
+          "Title": "Harvesting of Animal Populations",
+          "Number": 18,
+          "Pages": "pp. 692",
+          "NumProblems": 5
+        },
+        {
+          "Title": "A Least Squares Model for Human Hearing",
+          "Number": 19,
+          "Pages": "pp. 699",
+          "NumProblems": 8
+        },
+        {
+          "Title": "Warps and Morphs",
+          "Number": 20,
+          "Pages": "pp. 707-708",
+          "NumProblems": 8
+        }
+      ]
+    }
+  ]
+}

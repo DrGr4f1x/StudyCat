@@ -42,6 +42,16 @@ namespace StudyCat
 
     class Program
     {
+        static JsonSerializerOptions GetJsonSerializerOptions()
+        {
+            var options = new JsonSerializerOptions
+            {
+                AllowTrailingCommas = true,
+                WriteIndented = true
+            };
+            return options;
+        }
+
         static bool PromptForFileOverwrite(string filename)
         {
             bool bOverwriteFile = true;
@@ -166,12 +176,7 @@ namespace StudyCat
             }
 
             // Serialize the book desc
-            string jsonString;
-            var options = new JsonSerializerOptions
-            {
-                WriteIndented = true
-            };
-            jsonString = JsonSerializer.Serialize(desc, options);
+            string jsonString = JsonSerializer.Serialize(desc, GetJsonSerializerOptions());
             File.WriteAllText(filename, jsonString);
 
             return 0;
@@ -196,7 +201,7 @@ namespace StudyCat
 
             // Try to deserialize the book desc
             string jsonString = File.ReadAllText(bookFilename);
-            BookDesc bookDesc = JsonSerializer.Deserialize<BookDesc>(jsonString);
+            BookDesc bookDesc = JsonSerializer.Deserialize<BookDesc>(jsonString, GetJsonSerializerOptions());
 
             // Construct a cardset from the book desc
             Book book = GenerateFromDesc(bookDesc);
@@ -213,11 +218,7 @@ namespace StudyCat
                 return 0;
             }
 
-            var options = new JsonSerializerOptions
-            {
-                WriteIndented = true
-            };
-            jsonString = JsonSerializer.Serialize(book, options);
+            jsonString = JsonSerializer.Serialize(book, GetJsonSerializerOptions());
             File.WriteAllText(cardsFilename, jsonString);
 
             return 0;
