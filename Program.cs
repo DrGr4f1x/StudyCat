@@ -31,7 +31,10 @@ namespace StudyCat
 
     [Verb("list", HelpText = "Prints information about the book.")]
     class ListBookOptions
-    { }
+    {
+        [Option('p', "path", HelpText = "Directory of the book whose contents we are listing.")]
+        public DirectoryInfo Path { get; set; }
+    }
 
     [Verb("make", HelpText="Makes a new set of cards from an existing book desc.")]
     class MakeCardsOptions
@@ -184,6 +187,39 @@ namespace StudyCat
 
         static int RunListAndReturnExitCode(ListBookOptions opts)
         {
+            string bookFilename = opts.Path.FullName + "\\book.json";
+
+            // If the book desc file doesn't exist, bail out
+            if (!File.Exists(bookFilename))
+            {
+                Console.WriteLine("Input book desc {0} does not exist.  Exiting.", bookFilename);
+                return 1;
+            }
+
+            // Try to deserialize the book desc
+            string jsonString = File.ReadAllText(bookFilename);
+            BookDesc bookDesc = JsonSerializer.Deserialize<BookDesc>(jsonString, GetJsonSerializerOptions());
+
+            Console.WriteLine("\nTitle: {0}", bookDesc.Title);
+            Console.WriteLine("Authors: {0}", bookDesc.Authors);
+            Console.WriteLine("Publisher and year: {0} - {1}\n", bookDesc.Publisher, bookDesc.Year);
+
+            int numProblemsBook = 0;
+            foreach (var chapter in bookDesc.Chapters)
+            {
+                int numProblemsChapter = 0;
+                Console.WriteLine("{0}. {1}", chapter.Number, chapter.Title);
+                
+                foreach(var section in chapter.Sections)
+                {
+                    Console.WriteLine("    {0}. {1} - {2} problems", section.Number, section.Title, section.NumProblems);
+                    numProblemsChapter += section.NumProblems;
+                }
+                Console.WriteLine("Chapter problems: {0}\n", numProblemsChapter);
+                numProblemsBook += numProblemsChapter;
+            }
+            Console.WriteLine("Book problems: {0}\n", numProblemsBook);
+
             return 0;
         }
 
