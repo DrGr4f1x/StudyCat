@@ -6,10 +6,17 @@ namespace StudyCat
 {
 	public class SectionDesc
 	{
+		private List<Card> m_additionalCards = new List<Card>();
+
 		public string Title { get; set; }
 		public int Number { get; set; }
 		public string Pages { get; set; }
 		public int NumProblems { get; set; }
+		public List<Card> AdditionalCards 
+		{
+			get { return m_additionalCards; }
+			set { m_additionalCards = value; }
+		}
 	}
 
 	public class ChapterDesc

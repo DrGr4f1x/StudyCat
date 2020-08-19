@@ -43,6 +43,21 @@ namespace StudyCat
         public DirectoryInfo Path { get; set; }
     }
 
+    [Verb("add", HelpText="Adds a new card to a book, in the specified chapter and section.")]
+    class AddCardOptions
+    {
+        [Option('p', "path", HelpText = "Directory in which to add the new card.")]
+        public DirectoryInfo Path { get; set; }
+        [Option('c', "chapter", HelpText = "Chapter in which to insert the new card.")]
+        public int Chapter { get; set; }
+        [Option('s', "section", HelpText = "Section in which to insert the new card.")]
+        public int Section { get; set; }
+        [Option('t', "type", Required = true, HelpText ="Card type (Definition, Theorem, Lemma, Note, or Algorithm.")]
+        public string Type { get; set; }
+        [Option("text", Required = true, HelpText = "Card text.")]
+        public string Text { get; set; }
+    }
+
     class Program
     {
         static JsonSerializerOptions GetJsonSerializerOptions()
@@ -88,6 +103,55 @@ namespace StudyCat
             return bOverwriteFile;
         }
 
+        static T Load<T>(string filepath) where T : class
+        {
+            T obj = null;
+
+            // Try to deserialize the T object
+            if (File.Exists(filepath))
+            {
+                try
+                {
+                    string jsonString = File.ReadAllText(filepath);
+                    obj = JsonSerializer.Deserialize<T>(jsonString, GetJsonSerializerOptions());
+                }
+                catch
+                {
+                    Console.WriteLine("ERROR: Failed to load input file {0}", filepath);
+                }
+            }
+            else
+            {
+                Console.WriteLine("ERROR: Input file {0} does not exist.  Exiting.", filepath);
+            }
+
+            return obj;
+        }
+
+        static int Save<T>(string filepath, T obj) where T : class
+        {
+            if (File.Exists(filepath))
+            {
+                if (!PromptForFileOverwrite(filepath))
+                {
+                    return 1;
+                }
+            }
+
+            try
+            {
+                string jsonString = JsonSerializer.Serialize<T>(obj, GetJsonSerializerOptions());
+                File.WriteAllText(filepath, jsonString);
+            }
+            catch
+            {
+                Console.WriteLine("ERROR: Failed to save to output file {0}", filepath);
+                return 1;
+            }
+
+            return 0;
+        }
+
         static Book GenerateFromDesc(BookDesc bookDesc)
         {
             Book book = new Book();
@@ -112,11 +176,12 @@ namespace StudyCat
 
                     for(int i = 0; i < sectionDesc.NumProblems; ++i)
                     {
-                        Problem problem = new Problem();
-                        problem.Number = i;
-                        problem.Deck = Deck.Current;
-                        problem.TimesReviewed = 0;
-                        section.Problems.Add(problem);
+                        Card card = new Card();
+                        card.Number = i;
+                        card.Deck = Deck.Current;
+                        card.CardType = CardType.Problem;
+                        card.TimesReviewed = 0;
+                        section.Cards.Add(card);
                     }
 
                     chapter.Sections.Add(section);
@@ -130,26 +195,6 @@ namespace StudyCat
 
         static int RunNewAndReturnExitCode(NewBookOptions opts)
         {
-            // Create directory if it doesn't exist
-            if(!Directory.Exists(opts.Path.FullName))
-            {
-                Directory.CreateDirectory(opts.Path.FullName);
-            }
-
-            string filename = opts.Path.FullName + "\\book.json";
-
-            // See if the book.json file already exists.  Prompt for overwrite.
-            bool bCreateFile = true;
-            if(File.Exists(filename))
-            {
-                bCreateFile = PromptForFileOverwrite(filename);
-            }
-
-            if(!bCreateFile)
-            {
-                return 0;
-            }
-
             // Create a stubbed-out book desc that the user can fill in
             BookDesc desc = new BookDesc();
             desc.Title = opts.Title.Length == 0 ? "Book Title" : opts.Title;
@@ -178,27 +223,23 @@ namespace StudyCat
                 desc.Chapters.Add(chapterDesc);
             }
 
-            // Serialize the book desc
-            string jsonString = JsonSerializer.Serialize(desc, GetJsonSerializerOptions());
-            File.WriteAllText(filename, jsonString);
+            // Create directory if it doesn't exist
+            if (!Directory.Exists(opts.Path.FullName))
+            {
+                Directory.CreateDirectory(opts.Path.FullName);
+            }
 
-            return 0;
+            // Serialize the book desc
+            return Save<BookDesc>(opts.Path.FullName + "\\book.json", desc);
         }
 
         static int RunListAndReturnExitCode(ListBookOptions opts)
         {
-            string bookFilename = opts.Path.FullName + "\\book.json";
-
-            // If the book desc file doesn't exist, bail out
-            if (!File.Exists(bookFilename))
+            var bookDesc = Load<BookDesc>(opts.Path.FullName + "\\book.json");
+            if (bookDesc == null)
             {
-                Console.WriteLine("Input book desc {0} does not exist.  Exiting.", bookFilename);
                 return 1;
             }
-
-            // Try to deserialize the book desc
-            string jsonString = File.ReadAllText(bookFilename);
-            BookDesc bookDesc = JsonSerializer.Deserialize<BookDesc>(jsonString, GetJsonSerializerOptions());
 
             Console.WriteLine("\nTitle: {0}", bookDesc.Title);
             Console.WriteLine("Authors: {0}", bookDesc.Authors);
@@ -225,48 +266,50 @@ namespace StudyCat
 
         static int RunMakeAndReturnExitCode(MakeCardsOptions opts)
         {
-            string bookFilename = opts.Path.FullName + "\\book.json";
-            string cardsFilename = opts.Path.FullName + "\\cards.json";
+            string cardsFilename = opts.Path.FullName + "\\cardsset.json";
 
-            // If the book desc file doesn't exist, bail out
-            if (!File.Exists(bookFilename))
+            // Load the BookDesc
+            var bookDesc = Load<BookDesc>(opts.Path.FullName + "\\book.desc");
+            if (bookDesc == null)
             {
-                Console.WriteLine("Input book desc {0} does not exist.  Exiting.", bookFilename);
                 return 1;
             }
 
-            // Try to deserialize the book desc
-            string jsonString = File.ReadAllText(bookFilename);
-            BookDesc bookDesc = JsonSerializer.Deserialize<BookDesc>(jsonString, GetJsonSerializerOptions());
-
-            // Construct a cardset from the book desc
+            // Construct a book from the book desc
             Book book = GenerateFromDesc(bookDesc);
 
-            // See if the cards.json file already exists.  Prompt for overwrite.
-            bool bCreateFile = true;
-            if (File.Exists(cardsFilename))
+            // Save the Book
+            return Save<Book>(opts.Path.FullName + "\\cardset.json", book);
+        }
+
+        static int RunAddAndReturnExitCode(AddCardOptions opts)
+        {
+            // Validate the card type
+            CardType type = CardType.Definition;
+            try
             {
-                bCreateFile = PromptForFileOverwrite(cardsFilename);
+                type = (CardType)Enum.Parse(typeof(CardType), opts.Type, true);
+            }
+            catch
+            {
+                Console.WriteLine("Card type '{0}' is not valid.", opts.Type);
+                return 1;
             }
 
-            if (!bCreateFile)
-            {
-                return 0;
-            }
-
-            jsonString = JsonSerializer.Serialize(book, GetJsonSerializerOptions());
-            File.WriteAllText(cardsFilename, jsonString);
+            Console.WriteLine("Adding card of type {0} = {1:D} to chapter {2}, section {3}", opts.Type, type, opts.Chapter, opts.Section);
+            Console.WriteLine("Text: {0}", opts.Text);
 
             return 0;
         }
 
         static int Main(string[] args)
         {
-            return CommandLine.Parser.Default.ParseArguments<NewBookOptions, ListBookOptions, MakeCardsOptions>(args)
+            return CommandLine.Parser.Default.ParseArguments<NewBookOptions, ListBookOptions, MakeCardsOptions, AddCardOptions>(args)
                 .MapResult(
                     (NewBookOptions opts) => RunNewAndReturnExitCode(opts),
                     (ListBookOptions opts) => RunListAndReturnExitCode(opts),
                     (MakeCardsOptions opts) => RunMakeAndReturnExitCode(opts),
+                    (AddCardOptions opts) => RunAddAndReturnExitCode(opts),
                     errs => 1
                 );
         }

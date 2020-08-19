@@ -20,25 +20,36 @@ namespace StudyCat
         Retired
     }
 
-    public class Problem
+    public enum CardType
+    {
+        Problem,
+        Definition,
+        Theorem,
+        Lemma,
+        Note,
+        Algorithm
+    }
+
+    public class Card
     {
         public int Number { get; set; }
-        public Deck Deck { get; set; }
-        public int TimesReviewed { get; set; }
+        public Deck Deck { get; set; } = Deck.Current;
+        public CardType CardType { get; set; } = CardType.Problem;
+        public int TimesReviewed { get; set; } = 0;
     }
 
     public class Section
     {
-        private List<Problem> m_problems = new List<Problem>();
+        private List<Card> m_cards = new List<Card>();
 
         public string Title { get; set; }
         public int Number { get; set; }
         public string Pages { get; set; }
         public int SessionNum { get; set; }
-        public List<Problem> Problems
+        public List<Card> Cards
         {
-            get { return m_problems; }
-            set { m_problems = value; }
+            get { return m_cards; }
+            set { m_cards = value; }
         }
     }
     public class Chapter
