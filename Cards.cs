@@ -27,7 +27,9 @@ namespace StudyCat
         Theorem,
         Lemma,
         Note,
-        Algorithm
+        Algorithm,
+
+        Max
     }
 
     public class Card
@@ -36,6 +38,7 @@ namespace StudyCat
         public Deck Deck { get; set; } = Deck.Current;
         public CardType CardType { get; set; } = CardType.Problem;
         public int TimesReviewed { get; set; } = 0;
+        public string Text { get; set; }
     }
 
     public class Section
@@ -52,6 +55,7 @@ namespace StudyCat
             set { m_cards = value; }
         }
     }
+
     public class Chapter
     {
         private List<Section> m_sections = new List<Section>();
@@ -63,8 +67,22 @@ namespace StudyCat
             get { return m_sections; }
             set { m_sections = value; }
         }
+
+        public bool AddCard(Card card, int iSection)
+        {
+            foreach (var section in Sections)
+            {
+                if (section.Number == iSection)
+                {
+                    section.Cards.Add(card);
+                    return true;
+                }
+            }
+
+            return false;
+        }
     }
-    public class Book
+    public class Book : IPostLoad
     {
         private List<Chapter> m_chapters = new List<Chapter>();
 
@@ -76,6 +94,23 @@ namespace StudyCat
         {
             get { return m_chapters; }
             set { m_chapters = value; }
+        }
+
+        public void PostLoad() { }
+
+        public bool AddCard(Card card, int iChapter, int iSection)
+        {
+            bool bCardAdded = false;
+
+            foreach (var chapter in Chapters)
+            {
+                if (chapter.Number == iChapter)
+                {
+                    bCardAdded = chapter.AddCard(card, iSection);
+                    break;
+                }
+            }
+            return bCardAdded;
         }
     }
 }

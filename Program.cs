@@ -103,7 +103,7 @@ namespace StudyCat
             return bOverwriteFile;
         }
 
-        static T Load<T>(string filepath) where T : class
+        static T Load<T>(string filepath) where T : class, IPostLoad
         {
             T obj = null;
 
@@ -114,6 +114,8 @@ namespace StudyCat
                 {
                     string jsonString = File.ReadAllText(filepath);
                     obj = JsonSerializer.Deserialize<T>(jsonString, GetJsonSerializerOptions());
+
+                    obj.PostLoad();
                 }
                 catch
                 {
@@ -128,9 +130,9 @@ namespace StudyCat
             return obj;
         }
 
-        static int Save<T>(string filepath, T obj) where T : class
+        static int Save<T>(string filepath, T obj, bool promptForOverwrite = true) where T : class
         {
-            if (File.Exists(filepath))
+            if (promptForOverwrite && File.Exists(filepath))
             {
                 if (!PromptForFileOverwrite(filepath))
                 {
@@ -266,10 +268,8 @@ namespace StudyCat
 
         static int RunMakeAndReturnExitCode(MakeCardsOptions opts)
         {
-            string cardsFilename = opts.Path.FullName + "\\cardsset.json";
-
             // Load the BookDesc
-            var bookDesc = Load<BookDesc>(opts.Path.FullName + "\\book.desc");
+            var bookDesc = Load<BookDesc>(opts.Path.FullName + "\\book.json");
             if (bookDesc == null)
             {
                 return 1;
@@ -296,10 +296,22 @@ namespace StudyCat
                 return 1;
             }
 
-            Console.WriteLine("Adding card of type {0} = {1:D} to chapter {2}, section {3}", opts.Type, type, opts.Chapter, opts.Section);
-            Console.WriteLine("Text: {0}", opts.Text);
+            var bookDesc = Load<BookDesc>(opts.Path.FullName + "\\book.json");
+            var book = Load<Book>(opts.Path.FullName + "\\cardset.json");
 
-            return 0;
+            Card card = bookDesc.AddCard(type, opts.Chapter, opts.Section, opts.Text);
+            if (card != null && book != null)
+            {
+                book.AddCard(card, opts.Chapter, opts.Section);
+                Save<Book>(opts.Path.FullName + "\\cardset.json", book, false);
+            }
+            else if (card == null)
+            {
+                Console.WriteLine("Failed to add card.  Chapter {0} or Section {1} is invalid.", opts.Chapter, opts.Section);
+                return 1;
+            }
+
+            return Save<BookDesc>(opts.Path.FullName + "\\book.json", bookDesc, false);
         }
 
         static int Main(string[] args)
