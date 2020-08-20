@@ -13,76 +13,104 @@
           "Number": 1,
           "Pages": "pp. 7-0",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -91,91 +119,125 @@
           "Number": 2,
           "Pages": "pp. 15-18",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -184,76 +246,104 @@
           "Number": 3,
           "Pages": "pp. 26-28",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -262,61 +352,83 @@
           "Number": 4,
           "Pages": "pp. 38-41",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -325,66 +437,90 @@
           "Number": 5,
           "Pages": "pp. 48-51",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -393,51 +529,69 @@
           "Number": 6,
           "Pages": "pp. 60-63",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -446,61 +600,83 @@
           "Number": 7,
           "Pages": "pp. 72-76",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -509,111 +685,153 @@
           "Number": 8,
           "Pages": "pp. 81-84",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 17,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 18,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 19,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 20,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         }
@@ -628,101 +846,139 @@
           "Number": 1,
           "Pages": "pp. 91-94",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 17,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 18,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -731,106 +987,146 @@
           "Number": 2,
           "Pages": "pp. 101-103",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 17,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 18,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 19,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -839,96 +1135,132 @@
           "Number": 3,
           "Pages": "pp. 110-113",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 17,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -937,66 +1269,90 @@
           "Number": 4,
           "Pages": "pp. 123-126",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -1005,76 +1361,104 @@
           "Number": 5,
           "Pages": "pp. 133-135",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -1083,131 +1467,181 @@
           "Number": 6,
           "Pages": "pp. 147-150",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 17,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 18,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 19,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 20,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 21,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 22,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 23,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 24,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         }
@@ -1222,91 +1656,125 @@
           "Number": 1,
           "Pages": "pp. 160-162",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -1315,101 +1783,139 @@
           "Number": 2,
           "Pages": "pp. 171-174",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 17,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 18,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -1418,81 +1924,111 @@
           "Number": 3,
           "Pages": "pp. 179-181",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -1501,66 +2037,90 @@
           "Number": 4,
           "Pages": "pp. 186-188",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -1569,116 +2129,160 @@
           "Number": 5,
           "Pages": "pp. 196-200",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 17,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 18,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 19,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 20,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 21,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         }
@@ -1693,101 +2297,139 @@
           "Number": 1,
           "Pages": "pp. 209-211",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 17,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 18,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -1796,101 +2438,139 @@
           "Number": 2,
           "Pages": "pp. 218-220",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 17,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 18,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -1899,81 +2579,111 @@
           "Number": 3,
           "Pages": "pp. 227-229",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -1982,56 +2692,76 @@
           "Number": 4,
           "Pages": "pp. 236-237",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -2040,91 +2770,125 @@
           "Number": 5,
           "Pages": "pp. 241-242",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -2133,71 +2897,97 @@
           "Number": 6,
           "Pages": "pp. 248-250",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -2206,51 +2996,69 @@
           "Number": 7,
           "Pages": "pp. 257-259",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         }
@@ -2265,116 +3073,160 @@
           "Number": 1,
           "Pages": "pp. 268-270",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 17,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 18,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 19,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 20,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 21,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -2383,66 +3235,90 @@
           "Number": 2,
           "Pages": "pp. 277-278",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -2451,86 +3327,118 @@
           "Number": 3,
           "Pages": "pp. 284-286",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -2539,91 +3447,125 @@
           "Number": 4,
           "Pages": "pp. 293-295",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -2632,56 +3574,76 @@
           "Number": 5,
           "Pages": "pp. 300-301",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         }
@@ -2696,86 +3658,118 @@
           "Number": 1,
           "Pages": "pp. 309-311",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -2784,96 +3778,132 @@
           "Number": 2,
           "Pages": "pp. 317-319",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 17,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -2882,91 +3912,125 @@
           "Number": 3,
           "Pages": "pp. 324-326",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -2975,106 +4039,146 @@
           "Number": 4,
           "Pages": "pp. 331-333",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 17,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 18,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 19,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -3083,81 +4187,111 @@
           "Number": 5,
           "Pages": "pp. 339-341",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         }
@@ -3172,106 +4306,146 @@
           "Number": 1,
           "Pages": "pp. 349-351",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 17,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 18,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 19,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -3280,116 +4454,160 @@
           "Number": 2,
           "Pages": "pp. 360-362",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 14,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 15,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 16,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 17,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 18,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 19,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 20,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 21,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -3398,76 +4616,104 @@
           "Number": 3,
           "Pages": "pp. 366-368",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 13,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -3476,71 +4722,97 @@
           "Number": 4,
           "Pages": "pp. 372-373",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 7,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 8,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 9,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 10,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 11,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 12,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         },
@@ -3549,41 +4821,55 @@
           "Number": 5,
           "Pages": "pp. 377-378",
           "SessionNum": 0,
-          "Problems": [
+          "Cards": [
             {
               "Number": 0,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 1,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 2,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 3,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 4,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 5,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             },
             {
               "Number": 6,
               "Deck": 0,
-              "TimesReviewed": 0
+              "CardType": 0,
+              "TimesReviewed": 0,
+              "Text": null
             }
           ]
         }
