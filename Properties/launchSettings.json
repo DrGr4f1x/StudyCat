@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StudyCat": {
+      "commandName": "Project",
+      "commandLineArgs": "make -p D:\\Depot\\StudyCat\\Books\\TransitionToAdvancedMath"
+    }
+  }
+}

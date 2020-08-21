@@ -41,76 +41,29 @@ namespace StudyCat
         public string Text { get; set; }
     }
 
-    public class Section
+
+    public class CardSection : IPostLoad
     {
         private List<Card> m_cards = new List<Card>();
 
-        public string Title { get; set; }
-        public int Number { get; set; }
-        public string Pages { get; set; }
-        public int SessionNum { get; set; }
+        // Public chapter/section info properties
+        public string ChapterTitle { get; set; }
+        public int ChapterNumber { get; set; }
+        public string SectionTitle { get; set; }
+        public int SectionNumber { get; set; }
+
+        // Public study session properties
+        public int SessionNumber { get; set; } = -1;
+        public DateTime LastReviewDate { get; set; }
+
+        // Cards
         public List<Card> Cards
         {
             get { return m_cards; }
             set { m_cards = value; }
         }
-    }
 
-    public class Chapter
-    {
-        private List<Section> m_sections = new List<Section>();
-
-        public string Title { get; set; }
-        public int Number { get; set; }
-        public List<Section> Sections
-        {
-            get { return m_sections; }
-            set { m_sections = value; }
-        }
-
-        public bool AddCard(Card card, int iSection)
-        {
-            foreach (var section in Sections)
-            {
-                if (section.Number == iSection)
-                {
-                    section.Cards.Add(card);
-                    return true;
-                }
-            }
-
-            return false;
-        }
-    }
-    public class Book : IPostLoad
-    {
-        private List<Chapter> m_chapters = new List<Chapter>();
-
-        public string Title { get; set; }
-        public string Authors { get; set; }
-        public string Publisher { get; set; }
-        public string Year { get; set; }
-        public List<Chapter> Chapters
-        {
-            get { return m_chapters; }
-            set { m_chapters = value; }
-        }
-
+        // IPostLoad implementation
         public void PostLoad() { }
-
-        public bool AddCard(Card card, int iChapter, int iSection)
-        {
-            bool bCardAdded = false;
-
-            foreach (var chapter in Chapters)
-            {
-                if (chapter.Number == iChapter)
-                {
-                    bCardAdded = chapter.AddCard(card, iSection);
-                    break;
-                }
-            }
-            return bCardAdded;
-        }
     }
 }

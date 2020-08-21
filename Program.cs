@@ -58,6 +58,16 @@ namespace StudyCat
         public string Text { get; set; }
     }
 
+    public class Base
+    {
+        public string FieldA { get; set; } = "Base.FieldA";
+    }
+
+    public class Derived : Base
+    {
+        public string FieldB { get; set; } = "Derived.FieldB";
+    }
+
     class Program
     {
         static JsonSerializerOptions GetJsonSerializerOptions()
@@ -130,6 +140,13 @@ namespace StudyCat
             return obj;
         }
 
+        static CardSection LoadSection(string path, int chapterNumber, int sectionNumber)
+        {
+            string filename = string.Format("Section.{0}.{1}.json", chapterNumber, sectionNumber);
+
+            return Load<CardSection>(path + "\\" + filename);
+        }
+
         static int Save<T>(string filepath, T obj, bool promptForOverwrite = true) where T : class
         {
             if (promptForOverwrite && File.Exists(filepath))
@@ -152,47 +169,6 @@ namespace StudyCat
             }
 
             return 0;
-        }
-
-        static Book GenerateFromDesc(BookDesc bookDesc)
-        {
-            Book book = new Book();
-            book.Authors = bookDesc.Authors;
-            book.Title = bookDesc.Title;
-            book.Year = bookDesc.Year;
-            book.Publisher = bookDesc.Publisher;
-
-            foreach (var chapterDesc in bookDesc.Chapters)
-            {
-                Chapter chapter = new Chapter();
-                chapter.Title = chapterDesc.Title;
-                chapter.Number = chapterDesc.Number;
-
-                foreach (var sectionDesc in chapterDesc.Sections)
-                {
-                    Section section = new Section();
-                    section.Title = sectionDesc.Title;
-                    section.Number = sectionDesc.Number;
-                    section.Pages = sectionDesc.Pages;
-                    section.SessionNum = 0;
-
-                    for(int i = 0; i < sectionDesc.NumProblems; ++i)
-                    {
-                        Card card = new Card();
-                        card.Number = i;
-                        card.Deck = Deck.Current;
-                        card.CardType = CardType.Problem;
-                        card.TimesReviewed = 0;
-                        section.Cards.Add(card);
-                    }
-
-                    chapter.Sections.Add(section);
-                }
-
-                book.Chapters.Add(chapter);
-            }
-
-            return book;
         }
 
         static int RunNewAndReturnExitCode(NewBookOptions opts)
@@ -275,11 +251,42 @@ namespace StudyCat
                 return 1;
             }
 
-            // Construct a book from the book desc
-            Book book = GenerateFromDesc(bookDesc);
+            // Emit CardSections for each section in the BookDesc
+            foreach (var chapter in bookDesc.Chapters)
+            {
+                foreach (var section in chapter.Sections)
+                {
+                    CardSection cardSection = new CardSection();
+                    cardSection.ChapterTitle = chapter.Title;
+                    cardSection.ChapterNumber = chapter.Number;
+                    cardSection.SectionTitle = section.Title;
+                    cardSection.SectionNumber = section.Number;
+                    cardSection.LastReviewDate = DateTime.Now;
 
-            // Save the Book
-            return Save<Book>(opts.Path.FullName + "\\cardset.json", book);
+                    // Add problems
+                    for (int i = 0; i < section.NumProblems; ++i)
+                    {
+                        Card card = new Card();
+                        card.Number = (i + 1);
+                        cardSection.Cards.Add(card);
+                    }
+
+                    // Add additional cards
+                    foreach (var card in section.AdditionalCards)
+                    {
+                        cardSection.Cards.Add(card);
+                    }
+
+                    string filename = string.Format("Section.{0}.{1}.json", cardSection.ChapterNumber, cardSection.SectionNumber);
+                    int ret = Save<CardSection>(opts.Path.FullName + "\\" + filename, cardSection);
+                    if (ret != 0)
+                    {
+                        return ret;
+                    }
+                }
+            }
+
+            return 0;
         }
 
         static int RunAddAndReturnExitCode(AddCardOptions opts)
@@ -297,13 +304,14 @@ namespace StudyCat
             }
 
             var bookDesc = Load<BookDesc>(opts.Path.FullName + "\\book.json");
-            var book = Load<Book>(opts.Path.FullName + "\\cardset.json");
+            var cardSection = LoadSection(opts.Path.FullName, opts.Chapter, opts.Section);
 
             Card card = bookDesc.AddCard(type, opts.Chapter, opts.Section, opts.Text);
-            if (card != null && book != null)
+            if (card != null && cardSection != null)
             {
-                book.AddCard(card, opts.Chapter, opts.Section);
-                Save<Book>(opts.Path.FullName + "\\cardset.json", book, false);
+                cardSection.Cards.Add(card);
+                string filename = string.Format("Section.{0}.{1}.json", cardSection.ChapterNumber, cardSection.SectionNumber);
+                Save<CardSection>(opts.Path.FullName + "\\" + filename, cardSection);
             }
             else if (card == null)
             {
