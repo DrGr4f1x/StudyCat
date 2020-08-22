@@ -8,8 +8,14 @@ using System.IO;
 
 namespace StudyCat
 {
+    class PathOption
+    {
+        [Option("path", HelpText = "Directory of the book.")]
+        public DirectoryInfo Path { get; set; } = new DirectoryInfo(".");
+    }
+
     [Verb("new", HelpText = "Make a new book desc.  You fill in the details to generate a card set for the book.")]
-    class NewBookOptions
+    class NewBookOptions : PathOption
     {
         [Option('t', "title", HelpText="Book title.")]
         public string Title { get; set; }
@@ -25,30 +31,21 @@ namespace StudyCat
 
         [Option('c', "chapters", HelpText="Number of chapters.")]
         public int NumChapters { get; set; }
-
-        [Option("path", HelpText="Directory in which to put the generated book desc file.")]
-        public DirectoryInfo Path { get; set; }
     }
 
     [Verb("list", HelpText = "Prints information about the book.")]
-    class ListBookOptions
+    class ListBookOptions : PathOption
     {
-        [Option('p', "path", HelpText = "Directory of the book whose contents we are listing.")]
-        public DirectoryInfo Path { get; set; }
     }
 
     [Verb("make", HelpText="Makes a new set of cards from an existing book desc.")]
-    class MakeCardsOptions
+    class MakeCardsOptions : PathOption
     {
-        [Option('p', "path", HelpText = "Directory in which to put the generated book desc file.")]
-        public DirectoryInfo Path { get; set; }
     }
 
     [Verb("add", HelpText="Adds a new card to a book, in the specified chapter and section.")]
-    class AddCardOptions
+    class AddCardOptions : PathOption
     {
-        [Option('p', "path", HelpText = "Directory in which to add the new card.")]
-        public DirectoryInfo Path { get; set; }
         [Option('c', "chapter", HelpText = "Chapter in which to insert the new card.")]
         public int Chapter { get; set; }
         [Option('s', "section", HelpText = "Section in which to insert the new card.")]
@@ -60,10 +57,8 @@ namespace StudyCat
     }
 
     [Verb("study", HelpText="Runs a study session.")]
-    class StudyOptions
+    class StudyOptions : PathOption
     {
-        [Option('p', "path", HelpText = "Directory of the cards to study.")]
-        public DirectoryInfo Path { get; set; }
         [Option('s', "section", Required = true, HelpText = "Sections to be studied.")]
         public IEnumerable<string> Sections { get; set; }
         [Option("serial", Default = false, HelpText = "Presents the cards in serial order (no randomization).")]
@@ -216,7 +211,7 @@ namespace StudyCat
             {
                 cardSection.Cards.Add(card);
                 string filename = string.Format("Section.{0}.{1}.json", cardSection.ChapterNumber, cardSection.SectionNumber);
-                Utils.Save<CardSection>(opts.Path.FullName + "\\" + filename, cardSection);
+                Utils.Save<CardSection>(opts.Path.FullName + "\\" + filename, cardSection, false);
             }
             else if (card == null)
             {

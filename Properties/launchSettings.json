@@ -2,7 +2,8 @@
   "profiles": {
     "StudyCat": {
       "commandName": "Project",
-      "commandLineArgs": "make -p D:\\Depot\\StudyCat\\Books\\TransitionToAdvancedMath"
+      "commandLineArgs": "add -t Theorem -c 2 -s 3 --text \"Basic Limit Laws\"",
+      "workingDirectory": "D:\\Depot\\StudyCat\\Books\\CalculusRogawski"
     }
   }
 }
