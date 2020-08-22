@@ -35,7 +35,15 @@
           "Number": 3,
           "Pages": "pp. 58-59",
           "NumProblems": 42,
-          "AdditionalCards": []
+          "AdditionalCards": [
+            {
+              "Number": 1,
+              "Deck": 0,
+              "CardType": 2,
+              "TimesReviewed": 0,
+              "Text": "Basic Limit Laws"
+            }
+          ]
         },
         {
           "Title": "Limits and Continuity",
