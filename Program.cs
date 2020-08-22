@@ -1,9 +1,10 @@
 ﻿using CommandLine;
 using CommandLine.Text;
 using System;
+using System.Collections;
+using System.Collections.Generic;
 using System.IO;
-using System.Text.Json;
-using System.Text.Json.Serialization;
+
 
 namespace StudyCat
 {
@@ -58,119 +59,23 @@ namespace StudyCat
         public string Text { get; set; }
     }
 
-    public class Base
+    [Verb("study", HelpText="Runs a study session.")]
+    class StudyOptions
     {
-        public string FieldA { get; set; } = "Base.FieldA";
-    }
-
-    public class Derived : Base
-    {
-        public string FieldB { get; set; } = "Derived.FieldB";
+        [Option('p', "path", HelpText = "Directory of the cards to study.")]
+        public DirectoryInfo Path { get; set; }
+        [Option('s', "section", Required = true, HelpText = "Sections to be studied.")]
+        public IEnumerable<string> Sections { get; set; }
+        [Option("serial", Default = false, HelpText = "Presents the cards in serial order (no randomization).")]
+        public bool IsSerial { get; set; }
+        [Option("simulate", Default = false, HelpText = "Runs a simulated study session, but doesn't update anything.")]
+        public bool IsSimulating { get; set; }
+        [Option('t', "types", Default = "all", HelpText = "Specifies the card types to study.")]
+        public string Types { get; set; }
     }
 
     class Program
     {
-        static JsonSerializerOptions GetJsonSerializerOptions()
-        {
-            var options = new JsonSerializerOptions
-            {
-                AllowTrailingCommas = true,
-                WriteIndented = true
-            };
-            return options;
-        }
-
-        static bool PromptForFileOverwrite(string filename)
-        {
-            bool bOverwriteFile = true;
-
-            bool bValidChoice = false;
-            while (!bValidChoice)
-            {
-                Console.Write("The file {0} already exists.  Overwrite it?  [Y]es, [N]o, [Q]uit: ", filename);
-                string val = Console.ReadLine();
-                if (val == "Y" || val == "y")
-                {
-                    bValidChoice = true;
-                }
-                else if (val == "N" || val == "n")
-                {
-                    bValidChoice = true;
-                    bOverwriteFile = false;
-                }
-                else if (val == "Q" || val == "q")
-                {
-                    bValidChoice = true;
-                    bOverwriteFile = false;
-                    break;
-                }
-                else
-                {
-                    Console.WriteLine("Input {0} is not valid", val);
-                }
-            }
-
-            return bOverwriteFile;
-        }
-
-        static T Load<T>(string filepath) where T : class, IPostLoad
-        {
-            T obj = null;
-
-            // Try to deserialize the T object
-            if (File.Exists(filepath))
-            {
-                try
-                {
-                    string jsonString = File.ReadAllText(filepath);
-                    obj = JsonSerializer.Deserialize<T>(jsonString, GetJsonSerializerOptions());
-
-                    obj.PostLoad();
-                }
-                catch
-                {
-                    Console.WriteLine("ERROR: Failed to load input file {0}", filepath);
-                }
-            }
-            else
-            {
-                Console.WriteLine("ERROR: Input file {0} does not exist.  Exiting.", filepath);
-            }
-
-            return obj;
-        }
-
-        static CardSection LoadSection(string path, int chapterNumber, int sectionNumber)
-        {
-            string filename = string.Format("Section.{0}.{1}.json", chapterNumber, sectionNumber);
-
-            return Load<CardSection>(path + "\\" + filename);
-        }
-
-        static int Save<T>(string filepath, T obj, bool promptForOverwrite = true) where T : class
-        {
-            if (promptForOverwrite && File.Exists(filepath))
-            {
-                if (!PromptForFileOverwrite(filepath))
-                {
-                    return 1;
-                }
-            }
-
-            try
-            {
-                string jsonString = JsonSerializer.Serialize<T>(obj, GetJsonSerializerOptions());
-                File.WriteAllText(filepath, jsonString);
-            }
-            catch
-            {
-                Console.WriteLine("ERROR: Failed to save to output file {0}", filepath);
-                return 1;
-            }
-
-            return 0;
-        }
-
         static int RunNewAndReturnExitCode(NewBookOptions opts)
         {
             // Create a stubbed-out book desc that the user can fill in
@@ -208,12 +113,12 @@ namespace StudyCat
             }
 
             // Serialize the book desc
-            return Save<BookDesc>(opts.Path.FullName + "\\book.json", desc);
+            return Utils.Save<BookDesc>(opts.Path.FullName + "\\book.json", desc);
         }
 
         static int RunListAndReturnExitCode(ListBookOptions opts)
         {
-            var bookDesc = Load<BookDesc>(opts.Path.FullName + "\\book.json");
+            var bookDesc = Utils.Load<BookDesc>(opts.Path.FullName + "\\book.json");
             if (bookDesc == null)
             {
                 return 1;
@@ -245,7 +150,7 @@ namespace StudyCat
         static int RunMakeAndReturnExitCode(MakeCardsOptions opts)
         {
             // Load the BookDesc
-            var bookDesc = Load<BookDesc>(opts.Path.FullName + "\\book.json");
+            var bookDesc = Utils.Load<BookDesc>(opts.Path.FullName + "\\book.json");
             if (bookDesc == null)
             {
                 return 1;
@@ -278,7 +183,7 @@ namespace StudyCat
                     }
 
                     string filename = string.Format("Section.{0}.{1}.json", cardSection.ChapterNumber, cardSection.SectionNumber);
-                    int ret = Save<CardSection>(opts.Path.FullName + "\\" + filename, cardSection);
+                    int ret = Utils.Save<CardSection>(opts.Path.FullName + "\\" + filename, cardSection);
                     if (ret != 0)
                     {
                         return ret;
@@ -303,15 +208,15 @@ namespace StudyCat
                 return 1;
             }
 
-            var bookDesc = Load<BookDesc>(opts.Path.FullName + "\\book.json");
-            var cardSection = LoadSection(opts.Path.FullName, opts.Chapter, opts.Section);
+            var bookDesc = Utils.Load<BookDesc>(opts.Path.FullName + "\\book.json");
+            var cardSection = Utils.LoadSection(opts.Path.FullName, opts.Chapter, opts.Section);
 
             Card card = bookDesc.AddCard(type, opts.Chapter, opts.Section, opts.Text);
             if (card != null && cardSection != null)
             {
                 cardSection.Cards.Add(card);
                 string filename = string.Format("Section.{0}.{1}.json", cardSection.ChapterNumber, cardSection.SectionNumber);
-                Save<CardSection>(opts.Path.FullName + "\\" + filename, cardSection);
+                Utils.Save<CardSection>(opts.Path.FullName + "\\" + filename, cardSection);
             }
             else if (card == null)
             {
@@ -319,17 +224,24 @@ namespace StudyCat
                 return 1;
             }
 
-            return Save<BookDesc>(opts.Path.FullName + "\\book.json", bookDesc, false);
+            return Utils.Save<BookDesc>(opts.Path.FullName + "\\book.json", bookDesc, false);
+        }
+
+        static int RunStudyAndReturnExitCode(StudyOptions opts)
+        {
+            SessionManager manager = new SessionManager();
+            return manager.Run(opts.Path.FullName, opts.Sections, opts.IsSerial, opts.IsSimulating, opts.Types);
         }
 
         static int Main(string[] args)
         {
-            return CommandLine.Parser.Default.ParseArguments<NewBookOptions, ListBookOptions, MakeCardsOptions, AddCardOptions>(args)
+            return CommandLine.Parser.Default.ParseArguments<NewBookOptions, ListBookOptions, MakeCardsOptions, AddCardOptions, StudyOptions>(args)
                 .MapResult(
                     (NewBookOptions opts) => RunNewAndReturnExitCode(opts),
                     (ListBookOptions opts) => RunListAndReturnExitCode(opts),
                     (MakeCardsOptions opts) => RunMakeAndReturnExitCode(opts),
                     (AddCardOptions opts) => RunAddAndReturnExitCode(opts),
+                    (StudyOptions opts) => RunStudyAndReturnExitCode(opts),
                     errs => 1
                 );
         }
