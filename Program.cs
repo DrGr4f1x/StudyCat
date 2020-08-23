@@ -46,10 +46,8 @@ namespace StudyCat
     [Verb("add", HelpText="Adds a new card to a book, in the specified chapter and section.")]
     class AddCardOptions : PathOption
     {
-        [Option('c', "chapter", HelpText = "Chapter in which to insert the new card.")]
-        public int Chapter { get; set; }
-        [Option('s', "section", HelpText = "Section in which to insert the new card.")]
-        public int Section { get; set; }
+        [Option('s', "section", Required = true, HelpText = "Section in which to insert the new card.  Format is M.N for chapter M, section N.")]
+        public string Section { get; set; }
         [Option('t', "type", Required = true, HelpText ="Card type (Definition, Theorem, Lemma, Note, or Algorithm.")]
         public string Type { get; set; }
         [Option("text", Required = true, HelpText = "Card text.")]
@@ -203,10 +201,12 @@ namespace StudyCat
                 return 1;
             }
 
-            var bookDesc = Utils.Load<BookDesc>(opts.Path.FullName + "\\book.json");
-            var cardSection = Utils.LoadSection(opts.Path.FullName, opts.Chapter, opts.Section);
+            ChapterSectionPair pair = Utils.ParseChapterSection(opts.Section);
 
-            Card card = bookDesc.AddCard(type, opts.Chapter, opts.Section, opts.Text);
+            var bookDesc = Utils.Load<BookDesc>(opts.Path.FullName + "\\book.json");
+            var cardSection = Utils.LoadSection(opts.Path.FullName, pair.chapter, pair.section);
+
+            Card card = bookDesc.AddCard(type, pair.chapter, pair.section, opts.Text);
             if (card != null && cardSection != null)
             {
                 cardSection.Cards.Add(card);
@@ -215,7 +215,7 @@ namespace StudyCat
             }
             else if (card == null)
             {
-                Console.WriteLine("Failed to add card.  Chapter {0} or Section {1} is invalid.", opts.Chapter, opts.Section);
+                Console.WriteLine("Failed to add card.  Chapter {0} or Section {1} is invalid.", pair.chapter, pair.section);
                 return 1;
             }
 

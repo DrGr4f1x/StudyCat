@@ -65,5 +65,10 @@ namespace StudyCat
 
         // IPostLoad implementation
         public void PostLoad() { }
+
+        public string GetDesc()
+        {
+            return string.Format("{0}.{1} - {2} - {3}", ChapterNumber, SectionNumber, ChapterTitle, SectionTitle);
+        }
     }
 }

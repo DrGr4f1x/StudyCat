@@ -7,6 +7,12 @@ using System.Text.Json.Serialization;
 
 namespace StudyCat
 {
+    struct ChapterSectionPair
+    {
+        public int chapter;
+        public int section;
+    }
+
     class Utils
     {
         static JsonSerializerOptions GetJsonSerializerOptions()
@@ -108,6 +114,26 @@ namespace StudyCat
             }
 
             return 0;
+        }
+
+        public static ChapterSectionPair ParseChapterSection(string str)
+        {
+            ChapterSectionPair pair;
+            pair.chapter = -1;
+            pair.section = -1;
+
+            string[] strs = str.Split('.');
+            if (strs.Length == 1)
+            {
+                pair.chapter = int.Parse(strs[0]);
+            }
+            else if (strs.Length >= 2)
+            {
+                pair.chapter = int.Parse(strs[0]);
+                pair.section = int.Parse(strs[1]);
+            }
+
+            return pair;
         }
 
         public static bool DeckMatchesSession(Deck deck, int session)

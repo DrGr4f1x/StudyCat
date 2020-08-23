@@ -6,16 +6,79 @@ using System.Text;
 
 namespace StudyCat
 {
-    struct ChapterSectionPair
+    class CardTypeStats
     {
-        public int chapter;
-        public int section;
+        public int NumberStudied { get; set; } = 0;
+        public int NumberCorrect { get; set; } = 0;
+        public int NumberIncorrect
+        {
+            get { return NumberStudied - NumberCorrect; }
+        }
+    }
+
+    class SessionStats
+    {
+        private List<CardTypeStats> m_stats = new List<CardTypeStats>();
+
+        public int NumberCardsStudied
+        {
+            get
+            {
+                int total = 0;
+                for(int i = 0; i < (int)CardType.Max; ++i)
+                {
+                    total += m_stats[i].NumberStudied;
+                }
+                return total;
+            }
+        }
+
+        public SessionStats()
+        {
+            for (int i = 0; i < (int)CardType.Max; ++i)
+            {
+                m_stats.Add(new CardTypeStats());
+            }
+        }
+
+        public CardTypeStats CardStats(CardType type)
+        {
+            return m_stats[(int)type];
+        }
+
+        public void PrintStats()
+        {
+            for (int i = 0; i < (int)CardType.Max; ++i)
+            {
+                var stats = m_stats[i];
+                if (stats.NumberStudied > 0)
+                {
+                    string cardStr = stats.NumberStudied > 1 ? "cards" : "card";
+                    if (stats.NumberStudied == stats.NumberCorrect)
+                    {
+                        Console.WriteLine("  {0} {1} {2} studied, all correct.", stats.NumberStudied, ((CardType)i).ToString(), cardStr);
+                    }
+                    else
+                    {
+                        Console.WriteLine(
+                            "  {0} {1} {2} cards studied, {3} correct, {4} incorrect.", 
+                            stats.NumberStudied, 
+                            ((CardType)i).ToString(), 
+                            cardStr,
+                            stats.NumberCorrect, 
+                            stats.NumberIncorrect);
+                    }
+                }
+            }
+            Console.WriteLine();
+        }
     }
 
     class ReviewCard
     {
         public CardSection CardSection { get; set; }
         public Card Card { get; set; }
+        public CardTypeStats Stats { get; set; }
     }
 
     class SessionManager
@@ -39,12 +102,7 @@ namespace StudyCat
         {
             bool bQuit = false;
 
-            Console.WriteLine(
-                "{0}.{1} - {2} - {3}", 
-                card.CardSection.ChapterNumber, 
-                card.CardSection.SectionNumber, 
-                card.CardSection.ChapterTitle, 
-                card.CardSection.SectionTitle);
+            Console.WriteLine(card.CardSection.GetDesc());
 
             if (card.Card.CardType == CardType.Problem)
             {
@@ -63,11 +121,16 @@ namespace StudyCat
                 string val = Console.ReadLine();
                 if (val == "Y" || val == "y")
                 {
+                    card.Stats.NumberStudied += 1;
+                    card.Stats.NumberCorrect += 1;
+
                     bValidInput = true;
                     bCorrect = true;
                 }
                 else if (val == "N" || val == "n")
                 {
+                    card.Stats.NumberStudied += 1;
+
                     bValidInput = true;
                     bCorrect = false;
                 }
@@ -83,7 +146,12 @@ namespace StudyCat
                 }
             }
 
-            if(!bQuit && !isSimulating)
+            // Update the card's review count if we aren't quitting
+            if (!bQuit)
+                card.Card.TimesReviewed += 1;
+
+            // Update the card's deck, if we aren't quitting or simulating
+            if (!bQuit && !isSimulating)
             {
                 if(bCorrect)
                 {
@@ -110,22 +178,8 @@ namespace StudyCat
             // Parse the requested sections
             foreach (var sectionStr in sections)
             {
-                ChapterSectionPair pair;
-                string[] strs = sectionStr.Split('.');
-                if (strs.Length == 1)
-                {
-                    pair.chapter = int.Parse(strs[0]);
-                    pair.section = -1;
-
-                    m_chapterSections.Add(pair);
-                }
-                else if (strs.Length >= 2)
-                {
-                    pair.chapter = int.Parse(strs[0]);
-                    pair.section = int.Parse(strs[1]);
-
-                    m_chapterSections.Add(pair);
-                }
+                ChapterSectionPair pair = Utils.ParseChapterSection(sectionStr);
+                m_chapterSections.Add(pair);
             }
 
             if (m_chapterSections.Count == 0)
@@ -195,7 +249,7 @@ namespace StudyCat
                 }
             }
 
-            if(filesToOpen.Count == 0)
+            if (filesToOpen.Count == 0)
             {
                 Console.WriteLine("ERROR: Failed to find any section files to open.");
                 return 1;
@@ -221,13 +275,19 @@ namespace StudyCat
                 return 1;
             }
 
+            List<SessionStats> sessionStatsList = new List<SessionStats>();
+
             // Load cards into the base list
             DateTime now = DateTime.Now;
 
             foreach(var cardSection in m_cardSections)
             {
+                // Track statistics
+                SessionStats sessionStats = new SessionStats();
+                sessionStatsList.Add(sessionStats);
+
+                // Determine whether to advance the session counter
                 TimeSpan elapsed = now - cardSection.LastReviewDate;
-                
                 if (elapsed.Days > 0)
                 {
                     cardSection.SessionNumber = (cardSection.SessionNumber + 1) % 10;
@@ -240,6 +300,7 @@ namespace StudyCat
                         ReviewCard revCard = new ReviewCard();
                         revCard.Card = card;
                         revCard.CardSection = cardSection;
+                        revCard.Stats = sessionStats.CardStats(card.CardType);
                         m_cardList.Add(revCard);
                     }
                 }
@@ -272,13 +333,27 @@ namespace StudyCat
             }
 
             // Save the results
-            if (!isSimulating)
+            int sectionIndex = 0;
+            foreach (var cardSection in m_cardSections)
             {
-                foreach(var cardSection in m_cardSections)
+                if (!isSimulating)
                 {
                     string filename = string.Format("Section.{0}.{1}.json", cardSection.ChapterNumber, cardSection.SectionNumber);
                     Utils.Save<CardSection>(path + "\\" + filename, cardSection, false);
                 }
+
+                Console.WriteLine("Stats for {0}", cardSection.GetDesc());
+                var sessionStats = sessionStatsList[sectionIndex];
+                if (sessionStats.NumberCardsStudied == 0)
+                {
+                    Console.WriteLine("  No cards studied.\n");
+                }
+                else
+                {
+                    sessionStats.PrintStats();
+                }
+
+                ++sectionIndex;
             }
 
             return 0;
