@@ -65,6 +65,8 @@ namespace StudyCat
         public bool IsSimulating { get; set; }
         [Option('t', "types", Default = "all", HelpText = "Specifies the card types to study.")]
         public string Types { get; set; }
+        [Option('n', "number", Default = 0, HelpText = "The number of items to study.")]
+        public int Number { get; set; }
     }
 
     class Program
@@ -225,7 +227,7 @@ namespace StudyCat
         static int RunStudyAndReturnExitCode(StudyOptions opts)
         {
             SessionManager manager = new SessionManager();
-            return manager.Run(opts.Path.FullName, opts.Sections, opts.IsSerial, opts.IsSimulating, opts.Types);
+            return manager.Run(opts.Path.FullName, opts.Sections, opts.IsSerial, opts.IsSimulating, opts.Types, opts.Number);
         }
 
         static int Main(string[] args)

@@ -173,7 +173,7 @@ namespace StudyCat
             return bQuit;
         }
 
-        public int Run(string path, IEnumerable<string> sections, bool isSerial, bool isSimulating, string types)
+        public int Run(string path, IEnumerable<string> sections, bool isSerial, bool isSimulating, string types, int number)
         {
             // Parse the requested sections
             foreach (var sectionStr in sections)
@@ -309,9 +309,16 @@ namespace StudyCat
             // Run the study session
             bool bQuit = false;
             int currentCard = 0;
+            int currentCardAbs = 0;
             
             while (!bQuit)
             {
+                if (number > 0 && currentCardAbs >= number)
+                {
+                    bQuit = true;
+                    break;
+                }
+
                 // Randomize if necessary
                 if (currentCard == 0 && !isSerial)
                 {
@@ -326,14 +333,18 @@ namespace StudyCat
                 }
 
                 // Present card and handle user input
+                if (number > 0)
+                    Console.WriteLine("Item {0}/{1}:", currentCardAbs + 1, number);
                 bQuit = PresentCard(m_cardList[currentCard], isSimulating);
 
                 // Advance to the next card
                 currentCard = (currentCard + 1) % m_cardList.Count;
+                currentCardAbs += 1;
             }
 
             // Save the results
             int sectionIndex = 0;
+            Console.WriteLine();
             foreach (var cardSection in m_cardSections)
             {
                 if (!isSimulating)
