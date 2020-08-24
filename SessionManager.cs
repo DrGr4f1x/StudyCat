@@ -335,6 +335,9 @@ namespace StudyCat
                 // Present card and handle user input
                 if (number > 0)
                     Console.WriteLine("Item {0}/{1}:", currentCardAbs + 1, number);
+                else
+                    Console.WriteLine("Item {0}", currentCardAbs);
+
                 bQuit = PresentCard(m_cardList[currentCard], isSimulating);
 
                 // Advance to the next card
