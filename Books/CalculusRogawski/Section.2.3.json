@@ -3,7 +3,7 @@
   "ChapterNumber": 2,
   "SectionTitle": "Basic Limit Laws",
   "SectionNumber": 3,
-  "SessionNumber": 2,
+  "SessionNumber": 3,
   "LastReviewDate": "2020-08-20T21:04:29.4961142-07:00",
   "Cards": [
     {
@@ -71,9 +71,9 @@
     },
     {
       "Number": 10,
-      "Deck": 0,
+      "Deck": 4,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -127,9 +127,9 @@
     },
     {
       "Number": 18,
-      "Deck": 0,
+      "Deck": 4,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -211,9 +211,9 @@
     },
     {
       "Number": 30,
-      "Deck": 0,
+      "Deck": 4,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -241,14 +241,14 @@
       "Number": 34,
       "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 35,
       "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -267,9 +267,9 @@
     },
     {
       "Number": 38,
-      "Deck": 0,
+      "Deck": 4,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -297,14 +297,14 @@
       "Number": 42,
       "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 1,
-      "Deck": 0,
+      "Deck": 4,
       "CardType": 2,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": "Basic Limit Laws"
     }
   ]
