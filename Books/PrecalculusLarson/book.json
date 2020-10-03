@@ -1,0 +1,614 @@
+{
+  "Title": "Precalculus",
+  "Authors": "Larson, Ron",
+  "Publisher": "Cengage Learning",
+  "Year": "2018",
+  "Chapters": [
+    {
+      "Title": "Functions and Their Graphs",
+      "Number": 1,
+      "Sections": [
+        {
+          "Title": "Rectangular Coordinates",
+          "Number": 1,
+          "Pages": "pp. 8-10",
+          "NumProblems": 60,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Graphs of Equations",
+          "Number": 2,
+          "Pages": "pp. 19-21",
+          "NumProblems": 91,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Linear Equations in Two Variables",
+          "Number": 3,
+          "Pages": "pp. 31-34",
+          "NumProblems": 114,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Functions",
+          "Number": 4,
+          "Pages": "pp. 44-48",
+          "NumProblems": 94,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Analyzing Graphs of Functions",
+          "Number": 5,
+          "Pages": "pp. 56-59",
+          "NumProblems": 99,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "A Library of Parent Functions",
+          "Number": 6,
+          "Pages": "pp. 65-66",
+          "NumProblems": 50,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Transformations of Functions",
+          "Number": 7,
+          "Pages": "pp. 72-75",
+          "NumProblems": 72,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Combinations of Functions: Composite Functions",
+          "Number": 8,
+          "Pages": "pp. 81-83",
+          "NumProblems": 73,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Inverse Functions",
+          "Number": 9,
+          "Pages": "pp. 90-92",
+          "NumProblems": 102,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Mathematical Modeling and Variation",
+          "Number": 10,
+          "Pages": "pp. 100-103",
+          "NumProblems": 79,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Exercises",
+          "Number": 11,
+          "Pages": "pp. 106-108",
+          "NumProblems": 91,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Polynomial and Rational Functions",
+      "Number": 2,
+      "Sections": [
+        {
+          "Title": "Quadratic Functions and Models",
+          "Number": 1,
+          "Pages": "pp. 120-122",
+          "NumProblems": 81,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Polynomial Functions of Higher Degree",
+          "Number": 2,
+          "Pages": "pp. 132-135",
+          "NumProblems": 107,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Polynomial and Synthetic Division",
+          "Number": 3,
+          "Pages": "pp. 142-144",
+          "NumProblems": 93,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Complex Numbers",
+          "Number": 4,
+          "Pages": "pp. 150-151",
+          "NumProblems": 97,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Zeros of Polynomial Functions",
+          "Number": 5,
+          "Pages": "pp. 162-165",
+          "NumProblems": 123,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Rational Functions",
+          "Number": 6,
+          "Pages": "pp. 175-177",
+          "NumProblems": 82,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Nonlinear Inequalities",
+          "Number": 7,
+          "Pages": "pp. 185-187",
+          "NumProblems": 90,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Exercises",
+          "Number": 8,
+          "Pages": "pp. 190-191",
+          "NumProblems": 68,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Exponential and Logarithmic Functions",
+      "Number": 3,
+      "Sections": [
+        {
+          "Title": "Exponential Functions and Their Graphs",
+          "Number": 1,
+          "Pages": "pp. 206-208",
+          "NumProblems": 80,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Logarithmic Functions and Their Graphs",
+          "Number": 2,
+          "Pages": "pp. 216-218",
+          "NumProblems": 92,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Properties of Logarithms",
+          "Number": 3,
+          "Pages": "pp. 223-225",
+          "NumProblems": 105,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Exponential and Logarithmic Equations",
+          "Number": 4,
+          "Pages": "pp. 233-235",
+          "NumProblems": 98,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Exponential and Logarithmic Models",
+          "Number": 5,
+          "Pages": "pp. 243-247",
+          "NumProblems": 65,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Exercises",
+          "Number": 6,
+          "Pages": "pp. 250-252",
+          "NumProblems": 118,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Trigonometry",
+      "Number": 4,
+      "Sections": [
+        {
+          "Title": "Radian and Degree Measurement",
+          "Number": 1,
+          "Pages": "pp. 267-269",
+          "NumProblems": 79,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Trigonometric Functions: The Unit Circle",
+          "Number": 2,
+          "Pages": "pp. 275-276",
+          "NumProblems": 62,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Right Angle Trigonometry",
+          "Number": 3,
+          "Pages": "pp. 284-287",
+          "NumProblems": 84,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Trigonometric Functions of Any Angle",
+          "Number": 4,
+          "Pages": "pp. 294-296",
+          "NumProblems": 106,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Graphs of Sine and Cosine Functions",
+          "Number": 5,
+          "Pages": "pp. 304-307",
+          "NumProblems": 95,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Graphs of Other Trigonometric Functions",
+          "Number": 6,
+          "Pages": "pp. 315-317",
+          "NumProblems": 94,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Inverse Trigonometric Functions",
+          "Number": 7,
+          "Pages": "pp. 324-327",
+          "NumProblems": 130,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Applications and Models",
+          "Number": 8,
+          "Pages": "pp. 334-337",
+          "NumProblems": 60,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Exercises",
+          "Number": 9,
+          "Pages": "pp. 340-342",
+          "NumProblems": 102,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Analytic Trigonometry",
+      "Number": 5,
+      "Sections": [
+        {
+          "Title": "Using Fundamental Identities",
+          "Number": 1,
+          "Pages": "pp. 353-354",
+          "NumProblems": 75,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Verifying Trigonometric Identities",
+          "Number": 2,
+          "Pages": "pp. 360-361",
+          "NumProblems": 70,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Solving Trigonometric Equations",
+          "Number": 3,
+          "Pages": "pp. 370-373",
+          "NumProblems": 103,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Sum and Difference Formulas",
+          "Number": 4,
+          "Pages": "pp. 378-380",
+          "NumProblems": 102,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Multiple-Angle and Product-to-Sum Formulas",
+          "Number": 5,
+          "Pages": "pp. 388-389",
+          "NumProblems": 77,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Exercises",
+          "Number": 6,
+          "Pages": "pp. 392-393",
+          "NumProblems": 85,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Additional Topics in Trigonometry",
+      "Number": 6,
+      "Sections": [
+        {
+          "Title": "Law of Sines",
+          "Number": 1,
+          "Pages": "pp. 406-408",
+          "NumProblems": 62,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Law of Cosines",
+          "Number": 2,
+          "Pages": "pp. 413-415",
+          "NumProblems": 67,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Vectors in the Plane",
+          "Number": 3,
+          "Pages": "pp. 425-428",
+          "NumProblems": 108,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Vectors and Dot Products",
+          "Number": 4,
+          "Pages": "pp. 435-437",
+          "NumProblems": 93,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Complex Plane",
+          "Number": 5,
+          "Pages": "pp. 443-444",
+          "NumProblems": 57,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Trigonometric Form of a Complex Number",
+          "Number": 6,
+          "Pages": "pp. 452-453",
+          "NumProblems": 101,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Exercises",
+          "Number": 7,
+          "Pages": "pp. 456-458",
+          "NumProblems": 135,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Systems of Equations and Inequalities",
+      "Number": 7,
+      "Sections": [
+        {
+          "Title": "Linear and Nonlinear Systems of Equations",
+          "Number": 1,
+          "Pages": "pp. 475-477",
+          "NumProblems": 71,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Two-Variable Linear Systems",
+          "Number": 2,
+          "Pages": "pp. 486-489",
+          "NumProblems": 70,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Multivariable Linear Systems",
+          "Number": 3,
+          "Pages": "pp. 498-501",
+          "NumProblems": 80,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Partial Fractions",
+          "Number": 4,
+          "Pages": "pp. 508-509",
+          "NumProblems": 66,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Systems of Inequalities",
+          "Number": 5,
+          "Pages": "pp. 517-519",
+          "NumProblems": 76,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Linear Programming",
+          "Number": 6,
+          "Pages": "pp. 526-528",
+          "NumProblems": 51,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Exercises",
+          "Number": 7,
+          "Pages": "pp. 531-534",
+          "NumProblems": 104,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Matrices and Determinants",
+      "Number": 8,
+      "Sections": [
+        {
+          "Title": "Matrices and Systems of Equations",
+          "Number": 1,
+          "Pages": "pp. 549-552",
+          "NumProblems": 100,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Operations with Matrices",
+          "Number": 2,
+          "Pages": "pp. 564-567",
+          "NumProblems": 92,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Inverse of a Square Matrix",
+          "Number": 3,
+          "Pages": "pp. 574-576",
+          "NumProblems": 75,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Determinant of a Square Matrix",
+          "Number": 4,
+          "Pages": "pp. 582-584",
+          "NumProblems": 103,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Applications of Matrices and Determinants",
+          "Number": 5,
+          "Pages": "pp. 595-597",
+          "NumProblems": 68,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Exercises",
+          "Number": 6,
+          "Pages": "pp. 600-603",
+          "NumProblems": 126,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Sequences, Series, and Probability",
+      "Number": 9,
+      "Sections": [
+        {
+          "Title": "Sequences and Series",
+          "Number": 1,
+          "Pages": "pp. 617-619",
+          "NumProblems": 107,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Arithmetic Sequences and Partial Sums",
+          "Number": 2,
+          "Pages": "pp. 626-628",
+          "NumProblems": 87,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Geometric Sequences and Series",
+          "Number": 3,
+          "Pages": "pp. 635-637",
+          "NumProblems": 96,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Mathematical Induction",
+          "Number": 4,
+          "Pages": "pp. 646-647",
+          "NumProblems": 78,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Binomial Theorem",
+          "Number": 5,
+          "Pages": "pp. 653-655",
+          "NumProblems": 97,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Counting Principles",
+          "Number": 6,
+          "Pages": "pp. 663-665",
+          "NumProblems": 91,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Probability",
+          "Number": 7,
+          "Pages": "pp. 674-677",
+          "NumProblems": 68,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Exercises",
+          "Number": 8,
+          "Pages": "pp. 680-682",
+          "NumProblems": 108,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Topics in Analytic Geometry",
+      "Number": 10,
+      "Sections": [
+        {
+          "Title": "Lines",
+          "Number": 1,
+          "Pages": "pp. 696-698",
+          "NumProblems": 94,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Introduction to Conics: Parabolas",
+          "Number": 2,
+          "Pages": "pp. 704-707",
+          "NumProblems": 85,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Ellipses",
+          "Number": 3,
+          "Pages": "pp. 714-716",
+          "NumProblems": 69,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Hyperbolas",
+          "Number": 4,
+          "Pages": "pp. 724-726",
+          "NumProblems": 75,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Rotation of Conics",
+          "Number": 5,
+          "Pages": "pp. 733-734",
+          "NumProblems": 68,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Parametric Equations",
+          "Number": 6,
+          "Pages": "pp. 741-743",
+          "NumProblems": 98,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Polar Coordinates",
+          "Number": 7,
+          "Pages": "pp. 749-750",
+          "NumProblems": 115,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Graphs of Polar Equations",
+          "Number": 8,
+          "Pages": "pp. 757-758",
+          "NumProblems": 80,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Polar Equations of Conics",
+          "Number": 9,
+          "Pages": "pp. 763-765",
+          "NumProblems": 78,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Chapter Review",
+          "Number": 10,
+          "Pages": "pp. 768-770",
+          "NumProblems": 119,
+          "AdditionalCards": []
+        }
+      ]
+    }
+  ]
+}
