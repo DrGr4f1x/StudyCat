@@ -2,8 +2,8 @@
   "profiles": {
     "StudyCat": {
       "commandName": "Project",
-      "commandLineArgs": "study -s 2.3 -n 8 --simulate",
-      "workingDirectory": "D:\\Depot\\StudyCat\\Books\\CalculusRogawski"
+      "commandLineArgs": "new",
+      "workingDirectory": "D:\\Depot\\StudyCat\\Books\\AlgebraMartinGay"
     }
   }
 }
