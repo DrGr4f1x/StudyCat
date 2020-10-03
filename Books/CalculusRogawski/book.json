@@ -50,7 +50,71 @@
           "Number": 4,
           "Pages": "pp. 66-68",
           "NumProblems": 89,
-          "AdditionalCards": []
+          "AdditionalCards": [
+            {
+              "Number": 1,
+              "Deck": 0,
+              "CardType": 1,
+              "TimesReviewed": 0,
+              "Text": "Continuity at a point"
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "CardType": 1,
+              "TimesReviewed": 0,
+              "Text": "Jump discontinuity"
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "CardType": 1,
+              "TimesReviewed": 0,
+              "Text": "Removable discontinuity"
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "CardType": 1,
+              "TimesReviewed": 0,
+              "Text": "One-sided continuity"
+            },
+            {
+              "Number": 1,
+              "Deck": 0,
+              "CardType": 2,
+              "TimesReviewed": 0,
+              "Text": "Basic Laws of Continuity"
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "CardType": 2,
+              "TimesReviewed": 0,
+              "Text": "Continuity of Polynomial and Rational Functions"
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "CardType": 2,
+              "TimesReviewed": 0,
+              "Text": "Continuity of Some Basic Functions"
+            },
+            {
+              "Number": 4,
+              "Deck": 0,
+              "CardType": 2,
+              "TimesReviewed": 0,
+              "Text": "Continuity of the Inverse Function"
+            },
+            {
+              "Number": 5,
+              "Deck": 0,
+              "CardType": 2,
+              "TimesReviewed": 0,
+              "Text": "Continuity of the Composite Function"
+            }
+          ]
         },
         {
           "Title": "Evaluating Limits Algebraically",

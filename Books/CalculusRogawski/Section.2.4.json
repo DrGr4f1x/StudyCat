@@ -3,14 +3,14 @@
   "ChapterNumber": 2,
   "SectionTitle": "Limits and Continuity",
   "SectionNumber": 4,
-  "SessionNumber": -1,
+  "SessionNumber": 0,
   "LastReviewDate": "2020-08-20T21:04:29.5033769-07:00",
   "Cards": [
     {
       "Number": 1,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -22,9 +22,9 @@
     },
     {
       "Number": 3,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -36,9 +36,9 @@
     },
     {
       "Number": 5,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -71,9 +71,9 @@
     },
     {
       "Number": 10,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -99,9 +99,9 @@
     },
     {
       "Number": 14,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -127,9 +127,9 @@
     },
     {
       "Number": 18,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -176,9 +176,9 @@
     },
     {
       "Number": 25,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -190,16 +190,16 @@
     },
     {
       "Number": 27,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 28,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -220,7 +220,7 @@
       "Number": 31,
       "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -234,7 +234,7 @@
       "Number": 33,
       "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -260,23 +260,23 @@
     },
     {
       "Number": 37,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 38,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 39,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -421,9 +421,9 @@
     },
     {
       "Number": 60,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -470,30 +470,30 @@
     },
     {
       "Number": 67,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 68,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 69,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 70,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -533,9 +533,9 @@
     },
     {
       "Number": 76,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -568,9 +568,9 @@
     },
     {
       "Number": 81,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -628,6 +628,69 @@
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
+    },
+    {
+      "Number": 1,
+      "Deck": 0,
+      "CardType": 1,
+      "TimesReviewed": 0,
+      "Text": "Continuity at a point"
+    },
+    {
+      "Number": 2,
+      "Deck": 0,
+      "CardType": 1,
+      "TimesReviewed": 0,
+      "Text": "Jump discontinuity"
+    },
+    {
+      "Number": 3,
+      "Deck": 0,
+      "CardType": 1,
+      "TimesReviewed": 0,
+      "Text": "Removable discontinuity"
+    },
+    {
+      "Number": 4,
+      "Deck": 0,
+      "CardType": 1,
+      "TimesReviewed": 0,
+      "Text": "One-sided continuity"
+    },
+    {
+      "Number": 1,
+      "Deck": 0,
+      "CardType": 2,
+      "TimesReviewed": 0,
+      "Text": "Basic Laws of Continuity"
+    },
+    {
+      "Number": 2,
+      "Deck": 0,
+      "CardType": 2,
+      "TimesReviewed": 0,
+      "Text": "Continuity of Polynomial and Rational Functions"
+    },
+    {
+      "Number": 3,
+      "Deck": 0,
+      "CardType": 2,
+      "TimesReviewed": 0,
+      "Text": "Continuity of Some Basic Functions"
+    },
+    {
+      "Number": 4,
+      "Deck": 0,
+      "CardType": 2,
+      "TimesReviewed": 0,
+      "Text": "Continuity of the Inverse Function"
+    },
+    {
+      "Number": 5,
+      "Deck": 0,
+      "CardType": 2,
+      "TimesReviewed": 0,
+      "Text": "Continuity of the Composite Function"
     }
   ]
 }
