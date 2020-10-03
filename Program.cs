@@ -17,20 +17,20 @@ namespace StudyCat
     [Verb("new", HelpText = "Make a new book desc.  You fill in the details to generate a card set for the book.")]
     class NewBookOptions : PathOption
     {
-        [Option('t', "title", HelpText="Book title.")]
-        public string Title { get; set; }
+        [Option('t', "title", HelpText = "Book title.")]
+        public string Title { get; set; } = "";
 
-        [Option('a', "authors", HelpText="Book authors.")]
-        public string Authors { get; set; }
+        [Option('a', "authors", HelpText = "Book authors.")]
+        public string Authors { get; set; } = "";
 
-        [Option('y', "year", HelpText="Book publication year.")]
-        public string Year { get; set; }
+        [Option('y', "year", HelpText = "Book publication year.")]
+        public string Year { get; set; } = "";
 
-        [Option('p', "publisher", HelpText="Book publisher.")]
-        public string Publisher { get; set; }
+        [Option('p', "publisher", HelpText = "Book publisher.")]
+        public string Publisher { get; set; } = "";
 
-        [Option('c', "chapters", HelpText="Number of chapters.")]
-        public int NumChapters { get; set; }
+        [Option('c', "chapters", HelpText = "Number of chapters.")]
+        public int NumChapters { get; set; } = 1;
     }
 
     [Verb("list", HelpText = "Prints information about the book.")]
