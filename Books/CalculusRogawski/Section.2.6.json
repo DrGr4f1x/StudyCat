@@ -3,7 +3,7 @@
   "ChapterNumber": 2,
   "SectionTitle": "Trigonometric Limits",
   "SectionNumber": 6,
-  "SessionNumber": -1,
+  "SessionNumber": 1,
   "LastReviewDate": "2020-08-20T21:04:29.5148827-07:00",
   "Cards": [
     {
@@ -57,9 +57,9 @@
     },
     {
       "Number": 8,
-      "Deck": 0,
+      "Deck": 2,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -409,7 +409,7 @@
       "Number": 58,
       "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -418,6 +418,27 @@
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
+    },
+    {
+      "Number": 1,
+      "Deck": 0,
+      "CardType": 2,
+      "TimesReviewed": 0,
+      "Text": "The Squeeze Theorem"
+    },
+    {
+      "Number": 2,
+      "Deck": 0,
+      "CardType": 2,
+      "TimesReviewed": 0,
+      "Text": "Important Trigonometric Limits"
+    },
+    {
+      "Number": 3,
+      "Deck": 0,
+      "CardType": 2,
+      "TimesReviewed": 0,
+      "Text": "Trigonometric Inequality"
     }
   ]
 }

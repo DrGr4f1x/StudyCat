@@ -3,7 +3,7 @@
   "ChapterNumber": 2,
   "SectionTitle": "Evaluating Limits Algebraically",
   "SectionNumber": 5,
-  "SessionNumber": -1,
+  "SessionNumber": 2,
   "LastReviewDate": "2020-08-20T21:04:29.5094764-07:00",
   "Cards": [
     {
@@ -36,9 +36,9 @@
     },
     {
       "Number": 5,
-      "Deck": 0,
+      "Deck": 3,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -92,9 +92,9 @@
     },
     {
       "Number": 13,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -120,9 +120,9 @@
     },
     {
       "Number": 17,
-      "Deck": 0,
+      "Deck": 2,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -143,7 +143,7 @@
       "Number": 20,
       "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -155,23 +155,23 @@
     },
     {
       "Number": 22,
-      "Deck": 0,
+      "Deck": 2,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 23,
-      "Deck": 0,
+      "Deck": 2,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 24,
-      "Deck": 0,
+      "Deck": 2,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -204,9 +204,9 @@
     },
     {
       "Number": 29,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -218,16 +218,16 @@
     },
     {
       "Number": 31,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 32,
-      "Deck": 0,
+      "Deck": 2,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -239,9 +239,9 @@
     },
     {
       "Number": 34,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -288,23 +288,23 @@
     },
     {
       "Number": 41,
-      "Deck": 0,
+      "Deck": 3,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 2,
       "Text": null
     },
     {
       "Number": 42,
-      "Deck": 0,
+      "Deck": 2,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 43,
-      "Deck": 0,
+      "Deck": 2,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -337,9 +337,9 @@
     },
     {
       "Number": 48,
-      "Deck": 0,
+      "Deck": 2,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -388,7 +388,7 @@
       "Number": 55,
       "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -402,21 +402,21 @@
       "Number": 57,
       "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 58,
       "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 59,
       "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 2,
       "Text": null
     }
   ]

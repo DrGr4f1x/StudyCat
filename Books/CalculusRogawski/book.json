@@ -128,7 +128,29 @@
           "Number": 6,
           "Pages": "pp. 76-78",
           "NumProblems": 59,
-          "AdditionalCards": []
+          "AdditionalCards": [
+            {
+              "Number": 1,
+              "Deck": 0,
+              "CardType": 2,
+              "TimesReviewed": 0,
+              "Text": "The Squeeze Theorem"
+            },
+            {
+              "Number": 2,
+              "Deck": 0,
+              "CardType": 2,
+              "TimesReviewed": 0,
+              "Text": "Important Trigonometric Limits"
+            },
+            {
+              "Number": 3,
+              "Deck": 0,
+              "CardType": 2,
+              "TimesReviewed": 0,
+              "Text": "Trigonometric Inequality"
+            }
+          ]
         },
         {
           "Title": "Limits at Infinity",
