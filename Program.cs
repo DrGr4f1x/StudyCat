@@ -67,6 +67,10 @@ namespace StudyCat
         public string Types { get; set; }
         [Option('n', "number", Default = 0, HelpText = "The number of items to study.")]
         public int Number { get; set; }
+        [Option('o', "odds", Default = false, HelpText = "Study odd-numbered items only.")]
+        public bool Odds { get; set; }
+        [Option('e', "evens", Default = false, HelpText = "Study even-numbered items only.")]
+        public bool Evens { get; set; }
     }
 
     class Program
@@ -227,7 +231,7 @@ namespace StudyCat
         static int RunStudyAndReturnExitCode(StudyOptions opts)
         {
             SessionManager manager = new SessionManager();
-            return manager.Run(opts.Path.FullName, opts.Sections, opts.IsSerial, opts.IsSimulating, opts.Types, opts.Number);
+            return manager.Run(opts.Path.FullName, opts.Sections, opts.IsSerial, opts.IsSimulating, opts.Types, opts.Number, opts.Odds, opts.Evens);
         }
 
         static int Main(string[] args)

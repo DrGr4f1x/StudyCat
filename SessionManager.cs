@@ -88,6 +88,16 @@ namespace StudyCat
         private List<ReviewCard> m_cardList = new List<ReviewCard>();
         private List<CardSection> m_cardSections = new List<CardSection>();
 
+        private static bool IsOdd(int value)
+        {
+            return (value % 2) != 0;
+        }
+
+        private static bool IsEven(int value)
+        {
+            return (value % 2) == 0;
+        }
+
         private bool HasCardType(CardType type)
         {
             foreach (var cardType in m_cardTypes)
@@ -173,7 +183,7 @@ namespace StudyCat
             return bQuit;
         }
 
-        public int Run(string path, IEnumerable<string> sections, bool isSerial, bool isSimulating, string types, int number)
+        public int Run(string path, IEnumerable<string> sections, bool isSerial, bool isSimulating, string types, int number, bool oddsOnly, bool evensOnly)
         {
             // Parse the requested sections
             foreach (var sectionStr in sections)
@@ -295,12 +305,19 @@ namespace StudyCat
 
                 foreach(var card in cardSection.Cards)
                 {
+                    if (oddsOnly && !evensOnly && IsEven(card.Number))
+                        continue;
+
+                    if (evensOnly && !oddsOnly && IsOdd(card.Number))
+                        continue;
+
                     if (Utils.DeckMatchesSession(card.Deck, cardSection.SessionNumber) && HasCardType(card.CardType))
                     {
                         ReviewCard revCard = new ReviewCard();
                         revCard.Card = card;
                         revCard.CardSection = cardSection;
                         revCard.Stats = sessionStats.CardStats(card.CardType);
+
                         m_cardList.Add(revCard);
                     }
                 }
@@ -310,7 +327,7 @@ namespace StudyCat
             bool bQuit = false;
             int currentCard = 0;
             int currentCardAbs = 0;
-            
+
             while (!bQuit)
             {
                 if (number > 0 && currentCardAbs >= number)
@@ -337,6 +354,8 @@ namespace StudyCat
                     Console.WriteLine("Item {0}/{1}:", currentCardAbs + 1, number);
                 else
                     Console.WriteLine("Item {0}", currentCardAbs);
+
+                if (oddsOnly)
 
                 bQuit = PresentCard(m_cardList[currentCard], isSimulating);
 
