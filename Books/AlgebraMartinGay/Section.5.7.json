@@ -3,14 +3,14 @@
   "ChapterNumber": 5,
   "SectionTitle": "Synthetic Division and the Remainder Theorem",
   "SectionNumber": 7,
-  "SessionNumber": -1,
+  "SessionNumber": 0,
   "LastReviewDate": "2020-10-02T22:14:30.0259427-07:00",
   "Cards": [
     {
       "Number": 1,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -106,9 +106,9 @@
     },
     {
       "Number": 15,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -120,9 +120,9 @@
     },
     {
       "Number": 17,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -141,9 +141,9 @@
     },
     {
       "Number": 20,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -183,9 +183,9 @@
     },
     {
       "Number": 26,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -295,9 +295,9 @@
     },
     {
       "Number": 42,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -309,9 +309,9 @@
     },
     {
       "Number": 44,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -456,9 +456,9 @@
     },
     {
       "Number": 65,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {

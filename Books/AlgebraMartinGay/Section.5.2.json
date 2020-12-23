@@ -3,7 +3,7 @@
   "ChapterNumber": 5,
   "SectionTitle": "Polynomial Functions and Adding and Subtracting Polynomials",
   "SectionNumber": 2,
-  "SessionNumber": -1,
+  "SessionNumber": 0,
   "LastReviewDate": "2020-10-02T22:14:29.998416-07:00",
   "Cards": [
     {
@@ -15,9 +15,9 @@
     },
     {
       "Number": 2,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -43,9 +43,9 @@
     },
     {
       "Number": 6,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -92,16 +92,16 @@
     },
     {
       "Number": 13,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 14,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -127,9 +127,9 @@
     },
     {
       "Number": 18,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -176,9 +176,9 @@
     },
     {
       "Number": 25,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -190,9 +190,9 @@
     },
     {
       "Number": 27,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -288,9 +288,9 @@
     },
     {
       "Number": 41,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -316,9 +316,9 @@
     },
     {
       "Number": 45,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -337,16 +337,16 @@
     },
     {
       "Number": 48,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 49,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -610,9 +610,9 @@
     },
     {
       "Number": 87,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -813,23 +813,23 @@
     },
     {
       "Number": 116,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 117,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 118,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {

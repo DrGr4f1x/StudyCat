@@ -3,7 +3,7 @@
   "ChapterNumber": 5,
   "SectionTitle": "Multiplying Polynomials",
   "SectionNumber": 3,
-  "SessionNumber": -1,
+  "SessionNumber": 0,
   "LastReviewDate": "2020-10-02T22:14:30.0030194-07:00",
   "Cards": [
     {
@@ -659,9 +659,9 @@
     },
     {
       "Number": 94,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
