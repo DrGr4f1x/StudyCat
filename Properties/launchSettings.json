@@ -2,7 +2,7 @@
   "profiles": {
     "StudyCat": {
       "commandName": "Project",
-      "commandLineArgs": "new",
+      "commandLineArgs": "study -s 4.2",
       "workingDirectory": "D:\\Depot\\StudyCat\\Books\\AlgebraMartinGay"
     }
   }

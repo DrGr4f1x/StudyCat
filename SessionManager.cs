@@ -355,8 +355,6 @@ namespace StudyCat
                 else
                     Console.WriteLine("Item {0}", currentCardAbs);
 
-                if (oddsOnly)
-
                 bQuit = PresentCard(m_cardList[currentCard], isSimulating);
 
                 // Advance to the next card
