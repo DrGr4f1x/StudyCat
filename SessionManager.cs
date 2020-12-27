@@ -353,7 +353,7 @@ namespace StudyCat
                 if (number > 0)
                     Console.WriteLine("Item {0}/{1}:", currentCardAbs + 1, number);
                 else
-                    Console.WriteLine("Item {0}", currentCardAbs);
+                    Console.WriteLine("Item {0}", currentCardAbs + 1);
 
                 bQuit = PresentCard(m_cardList[currentCard], isSimulating);
 
