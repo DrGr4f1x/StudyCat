@@ -51,6 +51,7 @@ namespace StudyCat
         public int ChapterNumber { get; set; }
         public string SectionTitle { get; set; }
         public int SectionNumber { get; set; }
+        public SectionType SectionType { get; set; } = SectionType.Normal;
 
         // Public study session properties
         public int SessionNumber { get; set; } = -1;
@@ -68,7 +69,8 @@ namespace StudyCat
 
         public string GetDesc()
         {
-            return string.Format("{0}.{1} - {2} - {3}", ChapterNumber, SectionNumber, ChapterTitle, SectionTitle);
+            string sectionTypeStr = SectionType == SectionType.Normal ? "" : "S";
+            return string.Format("{0}.{1}{2} - {3} - {4}", ChapterNumber, sectionTypeStr, SectionNumber, ChapterTitle, SectionTitle);
         }
     }
 }

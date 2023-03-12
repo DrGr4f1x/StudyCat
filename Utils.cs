@@ -11,6 +11,7 @@ namespace StudyCat
     {
         public int chapter;
         public int section;
+        public SectionType sectionType;
     }
 
     class Utils
@@ -85,10 +86,11 @@ namespace StudyCat
             return obj;
         }
 
-        public static CardSection LoadSection(string path, int chapterNumber, int sectionNumber)
+        public static CardSection LoadSection(string path, int chapterNumber, int sectionNumber, SectionType sectionType)
         {
-            string filename = string.Format("Section.{0}.{1}.json", chapterNumber, sectionNumber);
-
+            string sectionTypeStr = sectionType == SectionType.Normal ? "" : "S";
+            string filename = string.Format("Section.{0}.{1}{2}.json", chapterNumber, sectionTypeStr, sectionNumber);
+           
             return Load<CardSection>(path + "\\" + filename);
         }
 
@@ -121,6 +123,7 @@ namespace StudyCat
             ChapterSectionPair pair;
             pair.chapter = -1;
             pair.section = -1;
+            pair.sectionType = SectionType.Normal;
 
             string[] strs = str.Split('.');
             if (strs.Length == 1)
@@ -130,7 +133,12 @@ namespace StudyCat
             else if (strs.Length >= 2)
             {
                 pair.chapter = int.Parse(strs[0]);
-                pair.section = int.Parse(strs[1]);
+                if (strs[1].StartsWith('S'))
+                {
+                    pair.sectionType = SectionType.Special;
+                }
+                pair.section = int.Parse(strs[1].TrimStart('S'));
+                
             }
 
             return pair;

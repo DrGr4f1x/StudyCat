@@ -4,7 +4,13 @@ using System.Security.Cryptography;
 
 namespace StudyCat
 {
-	public class SectionDesc : IPostLoad
+	public enum SectionType
+    {
+        Normal,
+        Special
+    }
+
+    public class SectionDesc : IPostLoad
 	{
 		private List<Card> m_additionalCards = new List<Card>();
 
@@ -14,6 +20,7 @@ namespace StudyCat
 		public int Number { get; set; }
 		public string Pages { get; set; }
 		public int NumProblems { get; set; }
+		public SectionType SectionType { get; set; } = SectionType.Normal;
 		public List<Card> AdditionalCards 
 		{
 			get { return m_additionalCards; }

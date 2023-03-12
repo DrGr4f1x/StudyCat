@@ -1,1 +1,0 @@
-..\..\bin\Release\netcoreapp3.1\StudyCat.exe %*

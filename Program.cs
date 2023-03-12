@@ -135,7 +135,9 @@ namespace StudyCat
                 
                 foreach(var section in chapter.Sections)
                 {
-                    Console.WriteLine("    {0}. {1} - {2} problems", section.Number, section.Title, section.NumProblems);
+                    string sectionTypeStr = section.SectionType == SectionType.Normal ? "" : "S";
+                    Console.WriteLine("    {0}{1}. {2} - {3} problems", sectionTypeStr, section.Number, section.Title, section.NumProblems);
+                    
                     numProblemsChapter += section.NumProblems;
                 }
                 Console.WriteLine("Chapter problems: {0}\n", numProblemsChapter);
@@ -165,6 +167,7 @@ namespace StudyCat
                     cardSection.ChapterNumber = chapter.Number;
                     cardSection.SectionTitle = section.Title;
                     cardSection.SectionNumber = section.Number;
+                    cardSection.SectionType = section.SectionType;
                     cardSection.LastReviewDate = DateTime.Now;
 
                     // Add problems
@@ -181,7 +184,9 @@ namespace StudyCat
                         cardSection.Cards.Add(card);
                     }
 
-                    string filename = string.Format("Section.{0}.{1}.json", cardSection.ChapterNumber, cardSection.SectionNumber);
+                    string sectionType = cardSection.SectionType == SectionType.Normal ? "" : "S";
+                    string filename = string.Format("Section.{0}.{1}{2}.json", cardSection.ChapterNumber, sectionType, cardSection.SectionNumber);
+                    
                     int ret = Utils.Save<CardSection>(opts.Path.FullName + "\\" + filename, cardSection);
                     if (ret != 0)
                     {
@@ -210,13 +215,14 @@ namespace StudyCat
             ChapterSectionPair pair = Utils.ParseChapterSection(opts.Section);
 
             var bookDesc = Utils.Load<BookDesc>(opts.Path.FullName + "\\book.json");
-            var cardSection = Utils.LoadSection(opts.Path.FullName, pair.chapter, pair.section);
+            var cardSection = Utils.LoadSection(opts.Path.FullName, pair.chapter, pair.section, pair.sectionType);
 
             Card card = bookDesc.AddCard(type, pair.chapter, pair.section, opts.Text);
             if (card != null && cardSection != null)
             {
                 cardSection.Cards.Add(card);
-                string filename = string.Format("Section.{0}.{1}.json", cardSection.ChapterNumber, cardSection.SectionNumber);
+                string sectionTypeStr = cardSection.SectionType == SectionType.Normal ? "" : "S";
+                string filename = string.Format("Section.{0}.{1}{2}.json", cardSection.ChapterNumber, sectionTypeStr, cardSection.SectionNumber);
                 Utils.Save<CardSection>(opts.Path.FullName + "\\" + filename, cardSection, false);
             }
             else if (card == null)
