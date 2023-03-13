@@ -1,11 +1,11 @@
 {
-  "ChapterTitle": "Functions and Their Graphs",
-  "ChapterNumber": 1,
-  "SectionTitle": "Linear Equations in Two Variables",
-  "SectionNumber": 3,
-  "SectionType": 0,
+  "ChapterTitle": "Additional Topics in Trigonometry",
+  "ChapterNumber": 6,
+  "SectionTitle": "Review Exercises",
+  "SectionNumber": 1,
+  "SectionType": 1,
   "SessionNumber": -1,
-  "LastReviewDate": "2023-03-12T17:17:06.1875826-07:00",
+  "LastReviewDate": "2023-03-12T17:17:06.2688549-07:00",
   "Cards": [
     {
       "Number": 1,
@@ -800,6 +800,153 @@
     },
     {
       "Number": 114,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 115,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 116,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 117,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 118,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 119,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 120,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 121,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 122,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 123,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 124,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 125,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 126,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 127,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 128,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 129,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 130,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 131,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 132,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 133,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 134,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 135,
       "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,

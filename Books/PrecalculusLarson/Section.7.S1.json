@@ -1,10 +1,11 @@
 {
-  "ChapterTitle": "Matrices and Determinants",
-  "ChapterNumber": 8,
+  "ChapterTitle": "Systems of Equations and Inequalities",
+  "ChapterNumber": 7,
   "SectionTitle": "Review Exercises",
-  "SectionNumber": 6,
+  "SectionNumber": 1,
+  "SectionType": 1,
   "SessionNumber": -1,
-  "LastReviewDate": "2020-10-03T08:38:17.3302314-07:00",
+  "LastReviewDate": "2023-03-12T17:17:06.2830283-07:00",
   "Cards": [
     {
       "Number": 1,
@@ -729,160 +730,6 @@
     },
     {
       "Number": 104,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 105,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 106,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 107,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 108,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 109,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 110,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 111,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 112,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 113,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 114,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 115,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 116,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 117,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 118,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 119,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 120,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 121,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 122,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 123,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 124,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 125,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 126,
       "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,

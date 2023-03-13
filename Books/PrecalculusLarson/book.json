@@ -80,11 +80,20 @@
         },
         {
           "Title": "Review Exercises",
-          "Number": 11,
+          "Number": 1,
           "Pages": "pp. 106-108",
           "NumProblems": 91,
+          "SectionType": 1,
           "AdditionalCards": []
-        }
+        },
+        {
+          "Title": "Chapter Test",
+          "Number": 2,
+          "Pages": "pp. 109",
+          "NumProblems": 26,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
       ]
     },
     {
@@ -142,9 +151,18 @@
         },
         {
           "Title": "Review Exercises",
-          "Number": 8,
+          "Number": 1,
           "Pages": "pp. 190-191",
           "NumProblems": 68,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Chapter Test",
+          "Number": 2,
+          "Pages": "pp. 192",
+          "NumProblems": 18,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -190,11 +208,28 @@
         },
         {
           "Title": "Review Exercises",
-          "Number": 6,
+          "Number": 1,
           "Pages": "pp. 250-252",
           "NumProblems": 118,
+          "SectionType": 1,
           "AdditionalCards": []
-        }
+        },
+        {
+          "Title": "Chapter Test",
+          "Number": 2,
+          "Pages": "pp. 253",
+          "NumProblems": 29,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Cumulative Test for Chapters 1-3",
+          "Number": 3,
+          "Pages": "pp. 254-255",
+          "NumProblems": 43,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
       ]
     },
     {
@@ -259,11 +294,20 @@
         },
         {
           "Title": "Review Exercises",
-          "Number": 9,
+          "Number": 1,
           "Pages": "pp. 340-342",
           "NumProblems": 102,
+          "SectionType": 1,
           "AdditionalCards": []
-        }
+        },
+        {
+          "Title": "Chapter Test",
+          "Number": 2,
+          "Pages": "pp. 343",
+          "NumProblems": 20,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
       ]
     },
     {
@@ -307,11 +351,20 @@
         },
         {
           "Title": "Review Exercises",
-          "Number": 6,
+          "Number": 1,
           "Pages": "pp. 392-393",
           "NumProblems": 85,
+          "SectionType": 1,
           "AdditionalCards": []
-        }
+        },
+        {
+          "Title": "Chapter Test",
+          "Number": 2,
+          "Pages": "pp. 394",
+          "NumProblems": 21,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
       ]
     },
     {
@@ -362,11 +415,28 @@
         },
         {
           "Title": "Review Exercises",
-          "Number": 7,
+          "Number": 1,
           "Pages": "pp. 456-458",
           "NumProblems": 135,
+          "SectionType": 1,
           "AdditionalCards": []
-        }
+        },
+        {
+          "Title": "Chapter Test",
+          "Number": 2,
+          "Pages": "pp. 459",
+          "NumProblems": 26,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Cumulative Test for Chapters 4-6",
+          "Number": 3,
+          "Pages": "pp. 460-461",
+          "NumProblems": 48,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
       ]
     },
     {
@@ -417,9 +487,18 @@
         },
         {
           "Title": "Review Exercises",
-          "Number": 7,
+          "Number": 1,
           "Pages": "pp. 531-534",
           "NumProblems": 104,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Chapter Test",
+          "Number": 2,
+          "Pages": "pp. 535",
+          "NumProblems": 21,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -465,9 +544,10 @@
         },
         {
           "Title": "Review Exercises",
-          "Number": 6,
+          "Number": 1,
           "Pages": "pp. 600-603",
           "NumProblems": 126,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -527,9 +607,26 @@
         },
         {
           "Title": "Review Exercises",
-          "Number": 8,
+          "Number": 1,
           "Pages": "pp. 680-682",
           "NumProblems": 108,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Chapter Test",
+          "Number": 2,
+          "Pages": "pp. 683",
+          "NumProblems": 20,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Cumulative Test for Chapters 7-9",
+          "Number": 3,
+          "Pages": "pp. 684-685",
+          "NumProblems": 41,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -603,11 +700,20 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 10,
+          "Number": 1,
           "Pages": "pp. 768-770",
           "NumProblems": 119,
+          "SectionType": 1,
           "AdditionalCards": []
-        }
+        },
+        {
+          "Title": "Chapter Test",
+          "Number": 2,
+          "Pages": "pp. 771",
+          "NumProblems": 22,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
       ]
     }
   ]

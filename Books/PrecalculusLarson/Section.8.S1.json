@@ -1,10 +1,11 @@
 {
-  "ChapterTitle": "Exponential and Logarithmic Functions",
-  "ChapterNumber": 3,
+  "ChapterTitle": "Matrices and Determinants",
+  "ChapterNumber": 8,
   "SectionTitle": "Review Exercises",
-  "SectionNumber": 6,
+  "SectionNumber": 1,
+  "SectionType": 1,
   "SessionNumber": -1,
-  "LastReviewDate": "2020-10-03T08:38:17.1582937-07:00",
+  "LastReviewDate": "2023-03-12T17:17:06.29786-07:00",
   "Cards": [
     {
       "Number": 1,
@@ -827,6 +828,62 @@
     },
     {
       "Number": 118,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 119,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 120,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 121,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 122,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 123,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 124,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 125,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 126,
       "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,

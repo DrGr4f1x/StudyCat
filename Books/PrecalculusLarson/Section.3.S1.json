@@ -1,10 +1,11 @@
 {
-  "ChapterTitle": "Topics in Analytic Geometry",
-  "ChapterNumber": 10,
-  "SectionTitle": "Chapter Review",
-  "SectionNumber": 10,
+  "ChapterTitle": "Exponential and Logarithmic Functions",
+  "ChapterNumber": 3,
+  "SectionTitle": "Review Exercises",
+  "SectionNumber": 1,
+  "SectionType": 1,
   "SessionNumber": -1,
-  "LastReviewDate": "2020-10-03T08:38:17.4195354-07:00",
+  "LastReviewDate": "2023-03-12T17:17:06.2271701-07:00",
   "Cards": [
     {
       "Number": 1,
@@ -827,13 +828,6 @@
     },
     {
       "Number": 118,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 119,
       "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,

@@ -1,10 +1,11 @@
 {
-  "ChapterTitle": "Functions and Their Graphs",
-  "ChapterNumber": 1,
+  "ChapterTitle": "Polynomial and Rational Functions",
+  "ChapterNumber": 2,
   "SectionTitle": "Review Exercises",
-  "SectionNumber": 11,
+  "SectionNumber": 1,
+  "SectionType": 1,
   "SessionNumber": -1,
-  "LastReviewDate": "2020-10-03T08:38:17.0887371-07:00",
+  "LastReviewDate": "2023-03-12T17:17:06.2163275-07:00",
   "Cards": [
     {
       "Number": 1,
@@ -477,167 +478,6 @@
     },
     {
       "Number": 68,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 69,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 70,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 71,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 72,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 73,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 74,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 75,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 76,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 77,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 78,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 79,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 80,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 81,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 82,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 83,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 84,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 85,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 86,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 87,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 88,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 89,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 90,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 91,
       "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
