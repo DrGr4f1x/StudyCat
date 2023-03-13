@@ -659,91 +659,275 @@
       ]
     },
     {
-      "Title": "Chapter 10",
+      "Title": "Parametric Equations and Polar Coordinates",
       "Number": 10,
       "Sections": [
         {
-          "Title": "Section 1",
+          "Title": "Curves Defined by Parametric Equations",
           "Number": 1,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Pages": "pp. 685-688",
+          "NumProblems": 52,
           "SectionType": 0,
           "AdditionalCards": []
         },
         {
-          "Title": "Section 2",
+          "Title": "Calculus with Parametric Curves",
           "Number": 2,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Pages": "pp. 695-697",
+          "NumProblems": 74,
           "SectionType": 0,
           "AdditionalCards": []
-        }
+        },
+        {
+          "Title": "Polar Coordinates",
+          "Number": 3,
+          "Pages": "pp. 706-708",
+          "NumProblems": 78,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Areas and Lengths in Polar Coordinates",
+          "Number": 4,
+          "Pages": "pp. 712-714",
+          "NumProblems": 56,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Conic Sections",
+          "Number": 5,
+          "Pages": "pp. 720-722",
+          "NumProblems": 66,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Conic Sections in Polar Coordinates",
+          "Number": 6,
+          "Pages": "pp. 728",
+          "NumProblems": 31,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 729-731",
+          "NumProblems": 58,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
       ]
     },
     {
-      "Title": "Chapter 11",
+      "Title": "Infinite Sequences and Series",
       "Number": 11,
       "Sections": [
         {
-          "Title": "Section 1",
+          "Title": "Sequences",
           "Number": 1,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Pages": "pp. 744-746",
+          "NumProblems": 93,
           "SectionType": 0,
           "AdditionalCards": []
         },
         {
-          "Title": "Section 2",
+          "Title": "Series",
           "Number": 2,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Pages": "pp. 755-759",
+          "NumProblems": 92,
           "SectionType": 0,
           "AdditionalCards": []
-        }
+        },
+        {
+          "Title": "The Integral Test and Estimates of Sums",
+          "Number": 3,
+          "Pages": "pp. 765-767",
+          "NumProblems": 46,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Comparison Tests",
+          "Number": 4,
+          "Pages": "pp. 771-772",
+          "NumProblems": 46,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Alternating Series",
+          "Number": 5,
+          "Pages": "pp. 776-777",
+          "NumProblems": 36,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Absolute Convergence and the Ratio and Root Tests",
+          "Number": 6,
+          "Pages": "pp. 782-784",
+          "NumProblems": 53,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Strategies for Testing Series",
+          "Number": 7,
+          "Pages": "pp. 786",
+          "NumProblems": 38,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Power Series",
+          "Number": 8,
+          "Pages": "pp. 791-792",
+          "NumProblems": 42,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Representations of Functions as Power Series",
+          "Number": 9,
+          "Pages": "pp. 797-798",
+          "NumProblems": 42,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Taylor and Maclaurin Series",
+          "Number": 10,
+          "Pages": "pp. 811-812",
+          "NumProblems": 86,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Applications of Taylor Polynomials",
+          "Number": 11,
+          "Pages": "pp. 820-822",
+          "NumProblems": 39,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 824-826",
+          "NumProblems": 62,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
       ]
     },
     {
-      "Title": "Chapter 12",
+      "Title": "Vectors and the Geometry of Space",
       "Number": 12,
       "Sections": [
         {
-          "Title": "Section 1",
+          "Title": "Three Dimensional Coordinate Systems",
           "Number": 1,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Pages": "pp. 836-837",
+          "NumProblems": 48,
           "SectionType": 0,
           "AdditionalCards": []
         },
         {
-          "Title": "Section 2",
+          "Title": "Vectors",
           "Number": 2,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Pages": "pp. 845-847",
+          "NumProblems": 52,
           "SectionType": 0,
           "AdditionalCards": []
-        }
+        },
+        {
+          "Title": "The Dot Product",
+          "Number": 3,
+          "Pages": "pp. 852-854",
+          "NumProblems": 65,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Cross Product",
+          "Number": 4,
+          "Pages": "pp. 861-863",
+          "NumProblems": 54,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Equations of Lines and Planes",
+          "Number": 5,
+          "Pages": "pp. 871-873",
+          "NumProblems": 83,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Cylinders and Quadric Surfaces",
+          "Number": 6,
+          "Pages": "pp. 879-881",
+          "NumProblems": 53,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 881-883",
+          "NumProblems": 38,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
       ]
     },
     {
-      "Title": "Chapter 13",
+      "Title": "Vector Functions",
       "Number": 13,
       "Sections": [
         {
-          "Title": "Section 1",
+          "Title": "Vector Functions and Space Curves",
           "Number": 1,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Pages": "pp. 893-895",
+          "NumProblems": 54,
           "SectionType": 0,
           "AdditionalCards": []
         },
         {
-          "Title": "Section 2",
+          "Title": "Derivatives and Integrals of Vector Functions",
           "Number": 2,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Pages": "pp. 900-901",
+          "NumProblems": 58,
           "SectionType": 0,
           "AdditionalCards": []
-        }
+        },
+        {
+          "Title": "Arc Length and Curvature",
+          "Number": 3,
+          "Pages": "pp. 908-910",
+          "NumProblems": 68,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Motion in Space: Velocity and Acceleration",
+          "Number": 4,
+          "Pages": "pp. 918-919",
+          "NumProblems": 46,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 921-923",
+          "NumProblems": 24,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
       ]
     },
     {
