@@ -1,0 +1,418 @@
+{
+  "Title": "Linear Algebra",
+  "Authors": "David Poole",
+  "Publisher": "Cengage Learning",
+  "Year": "2015",
+  "Chapters": [
+    {
+      "Title": "Vectors",
+      "Number": 1,
+      "Sections": [
+        {
+          "Title": "The Geometry and Algebra of Vectors",
+          "Number": 1,
+          "Pages": "pp. 16-17",
+          "NumProblems": 57,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Length and Angle: The Dot Product",
+          "Number": 2,
+          "Pages": "pp. 29-31",
+          "NumProblems": 74,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Lines and Planes",
+          "Number": 3,
+          "Pages": "pp. 44-47",
+          "NumProblems": 48,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Applications",
+          "Number": 4,
+          "Pages": "pp. 53-54",
+          "NumProblems": 14,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Chapter Review",
+          "Number": 1,
+          "Pages": "pp. 55-56",
+          "NumProblems": 20,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Systems of Linear Equations",
+      "Number": 2,
+      "Sections": [
+        {
+          "Title": "Introduction to Systems of Linear Equations",
+          "Number": 1,
+          "Pages": "pp. 63-64",
+          "NumProblems": 44,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Direct Methods for Solving Linear Systems",
+          "Number": 2,
+          "Pages": "pp. 79-82",
+          "NumProblems": 60,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Spanning Sets and Linear Independence",
+          "Number": 3,
+          "Pages": "pp. 97-99",
+          "NumProblems": 48,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Applications",
+          "Number": 4,
+          "Pages": "pp. 113-120",
+          "NumProblems": 53,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Iterative Methods for Solving Linear Systems",
+          "Number": 5,
+          "Pages": "pp. 132-134",
+          "NumProblems": 28,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Chapter Review",
+          "Number": 1,
+          "Pages": "pp. 134-135",
+          "NumProblems": 20,  
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Matrices",
+      "Number": 3,
+      "Sections": [
+        {
+          "Title": "Matrix Operations",
+          "Number": 1,
+          "Pages": "pp. 152-153",
+          "NumProblems": 41,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Matrix Algebra",
+          "Number": 2,
+          "Pages": "pp. 161-162",
+          "NumProblems": 47,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Inverse of a Matrix",
+          "Number": 3,
+          "Pages": "pp. 178-180",
+          "NumProblems": 72,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The LU Factorization",
+          "Number": 4,
+          "Pages": "pp. 189-191",
+          "NumProblems": 34,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Subspaces, Basis, Dimension, Rank",
+          "Number": 5,
+          "Pages": "pp. 209-211",
+          "NumProblems": 66,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Introduction to Linear Transformations",
+          "Number": 6,
+          "Pages": "pp. 223-225",
+          "NumProblems": 55,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Applications",
+          "Number": 7,
+          "Pages": "pp. 245-251",
+          "NumProblems": 80,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Chapter Review",
+          "Number": 1,
+          "Pages": "pp. 252",
+          "NumProblems": 20,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Eigenvalues and Eigenvectors",
+      "Number": 4,
+      "Sections": [
+        {
+          "Title": "Introduction to Eigenvalues and Eigenvectors",
+          "Number": 1,
+          "Pages": "pp. 260-262",
+          "NumProblems": 38,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Determinants",
+          "Number": 2,
+          "Pages": "pp. 281-283",
+          "NumProblems": 70,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Eigenvalues and Eigenvectors of n x n Matrices",
+          "Number": 3,
+          "Pages": "pp. 298-300",
+          "NumProblems": 42,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Similarity and Diagonalization",
+          "Number": 4,
+          "Pages": "pp. 309-311",
+          "NumProblems": 52,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Iterative Methods for Computing Eigenvalues",
+          "Number": 5,
+          "Pages": "pp. 323-324",
+          "NumProblems": 54,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Applications and the Perron-Frobenius Theorem",
+          "Number": 6,
+          "Pages": "pp. 359-364",
+          "NumProblems": 92,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Chapter Review",
+          "Number": 1,
+          "Pages": "pp. 365",
+          "NumProblems": 20,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Orthogonality",
+      "Number": 5,
+      "Sections": [
+        {
+          "Title": "Orthogonality in R^n",
+          "Number": 1,
+          "Pages": "pp. 376-378",
+          "NumProblems": 37,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Orthogonal Complements and Orthogonal Projections",
+          "Number": 2,
+          "Pages": "pp. 387-388",
+          "NumProblems": 30,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Gram-Schmidt Process and the QR Factorization",
+          "Number": 3,
+          "Pages": "pp. 394-295",
+          "NumProblems": 24,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Orthogonal Diagonalization of Symmetric Matrices",
+          "Number": 4,
+          "Pages": "pp. 407-408",
+          "NumProblems": 28,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Applications",
+          "Number": 5,
+          "Pages": "pp. 423-425",
+          "NumProblems": 74,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Chapter Review",
+          "Number": 1,
+          "Pages": "pp. 425-426",
+          "NumProblems": 20,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Vector Spaces",
+      "Number": 6,
+      "Sections": [
+        {
+          "Title": "Vector Spaces and Subspaces",
+          "Number": 1,
+          "Pages": "pp. 441-443",
+          "NumProblems": 64,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Linear Independence, Basis, and Dimension",
+          "Number": 2,
+          "Pages": "pp. 456-459",
+          "NumProblems": 63,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Change of Basis",
+          "Number": 3,
+          "Pages": "pp. 471-472",
+          "NumProblems": 22,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Linear Transformations",
+          "Number": 4,
+          "Pages": "pp. 480-481",
+          "NumProblems": 36,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Kernel and Range of a Linear Transformation",
+          "Number": 5,
+          "Pages": "pp. 495-496",
+          "NumProblems": 38,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Matrix of a Linear Transformation",
+          "Number": 6,
+          "Pages": "pp. 512-514",
+          "NumProblems": 46,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Applications",
+          "Number": 7,
+          "Pages": "pp. 525-526",
+          "NumProblems": 22,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Chapter Review",
+          "Number": 1,
+          "Pages": "pp. 527-528",
+          "NumProblems": 20,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Distance and Approximation",
+      "Number": 7,
+      "Sections": [
+        {
+          "Title": "Inner Product Spaces",
+          "Number": 1,
+          "Pages": "pp. 540-542",
+          "NumProblems": 44,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Norms and Distance Functions",
+          "Number": 2,
+          "Pages": "pp. 566-568",
+          "NumProblems": 52,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Least Squares Approximation",
+          "Number": 3,
+          "Pages": "pp. 586-589",
+          "NumProblems": 58,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Singular Value Decomposition",
+          "Number": 4,
+          "Pages": "pp. 609-610",
+          "NumProblems": 64,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Applications",
+          "Number": 5,
+          "Pages": "pp. 617",
+          "NumProblems": 28,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Chapter Review",
+          "Number": 1,
+          "Pages": "pp. 618-619",
+          "NumProblems": 20,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+      ]
+    }
+  ]
+}
