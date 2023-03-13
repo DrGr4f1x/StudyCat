@@ -1,0 +1,674 @@
+{
+  "Title": "Elementary Differential Equations and Boundary Value Problems",
+  "Authors": "William E. Boyce and Richard C. DiPrima",
+  "Publisher": "John Wiley \u0026 Sons",
+  "Year": "2012",
+  "Chapters": [
+    {
+      "Title": "Introduction",
+      "Number": 1,
+      "Sections": [
+        {
+          "Title": "Some Basic Mathematical Models: Direction Fields",
+          "Number": 1,
+          "Pages": "pp. 7-10",
+          "NumProblems": 33,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Solutions of Some Differential Equations",
+          "Number": 2,
+          "Pages": "pp. 15-19",
+          "NumProblems": 19,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Classification of Differential Equations",
+          "Number": 3,
+          "Pages": "pp. 24-26",
+          "NumProblems": 31,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "First Order Differential Equations",
+      "Number": 2,
+      "Sections": [
+        {
+          "Title": "Linear Equations; Method of Integrating Factors",
+          "Number": 1,
+          "Pages": "pp. 39-42",
+          "NumProblems": 42,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Separable Equations",
+          "Number": 2,
+          "Pages": "pp. 48-51",
+          "NumProblems": 38,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Modeling with First Order Equations",
+          "Number": 3,
+          "Pages": "pp. 60-68",
+          "NumProblems": 32,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Differences Between Linear and Nonlinear Equations",
+          "Number": 4,
+          "Pages": "pp. 76-78",
+          "NumProblems": 33,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Autonomous Equations and Population Dynamics",
+          "Number": 5,
+          "Pages": "pp. 88-95",
+          "NumProblems": 28,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Exact Equations and Integrating Factors",
+          "Number": 6,
+          "Pages": "pp. 101-102",
+          "NumProblems": 32,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Numerical Approximations: Euler's Method",
+          "Number": 7,
+          "Pages": "pp. 110-112",
+          "NumProblems": 23,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Existence and Uniqueness Theorem",
+          "Number": 8,
+          "Pages": "pp. 120-122",
+          "NumProblems": 19,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "First Order Difference Equations",
+          "Number": 9,
+          "Pages": "pp. 131-133",
+          "NumProblems": 19,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems",
+          "Number": 1,
+          "Pages": "pp. 133-136",
+          "NumProblems": 51,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Second Order Linear Equations",
+      "Number": 3,
+      "Sections": [
+        {
+          "Title": "Homogeneous Equations with Constant Coefficients",
+          "Number": 1,
+          "Pages": "pp. 144-145",
+          "NumProblems": 28,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Solutions of Linear Homogeneous Equations; the Wronskian",
+          "Number": 2,
+          "Pages": "pp. 155-158",
+          "NumProblems": 51,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Complex Roots of the Characteristic Equation",
+          "Number": 3,
+          "Pages": "pp. 164-167",
+          "NumProblems": 46,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Repeated Roots; Reduction of Order",
+          "Number": 4,
+          "Pages": "pp. 172-175",
+          "NumProblems": 45,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Nonhomogeneous Equations; Method of Undetermined Coefficients",
+          "Number": 5,
+          "Pages": "pp. 184-186",
+          "NumProblems": 39,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Variation of Parameters",
+          "Number": 6,
+          "Pages": "pp. 190-192",
+          "NumProblems": 32,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Mechanical and Electrical Vibrations",
+          "Number": 7,
+          "Pages": "pp. 203-207",
+          "NumProblems": 32,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Forced Vibrations",
+          "Number": 8,
+          "Pages": "pp. 217-219",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Higher Order Linear Equations",
+      "Number": 4,
+      "Sections": [
+        {
+          "Title": "General Theory of nth Order Linear Equations",
+          "Number": 1,
+          "Pages": "pp. 226-228",
+          "NumProblems": 28,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Homogeneous Equations with Constant Coefficients",
+          "Number": 2,
+          "Pages": "pp. 233-236",
+          "NumProblems": 41,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Method of Undetermined Coefficients",
+          "Number": 3,
+          "Pages": "pp. 239-240",
+          "NumProblems": 22,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Method of Variation of Parameters",
+          "Number": 4,
+          "Pages": "pp. 244-245",
+          "NumProblems": 17,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Series Solutions of Second Order Linear Equations",
+      "Number": 5,
+      "Sections": [
+        {
+          "Title": "Review of Power Series",
+          "Number": 1,
+          "Pages": "pp. 253-254",
+          "NumProblems": 28,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Series Solutions Near an Ordinary Point, Part I",
+          "Number": 2,
+          "Pages": "pp. 263-265",
+          "NumProblems": 28,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+         {
+          "Title": "Series Solutions Near an Ordinary Point, Part II",
+          "Number": 3,
+          "Pages": "pp. 269-272",
+          "NumProblems": 29,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+         {
+          "Title": "Euler Equations; Regular Singular Points",
+          "Number": 4,
+          "Pages": "pp. 280-282",
+          "NumProblems": 49,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+         {
+          "Title": "Series Solutions Near a Regular Singular Point, Part I",
+          "Number": 5,
+          "Pages": "pp. 286-288",
+          "NumProblems": 16,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+         {
+          "Title": "Series Solutions Near a Regular Singular Point, Part II",
+          "Number": 6,
+          "Pages": "pp. 294-296",
+          "NumProblems": 21,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+         {
+          "Title": "Bessel's Equation",
+          "Number": 7,
+          "Pages": "pp. 305-308",
+          "NumProblems": 14,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "The Laplace Transform",
+      "Number": 6,
+      "Sections": [
+        {
+          "Title": "Definition of the Laplace Transform",
+          "Number": 1,
+          "Pages": "pp. 315-316",
+          "NumProblems": 31,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Solution of Initial Value Problems",
+          "Number": 2,
+          "Pages": "pp. 324-327",
+          "NumProblems": 39,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Step Functions",
+          "Number": 3,
+          "Pages": "pp. 333-335",
+          "NumProblems": 40,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Differential Equations with Discontinuous Forcing Functions",
+          "Number": 4,
+          "Pages": "pp. 340-343",
+          "NumProblems": 23,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Impulse Functions",
+          "Number": 5,
+          "Pages": "pp. 348-350",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Convolution Integral",
+          "Number": 6,
+          "Pages": "pp. 354-356",
+          "NumProblems": 29,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Systems of First Order Linear Equations",
+      "Number": 7,
+      "Sections": [
+        {
+          "Title": "Introduction",
+          "Number": 1,
+          "Pages": "pp. 363-368",
+          "NumProblems": 23,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review of Matrices",
+          "Number": 2,
+          "Pages": "pp. 376-378",
+          "NumProblems": 26,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Systems of Linear Algebraic Equations; Linear Independence, Eigenvalues, Eigenvectors",
+          "Number": 3,
+          "Pages": "pp. 388-390",
+          "NumProblems": 34,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Basic Theory of First Order Linear Equations",
+          "Number": 4,
+          "Pages": "pp. 394-396",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Homogeneous Linear Systems with Constant Coefficients",
+          "Number": 5,
+          "Pages": "pp. 405-407",
+          "NumProblems": 33,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Complex Eigenvalues",
+          "Number": 6,
+          "Pages": "pp. 417-420",
+          "NumProblems": 31,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Fundamental Matrices",
+          "Number": 7,
+          "Pages": "pp. 427-429",
+          "NumProblems": 18,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Repeated Eigenvalues",
+          "Number": 8,
+          "Pages": "pp. 436-440",
+          "NumProblems": 22,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Nonhomogeneous Linear Systems",
+          "Number": 9,
+          "Pages": "pp. 447-449",
+          "NumProblems": 26,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Numerical Methods",
+      "Number": 8,
+      "Sections": [
+        {
+          "Title": "The Euler or Tangent Line Method",
+          "Number": 1,
+          "Pages": "pp. 460-462",
+          "NumProblems": 27,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Improvements on the Euler Method",
+          "Number": 2,
+          "Pages": "pp. 466-468",
+          "NumProblems": 27,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Runge-Kutta Method",
+          "Number": 3,
+          "Pages": "pp. 471-472",
+          "NumProblems": 15,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Multistep Methods",
+          "Number": 4,
+          "Pages": "pp. 478",
+          "NumProblems": 16,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Systems of First Order Equations",
+          "Number": 5,
+          "Pages": "pp. 481",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "More on Errors; Stability",
+          "Number": 6,
+          "Pages": "pp. 491-492",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Nonlinear Differential Equations and Stability",
+      "Number": 9,
+      "Sections": [
+        {
+          "Title": "The Phase Plane: Linear Systems",
+          "Number": 1,
+          "Pages": "pp. 505-508",
+          "NumProblems": 22,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Autonomous Systems and Stability",
+          "Number": 2,
+          "Pages": "pp. 517-518",
+          "NumProblems": 28,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Locally Linear Systems",
+          "Number": 3,
+          "Pages": "pp. 527-531",
+          "NumProblems": 30,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Competing Species",
+          "Number": 4,
+          "Pages": "pp. 541-544",
+          "NumProblems": 19,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Predator-Prey Equations",
+          "Number": 5,
+          "Pages": "pp. 551-554",
+          "NumProblems": 16,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Liapunov's Second Method",
+          "Number": 6,
+          "Pages": "pp. 562-565",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Periodic Solutions and Limit Cycles",
+          "Number": 7,
+          "Pages": "pp. 574-577",
+          "NumProblems": 21,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Chaos and Strange Attractors: The Lorenz Equations",
+          "Number": 8,
+          "Pages": "pp. 584-588",
+          "NumProblems": 15,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Partial Differential Equations and Fourier Series",
+      "Number": 10,
+      "Sections": [
+        {
+          "Title": "Two-Point Boundary Value Problems",
+          "Number": 1,
+          "Pages": "pp. 595-596",
+          "NumProblems": 23,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Fourier Series",
+          "Number": 2,
+          "Pages": "pp. 605-607",
+          "NumProblems": 29,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Fourier Convergence Theorem",
+          "Number": 3,
+          "Pages": "pp. 612-614",
+          "NumProblems": 19,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Even and Odd Functions",
+          "Number": 4,
+          "Pages": "pp. 620-623",
+          "NumProblems": 40,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Separation of Variables; Heat Conduction in a Rod",
+          "Number": 5,
+          "Pages": "pp. 630-632",
+          "NumProblems": 23,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Other Heat Conduction Problems",
+          "Number": 6,
+          "Pages": "pp. 639-642",
+          "NumProblems": 23,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Wave Equation: Vibrations of an Elastic String",
+          "Number": 7,
+          "Pages": "pp. 652-658",
+          "NumProblems": 24,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Laplace's Equation",
+          "Number": 8,
+          "Pages": "pp. 665-668",
+          "NumProblems": 16,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Boundary Value Problems and Sturm-Liouville Theory",
+      "Number": 11,
+      "Sections": [
+        {
+          "Title": "The Occurrence of Two-Point Boundary Value Problems",
+          "Number": 1,
+          "Pages": "pp. 682-685",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Sturm-Liouville Boundary Value Problems",
+          "Number": 2,
+          "Pages": "pp. 695-699",
+          "NumProblems": 28,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Nonhomogeneous Boundary Value Problems",
+          "Number": 3,
+          "Pages": "pp. 708-714",
+          "NumProblems": 36,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Singular Sturm-Liouville Problems",
+          "Number": 4,
+          "Pages": "pp. 719-721",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Further Remarks on the Method of Separation of Variables: A Bessel Series Expansion",
+          "Number": 5,
+          "Pages": "pp. 725-728",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Series of Orthogonal Functions: Mean Convergence",
+          "Number": 6,
+          "Pages": "pp. 734-736",
+          "NumProblems": 28,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+      ]
+    }
+  ]
+}
