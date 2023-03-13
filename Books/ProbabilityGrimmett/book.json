@@ -1,0 +1,1014 @@
+{
+  "Title": "Probability and Random Process",
+  "Authors": "Geoffrey Grimmett and David Stirzaker",
+  "Publisher": "Oxford University Press",
+  "Year": "2005",
+  "Chapters": [
+    {
+      "Title": "Events and their Probabilities",
+      "Number": 1,
+      "Sections": [
+        {
+          "Title": "Events as sets",
+          "Number": 2,
+          "Pages": "pp. 4",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Probability",
+          "Number": 3,
+          "Pages": "pp. 8",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Conditional probability",
+          "Number": 4,
+          "Pages": "pp. 12",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Independence",
+          "Number": 5,
+          "Pages": "pp. 14",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Worked examples",
+          "Number": 7,
+          "Pages": "pp. 21",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems",
+          "Number": 8,
+          "Pages": "pp. 21-25",
+          "NumProblems": 39,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Random variables and their distributions",
+      "Number": 2,
+      "Sections": [
+        {
+          "Title": "Random variables",
+          "Number": 1,
+          "Pages": "pp. 30",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The law of averages",
+          "Number": 2,
+          "Pages": "pp. 32",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Discrete and continuous variables",
+          "Number": 3,
+          "Pages": "pp. 35",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Worked examples",
+          "Number": 4,
+          "Pages": "pp. 38",
+          "NumProblems": 2,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Random vectors",
+          "Number": 5,
+          "Pages": "pp. 41",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems",
+          "Number": 7,
+          "Pages": "pp. 43-45",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Discrete random variables",
+      "Number": 3,
+      "Sections": [
+        {
+          "Title": "Probability mass functions",
+          "Number": 1,
+          "Pages": "pp. 47",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Independence",
+          "Number": 2,
+          "Pages": "pp. 49",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Expectation",
+          "Number": 3,
+          "Pages": "pp. 55",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Indicators and matching",
+          "Number": 4,
+          "Pages": "pp. 59-60",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Examples of discrete variables",
+          "Number": 5,
+          "Pages": "pp. 62",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Dependence",
+          "Number": 6,
+          "Pages": "pp. 66",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Conditional distributions and conditional expectation",
+          "Number": 7,
+          "Pages": "pp. 69",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Sums of random variables",
+          "Number": 8,
+          "Pages": "pp. 71",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Simple random walk",
+          "Number": 9,
+          "Pages": "pp. 75",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Random walk: counting sample paths",
+          "Number": 10,
+          "Pages": "pp. 83",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems",
+          "Number": 11,
+          "Pages": "pp. 83-88",
+          "NumProblems": 40,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Continuous random variables",
+      "Number": 4,
+      "Sections": [
+        {
+          "Title": "Probability density functions",
+          "Number": 1,
+          "Pages": "pp. 91",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Independence",
+          "Number": 2,
+          "Pages": "pp. 92",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Expectation",
+          "Number": 3,
+          "Pages": "pp. 94",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Examples of continuous variables",
+          "Number": 4,
+          "Pages": "pp. 97-98",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Dependence",
+          "Number": 5,
+          "Pages": "pp. 102-103",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Conditional distributions and conditional expectation",
+          "Number": 6,
+          "Pages": "pp. 106-107",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Functions of random variables",
+          "Number": 7,
+          "Pages": "pp. 112-113",
+          "NumProblems": 14,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Sums of random variables",
+          "Number": 8,
+          "Pages": "pp. 115",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Multivariate normal distribution",
+          "Number": 9,
+          "Pages": "pp. 118-119",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Distributions arising from the normal distribution",
+          "Number": 10,
+          "Pages": "pp. 122",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Sampling from a distribution",
+          "Number": 11,
+          "Pages": "pp. 125-127",
+          "NumProblems": 13,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Coupling and Poisson approximation",
+          "Number": 12,
+          "Pages": "pp. 133",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Geometrical probability",
+          "Number": 13,
+          "Pages": "pp. 138-140",
+          "NumProblems": 15,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems",
+          "Number": 14,
+          "Pages": "pp. 140-147",
+          "NumProblems": 63,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Generating functions and their applications",
+      "Number": 5,
+      "Sections": [
+        {
+          "Title": "Generating functions",
+          "Number": 1,
+          "Pages": "pp. 155",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Some applications",
+          "Number": 2,
+          "Pages": "pp. 161-162",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Random walk",
+          "Number": 3,
+          "Pages": "pp. 170-171",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Branching processes",
+          "Number": 4,
+          "Pages": "pp. 175",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Age-dependent branching processes",
+          "Number": 5,
+          "Pages": "pp. 177",
+          "NumProblems": 2,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Expectation revisited",
+          "Number": 6,
+          "Pages": "pp. 181",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Characteristic functions",
+          "Number": 7,
+          "Pages": "pp. 185-186",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Examples of characteristic functions",
+          "Number": 8,
+          "Pages": "pp. 188-189",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Inversion and continuity theorems",
+          "Number": 9,
+          "Pages": "pp. 192",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Two limit theorems",
+          "Number": 10,
+          "Pages": "pp. 200-201",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Large deviations",
+          "Number": 11,
+          "Pages": "pp. 206",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems",
+          "Number": 12,
+          "Pages": "pp. 206-212",
+          "NumProblems": 52,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Markov chains",
+      "Number": 6,
+      "Sections": [
+        {
+          "Title": "Markov processes",
+          "Number": 1,
+          "Pages": "pp. 219-220",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Classification of states",
+          "Number": 2,
+          "Pages": "pp. 223",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Classification of chains",
+          "Number": 3,
+          "Pages": "pp. 225-227",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Stationary distributions and the limit theorem",
+          "Number": 4,
+          "Pages": "pp. 236-237",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Reversibility",
+          "Number": 5,
+          "Pages": "pp. 239-240",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Chains with finitely many states",
+          "Number": 6,
+          "Pages": "pp. 242",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Branching processes revisited",
+          "Number": 7,
+          "Pages": "pp. 246",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Birth processes and the Poisson process",
+          "Number": 8,
+          "Pages": "pp. 255-256",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Continuous-time Markov chains",
+          "Number": 9,
+          "Pages": "pp. 264-265",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Birth-death processes and imbedding",
+          "Number": 11,
+          "Pages": "pp. 274",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Special processes",
+          "Number": 12,
+          "Pages": "pp. 281",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Spatial Poisson processes",
+          "Number": 13,
+          "Pages": "pp. 291",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Markov chain Monte Carlo",
+          "Number": 14,
+          "Pages": "pp. 296",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems",
+          "Number": 15,
+          "Pages": "pp. 296-304",
+          "NumProblems": 51,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Convergence of random variables",
+      "Number": 7,
+      "Sections": [
+        {
+          "Title": "Introduction",
+          "Number": 1,
+          "Pages": "pp. 307-308",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Modes of convergence",
+          "Number": 2,
+          "Pages": "pp. 317-318",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Some ancillary results",
+          "Number": 3,
+          "Pages": "pp. 323-325",
+          "NumProblems": 13,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Laws of large numbers",
+          "Number": 4,
+          "Pages": "pp. 328",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The strong law",
+          "Number": 5,
+          "Pages": "pp. 331",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The law of the iterated logarithm",
+          "Number": 6,
+          "Pages": "pp. 332",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Martingales",
+          "Number": 7,
+          "Pages": "pp. 338",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Martingale convergence theorem",
+          "Number": 8,
+          "Pages": "pp. 342",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Prediction and conditional expectation",
+          "Number": 9,
+          "Pages": "pp. 349-350",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Uniform integrability",
+          "Number": 10,
+          "Pages": "pp. 354",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems",
+          "Number": 11,
+          "Pages": "pp. 354-359",
+          "NumProblems": 37,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Random processes",
+      "Number": 8,
+      "Sections": [
+        {
+          "Title": "Stationary processes",
+          "Number": 2,
+          "Pages": "pp. 364-365",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Renewal processes",
+          "Number": 3,
+          "Pages": "pp. 367",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Queues",
+          "Number": 4,
+          "Pages": "pp. 369-370",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Wiener process",
+          "Number": 5,
+          "Pages": "pp. 371",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems",
+          "Number": 8,
+          "Pages": "pp. 373-374",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Stationary processes",
+      "Number": 9,
+      "Sections": [
+        {
+          "Title": "Introduction",
+          "Number": 1,
+          "Pages": "pp. 377",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Linear prediction",
+          "Number": 2,
+          "Pages": "pp. 379",
+          "NumProblems": 2,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Autocovariances and spectra",
+          "Number": 3,
+          "Pages": "pp. 386",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Stochastic integration and the spectral representation",
+          "Number": 4,
+          "Pages": "pp. 393",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The ergodic theorem",
+          "Number": 5,
+          "Pages": "pp. 405",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Gaussian processes",
+          "Number": 6,
+          "Pages": "pp. 408",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems",
+          "Number": 7,
+          "Pages": "pp. 409-411",
+          "NumProblems": 22,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Renewals",
+      "Number": 10,
+      "Sections": [
+        {
+          "Title": "The renewal equation",
+          "Number": 1,
+          "Pages": "pp. 416",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Limit theorems",
+          "Number": 2,
+          "Pages": "pp. 420",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Excess life",
+          "Number": 3,
+          "Pages": "pp. 423",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Applications",
+          "Number": 4,
+          "Pages": "pp. 431",
+          "NumProblems": 1,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Renewal-reward processes",
+          "Number": 5,
+          "Pages": "pp. 436",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems",
+          "Number": 6,
+          "Pages": "pp. 437-439",
+          "NumProblems": 19,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Queues",
+      "Number": 11,
+      "Sections": [
+        {
+          "Title": "M/M/1",
+          "Number": 2,
+          "Pages": "pp. 444-445",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "M/G/1",
+          "Number": 3,
+          "Pages": "pp. 451",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "G/M/1",
+          "Number": 4,
+          "Pages": "pp. 454-455",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "G/G/1",
+          "Number": 5,
+          "Pages": "pp. 461",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Heavy traffic",
+          "Number": 6,
+          "Pages": "pp. 462",
+          "NumProblems": 1,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Networks of queues",
+          "Number": 7,
+          "Pages": "pp. 467-468",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems",
+          "Number": 8,
+          "Pages": "pp. 468-470",
+          "NumProblems": 19,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Martingales",
+      "Number": 12,
+      "Sections": [
+        {
+          "Title": "Introduction",
+          "Number": 1,
+          "Pages": "pp. 475",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Martingale differences and Hoeffding's inequality",
+          "Number": 2,
+          "Pages": "pp. 481",
+          "NumProblems": 2,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Crossings and convergence",
+          "Number": 3,
+          "Pages": "pp. 486",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Stopping times",
+          "Number": 4,
+          "Pages": "pp. 490",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Optional stopping",
+          "Number": 5,
+          "Pages": "pp. 495-496",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Backward martingales and continuous-time martingales",
+          "Number": 7,
+          "Pages": "pp. 502",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems",
+          "Number": 9,
+          "Pages": "pp. 508-512",
+          "NumProblems": 24,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Diffusion processes",
+      "Number": 13,
+      "Sections": [
+        {
+          "Title": "Diffusion processes",
+          "Number": 3,
+          "Pages": "pp. 524-525",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "First passage times",
+          "Number": 4,
+          "Pages": "pp. 529",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Barriers",
+          "Number": 5,
+          "Pages": "pp. 534",
+          "NumProblems": 1,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Excursions and the Brownian bridge",
+          "Number": 6,
+          "Pages": "pp. 536",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Stochastic calculus",
+          "Number": 7,
+          "Pages": "pp. 539",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Ito integral",
+          "Number": 8,
+          "Pages": "pp. 544",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Ito's formula",
+          "Number": 9,
+          "Pages": "pp. 547",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Option pricing",
+          "Number": 10,
+          "Pages": "pp. 553-554",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Passage probabilities and potentials",
+          "Number": 11,
+          "Pages": "pp. 560",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems",
+          "Number": 12,
+          "Pages": "pp. 561-563",
+          "NumProblems": 24,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    }
+  ]
+}
