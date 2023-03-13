@@ -1,0 +1,838 @@
+{
+  "Title": "Calculus",
+  "Authors": "James Stewart",
+  "Publisher": "Cengage Learning",
+  "Year": "2016",
+  "Chapters": [
+    {
+      "Title": "Functions and Limits",
+      "Number": 1,
+      "Sections": [
+        {
+          "Title": "Four Ways to Represent a Function",
+          "Number": 1,
+          "Pages": "pp. 19-23",
+          "NumProblems": 80,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Mathematical Models: A Catalog of Essential Functions",
+          "Number": 2,
+          "Pages": "pp. 33-36",
+          "NumProblems": 32,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "New Functions from Old Functions",
+          "Number": 3,
+          "Pages": "pp. 42-45",
+          "NumProblems": 66,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Tangent and Velocity Problems",
+          "Number": 4,
+          "Pages": "pp. 49-50",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Limit of a Function",
+          "Number": 5,
+          "Pages": "pp. 59-62",
+          "NumProblems": 49,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Calculating Limits Using the Limit Laws",
+          "Number": 6,
+          "Pages": "pp. 70-72",
+          "NumProblems": 66,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Precise Definition of a Limit",
+          "Number": 7,
+          "Pages": "pp. 81-82",
+          "NumProblems": 44,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Continuity",
+          "Number": 8,
+          "Pages": "pp. 91-94",
+          "NumProblems": 73,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 94-97",
+          "NumProblems": 52,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Derivatives",
+      "Number": 2,
+      "Sections": [
+        {
+          "Title": "Derivatives and Rates of Change",
+          "Number": 1,
+          "Pages": "pp. 113-116",
+          "NumProblems": 61,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Derivative as a Function",
+          "Number": 2,
+          "Pages": "pp. 125-130",
+          "NumProblems": 65,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Differentiation Formulas",
+          "Number": 3,
+          "Pages": "pp. 140-144",
+          "NumProblems": 110,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Derivatives of Trigonometric Functions",
+          "Number": 4,
+          "Pages": "pp. 150-152",
+          "NumProblems": 58,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Chain Rule",
+          "Number": 5,
+          "Pages": "pp. 158-160",
+          "NumProblems": 90,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Implicit Differentiation",
+          "Number": 6,
+          "Pages": "pp. 166-168",
+          "NumProblems": 62,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Rates of Change in the Natural and Social Sciences",
+          "Number": 7,
+          "Pages": "pp. 178-181",
+          "NumProblems": 36,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Related Rates",
+          "Number": 8,
+          "Pages": "pp. 185-188",
+          "NumProblems": 50,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Linear Approximations and Differentials",
+          "Number": 9,
+          "Pages": "pp. 192-194",
+          "NumProblems": 42,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 195-199",
+          "NumProblems": 92,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Applications of Differentiation",
+      "Number": 3,
+      "Sections": [
+        {
+          "Title": "Maximum and Minimum Values",
+          "Number": 1,
+          "Pages": "pp. 211-213",
+          "NumProblems": 72,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Mean Value Theorem",
+          "Number": 2,
+          "Pages": "pp. 219-220",
+          "NumProblems": 26,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "How Derivatives Affect the Shape of a Graph",
+          "Number": 3,
+          "Pages": "pp. 227-231",
+          "NumProblems": 77,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Limits at Infinity; Horizontal Asymptotes",
+          "Number": 4,
+          "Pages": "pp. 241-244",
+          "NumProblems": 74,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Summary of Curve Sketching",
+          "Number": 5,
+          "Pages": "pp. 250-251",
+          "NumProblems": 60,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Graphing with Calculus and Calculators",
+          "Number": 6,
+          "Pages": "pp. 257-258",
+          "NumProblems": 28,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Optimization Problems",
+          "Number": 7,
+          "Pages": "pp. 264-270",
+          "NumProblems": 80,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Newton's Method",
+          "Number": 8,
+          "Pages": "pp. 276-278",
+          "NumProblems": 40,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Antiderivatives",
+          "Number": 9,
+          "Pages": "pp. 282-284",
+          "NumProblems": 73,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 285-288",
+          "NumProblems": 68,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Integrals",
+      "Number": 4,
+      "Sections": [
+        {
+          "Title": "Areas and Distances",
+          "Number": 1,
+          "Pages": "pp. 303-306",
+          "NumProblems": 32,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Definite Integral",
+          "Number": 2,
+          "Pages": "pp. 316-319",
+          "NumProblems": 75,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Fundamental Theorem of Calculus",
+          "Number": 3,
+          "Pages": "pp. 327-330",
+          "NumProblems": 84,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Indefinite Integrals and the Net Change Problem",
+          "Number": 4,
+          "Pages": "pp. 336-339",
+          "NumProblems": 74,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Substitution Rule",
+          "Number": 5,
+          "Pages": "pp. 346-347",
+          "NumProblems": 785,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 348-351",
+          "NumProblems": 58,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Applications of Integration",
+      "Number": 5,
+      "Sections": [
+        {
+          "Title": "Areas Between Curves",
+          "Number": 1,
+          "Pages": "pp. 362-364",
+          "NumProblems": 64,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Volumes",
+          "Number": 2,
+          "Pages": "pp. 374-377",
+          "NumProblems": 72,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Volumes by Cylindrical Shells",
+          "Number": 3,
+          "Pages": "pp. 381-383",
+          "NumProblems": 48,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Work",
+          "Number": 4,
+          "Pages": "pp. 386-388",
+          "NumProblems": 34,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Average Value of a Function",
+          "Number": 5,
+          "Pages": "pp. 391-392",
+          "NumProblems": 24,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 393-394",
+          "NumProblems": 34,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Inverse Functions",
+      "Number": 6,
+      "Sections": [
+        {
+          "Title": "Inverse Functions",
+          "Number": 1,
+          "Pages": "pp. 406-407",
+          "NumProblems": 50,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Exponential Functions and Their Derivatives",
+          "Number": 2,
+          "Pages": "pp. 418-421",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Logarithmic Functions",
+          "Number": 3,
+          "Pages": "pp. 426-428",
+          "NumProblems": 74,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Derivatives of Logarithmic Functions",
+          "Number": 4,
+          "Pages": "pp. 436-438",
+          "NumProblems": 94,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Exponential Growth and Decay",
+          "Number": 5,
+          "Pages": "pp. 471-473",
+          "NumProblems": 22,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Inverse Trigonometric Functions",
+          "Number": 6,
+          "Pages": "pp. 481-483",
+          "NumProblems": 80,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Hyperbolic Functions",
+          "Number": 7,
+          "Pages": "pp. 489-491",
+          "NumProblems": 71,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Indeterminate Forms and l'Hopital's Rule",
+          "Number": 8,
+          "Pages": "pp. 499-503",
+          "NumProblems": 104,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 503-507",
+          "NumProblems": 122,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Natural Logarithmic Function",
+          "Number": 2,
+          "Pages": "pp. 445-447",
+          "NumProblems": 68,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Natural Exponential Function",
+          "Number": 3,
+          "Pages": "pp. 452-455",
+          "NumProblems": 112,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "General Logarithmic and Exponential Functions",
+          "Number": 4,
+          "Pages": "pp. 463-465",
+          "NumProblems": 70,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Techniques of Integration",
+      "Number": 7,
+      "Sections": [
+        {
+          "Title": "Integration by Parts",
+          "Number": 1,
+          "Pages": "pp. 516-518",
+          "NumProblems": 74,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Trigonometric Integrals",
+          "Number": 2,
+          "Pages": "pp. 524-525",
+          "NumProblems": 70,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Trigonometric Substitution",
+          "Number": 3,
+          "Pages": "pp. 531-532",
+          "NumProblems": 44,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Integration of Rational Functions by Partial Fractions",
+          "Number": 4,
+          "Pages": "pp. 541-543",
+          "NumProblems": 75,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Strategy for Integration",
+          "Number": 5,
+          "Pages": "pp. 547-548",
+          "NumProblems": 84,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Integration Using Tables and Computer Algebra Systems",
+          "Number": 6,
+          "Pages": "pp. 552-553",
+          "NumProblems": 46,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Approximate Integration",
+          "Number": 7,
+          "Pages": "pp. 564-567",
+          "NumProblems": 50,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Improper Integrals",
+          "Number": 8,
+          "Pages": "pp. 574-576",
+          "NumProblems": 82,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 577-579",
+          "NumProblems": 80,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Further Applications of Integration",
+      "Number": 8,
+      "Sections": [
+        {
+          "Title": "Arc Length",
+          "Number": 1,
+          "Pages": "pp. 588-590",
+          "NumProblems": 46,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Area of a Surface of Revolution",
+          "Number": 2,
+          "Pages": "pp. 595-596",
+          "NumProblems": 39,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Applications to Physics and Engineering",
+          "Number": 3,
+          "Pages": "pp. 605-608",
+          "NumProblems": 51,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Applications to Economics and Biology",
+          "Number": 4,
+          "Pages": "pp. 612-613",
+          "NumProblems": 23,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Probability",
+          "Number": 5,
+          "Pages": "pp. 619-621",
+          "NumProblems": 21,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 621-622",
+          "NumProblems": 23,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Differential Equations",
+      "Number": 9,
+      "Sections": [
+        {
+          "Title": "Modeling with Differential Equations",
+          "Number": 1,
+          "Pages": "pp. 630-631",
+          "NumProblems": 17,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Direction Fields and Euler's Method",
+          "Number": 2,
+          "Pages": "pp. 637-639",
+          "NumProblems": 28,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Separable Equations",
+          "Number": 3,
+          "Pages": "pp. 645-648",
+          "NumProblems": 54,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Models for Population Growth",
+          "Number": 4,
+          "Pages": "pp. 657-660",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Linear Equations",
+          "Number": 5,
+          "Pages": "pp. 665-667",
+          "NumProblems": 38,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Predator-Prey Systems",
+          "Number": 6,
+          "Pages": "pp. 671-673",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 674-676",
+          "NumProblems": 24,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Chapter 10",
+      "Number": 10,
+      "Sections": [
+        {
+          "Title": "Section 1",
+          "Number": 1,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Section 2",
+          "Number": 2,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Chapter 11",
+      "Number": 11,
+      "Sections": [
+        {
+          "Title": "Section 1",
+          "Number": 1,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Section 2",
+          "Number": 2,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Chapter 12",
+      "Number": 12,
+      "Sections": [
+        {
+          "Title": "Section 1",
+          "Number": 1,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Section 2",
+          "Number": 2,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Chapter 13",
+      "Number": 13,
+      "Sections": [
+        {
+          "Title": "Section 1",
+          "Number": 1,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Section 2",
+          "Number": 2,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Chapter 14",
+      "Number": 14,
+      "Sections": [
+        {
+          "Title": "Section 1",
+          "Number": 1,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Section 2",
+          "Number": 2,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Chapter 15",
+      "Number": 15,
+      "Sections": [
+        {
+          "Title": "Section 1",
+          "Number": 1,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Section 2",
+          "Number": 2,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Chapter 16",
+      "Number": 16,
+      "Sections": [
+        {
+          "Title": "Section 1",
+          "Number": 1,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Section 2",
+          "Number": 2,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Chapter 17",
+      "Number": 17,
+      "Sections": [
+        {
+          "Title": "Section 1",
+          "Number": 1,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Section 2",
+          "Number": 2,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    }
+  ]
+}
