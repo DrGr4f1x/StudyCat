@@ -79,6 +79,14 @@
           "NumProblems": 52,
           "SectionType": 1,
           "AdditionalCards": []
+        },
+        {
+          "Title": "Principles of Problem Solving",
+          "Number": 2,
+          "Pages": "pp. 102-104",
+          "NumProblems": 25,
+          "SectionType": 1,
+          "AdditionalCards": []
         }
       ]
     },
@@ -163,7 +171,15 @@
           "Number": 1,
           "Pages": "pp. 195-199",
           "NumProblems": 92,
-          "SectionType": 0,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems Plus",
+          "Number": 2,
+          "Pages": "pp. 200-202",
+          "NumProblems": 28,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -251,6 +267,14 @@
           "NumProblems": 68,
           "SectionType": 1,
           "AdditionalCards": []
+        },
+        {
+          "Title": "Problems Plus",
+          "Number": 2,
+          "Pages": "pp. 290-292",
+          "NumProblems": 24,
+          "SectionType": 1,
+          "AdditionalCards": []
         }
       ]
     },
@@ -303,7 +327,15 @@
           "Number": 1,
           "Pages": "pp. 348-351",
           "NumProblems": 58,
-          "SectionType": 0,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems Plus",
+          "Number": 2,
+          "Pages": "pp. 353-354",
+          "NumProblems": 18,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -357,7 +389,15 @@
           "Number": 1,
           "Pages": "pp. 393-394",
           "NumProblems": 34,
-          "SectionType": 0,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems Plus",
+          "Number": 2,
+          "Pages": "pp. 395-398",
+          "NumProblems": 92,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -459,7 +499,15 @@
           "Number": 4,
           "Pages": "pp. 463-465",
           "NumProblems": 70,
-          "SectionType": 0,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems Plus",
+          "Number": 5,
+          "Pages": "pp. 509-510",
+          "NumProblems": 68,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -540,6 +588,14 @@
           "SectionType": 1,
           "AdditionalCards": []
         },
+        {
+          "Title": "Problems Plus",
+          "Number": 2,
+          "Pages": "pp. 581-582",
+          "NumProblems": 16,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
       ]
     },
     {
@@ -591,6 +647,14 @@
           "Number": 1,
           "Pages": "pp. 621-622",
           "NumProblems": 23,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems Plus",
+          "Number": 2,
+          "Pages": "pp. 623-624",
+          "NumProblems": 13,
           "SectionType": 1,
           "AdditionalCards": []
         },
@@ -653,9 +717,17 @@
           "Number": 1,
           "Pages": "pp. 674-676",
           "NumProblems": 24,
-          "SectionType": 0,
+          "SectionType": 1,
           "AdditionalCards": []
-        }
+        },
+        {
+          "Title": "Problems Plus",
+          "Number": 2,
+          "Pages": "pp. 677-678",
+          "NumProblems": 16,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
       ]
     },
     {
@@ -715,6 +787,14 @@
           "Number": 1,
           "Pages": "pp. 729-731",
           "NumProblems": 58,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems Plus",
+          "Number": 2,
+          "Pages": "pp. 732",
+          "NumProblems": 6,
           "SectionType": 1,
           "AdditionalCards": []
         },
@@ -820,6 +900,14 @@
           "SectionType": 1,
           "AdditionalCards": []
         },
+        {
+          "Title": "Problems Plus",
+          "Number": 2,
+          "Pages": "pp. 827-830",
+          "NumProblems": 26,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
       ]
     },
     {
@@ -882,6 +970,14 @@
           "SectionType": 1,
           "AdditionalCards": []
         },
+        {
+          "Title": "Problems Plus",
+          "Number": 2,
+          "Pages": "pp. 884-885",
+          "NumProblems": 8,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
       ]
     },
     {
@@ -925,95 +1021,335 @@
           "Number": 1,
           "Pages": "pp. 921-923",
           "NumProblems": 24,
-          "SectionType": 0,
+          "SectionType": 1,
           "AdditionalCards": []
         },
+        {
+          "Title": "Problems Plus",
+          "Number": 2,
+          "Pages": "pp. 924-925",
+          "NumProblems": 9,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
       ]
     },
     {
-      "Title": "Chapter 14",
+      "Title": "Partial Derivatives",
       "Number": 14,
       "Sections": [
         {
-          "Title": "Section 1",
+          "Title": "Functions of Several Variables",
           "Number": 1,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Pages": "pp. 939-943",
+          "NumProblems": 81,
           "SectionType": 0,
           "AdditionalCards": []
         },
         {
-          "Title": "Section 2",
+          "Title": "Limits and Continuity",
           "Number": 2,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Pages": "pp. 950-951",
+          "NumProblems": 46,
           "SectionType": 0,
           "AdditionalCards": []
-        }
+        },
+        {
+          "Title": "Partial Derivatives",
+          "Number": 3,
+          "Pages": "pp. 963-967",
+          "NumProblems": 105,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Tangent Planes and Linear Approximations",
+          "Number": 4,
+          "Pages": "pp. 974-976",
+          "NumProblems": 46,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Chain Rule",
+          "Number": 5,
+          "Pages": "pp. 983-986",
+          "NumProblems": 59,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Directional Derivatives and the Gradient Vector",
+          "Number": 6,
+          "Pages": "pp. 996-999",
+          "NumProblems": 70,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Maximum and Minimum Values",
+          "Number": 7,
+          "Pages": "pp. 1007-1010",
+          "NumProblems": 60,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Lagrange Multipliers",
+          "Number": 8,
+          "Pages": "pp. 1017-1018",
+          "NumProblems": 50,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 1021-1024",
+          "NumProblems": 65,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems Plus",
+          "Number": 2,
+          "Pages": "pp. 1025-1026",
+          "NumProblems": 8,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
       ]
     },
     {
-      "Title": "Chapter 15",
+      "Title": "Multiple Integrals",
       "Number": 15,
       "Sections": [
         {
-          "Title": "Section 1",
+          "Title": "Double Integrals over Rectangles",
           "Number": 1,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Pages": "pp. 1039-1040",
+          "NumProblems": 52,
           "SectionType": 0,
           "AdditionalCards": []
         },
         {
-          "Title": "Section 2",
+          "Title": "Double Integrals over General Regions",
           "Number": 2,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Pages": "pp. 1048-1050",
+          "NumProblems": 70,
           "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Double Integrals in Polar Coordinates",
+          "Number": 3,
+          "Pages": "pp. 1054-1056",
+          "NumProblems": 41,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Applications of Double Integrals",
+          "Number": 4,
+          "Pages": "pp. 1064-1066",
+          "NumProblems": 33,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Surface Area",
+          "Number": 5,
+          "Pages": "pp. 1068-1069",
+          "NumProblems": 24,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Triple Integrals",
+          "Number": 6,
+          "Pages": "pp. 1077-1079",
+          "NumProblems": 55,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Triple Integrals in Cylindrical Coordinates",
+          "Number": 7,
+          "Pages": "pp. 1083-1084",
+          "NumProblems": 31,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Triple Integrals in Spherical Coordinates",
+          "Number": 8,
+          "Pages": "pp. 1089-1091",
+          "NumProblems": 49,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Change of Variables in Multiple Integrals",
+          "Number": 9,
+          "Pages": "pp. 1100",
+          "NumProblems": 28,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 1101-1104",
+          "NumProblems": 60,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems Plus",
+          "Number": 2,
+          "Pages": "pp. 1105-1106",
+          "NumProblems": 13,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
     },
     {
-      "Title": "Chapter 16",
+      "Title": "Vector Calculus",
       "Number": 16,
       "Sections": [
         {
-          "Title": "Section 1",
+          "Title": "Vector Fields",
           "Number": 1,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Pages": "pp. 1113-1114",
+          "NumProblems": 36,
           "SectionType": 0,
           "AdditionalCards": []
         },
         {
-          "Title": "Section 2",
+          "Title": "Line Integrals",
           "Number": 2,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Pages": "pp. 1124-1127",
+          "NumProblems": 52,
           "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Fundamental Theorem for Line Integrals",
+          "Number": 3,
+          "Pages": "pp. 1134-1135",
+          "NumProblems": 36,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Green's Theorem",
+          "Number": 4,
+          "Pages": "pp. 1141-1143",
+          "NumProblems": 31,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Curl and Divergence",
+          "Number": 5,
+          "Pages": "pp. 1149=1151",
+          "NumProblems": 39,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Parametric Surfaces and Their Areas",
+          "Number": 6,
+          "Pages": "pp. 1160-1162",
+          "NumProblems": 64,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Surface Integrals",
+          "Number": 7,
+          "Pages": "pp. 1172-1174",
+          "NumProblems": 49,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Stokes' Theorem",
+          "Number": 8,
+          "Pages": "pp. 1179-1180",
+          "NumProblems": 20,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Divergence Theorem",
+          "Number": 9,
+          "Pages": "pp. 1185-1186",
+          "NumProblems": 32,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 1188-1189",
+          "NumProblems": 41,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Problems Plus",
+          "Number": 2,
+          "Pages": "pp. 1191-1192",
+          "NumProblems": 6,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
     },
     {
-      "Title": "Chapter 17",
+      "Title": "Second-Order Differential Equations",
       "Number": 17,
       "Sections": [
         {
-          "Title": "Section 1",
+          "Title": "Second-Order Linear Equations",
           "Number": 1,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Pages": "pp. 1200",
+          "NumProblems": 35,
           "SectionType": 0,
           "AdditionalCards": []
         },
         {
-          "Title": "Section 2",
+          "Title": "Nonhomogeneous Linear Equations",
           "Number": 2,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Pages": "pp. 1207-1208",
+          "NumProblems": 28,
           "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Applications of Second-Order Differential Equations",
+          "Number": 3,
+          "Pages": "pp. 1215-1216",
+          "NumProblems": 18,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Series Solutions",
+          "Number": 4,
+          "Pages": "pp. 1220",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review",
+          "Number": 1,
+          "Pages": "pp. 1221-1222",
+          "NumProblems": 21,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
