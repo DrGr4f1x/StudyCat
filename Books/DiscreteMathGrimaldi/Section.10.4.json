@@ -1,0 +1,32 @@
+{
+  "ChapterTitle": "Recurrence Relations",
+  "ChapterNumber": 10,
+  "SectionTitle": "The Method of Generating Functions",
+  "SectionNumber": 4,
+  "SectionType": 0,
+  "SessionNumber": -1,
+  "LastReviewDate": "2023-03-12T19:33:34.3663321-07:00",
+  "Cards": [
+    {
+      "Number": 1,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 2,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 3,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    }
+  ]
+}

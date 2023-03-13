@@ -1,0 +1,32 @@
+{
+  "ChapterTitle": "Relations: The Second Time Around",
+  "ChapterNumber": 7,
+  "SectionTitle": "Finite State Machines: The Minimization Process",
+  "SectionNumber": 5,
+  "SectionType": 0,
+  "SessionNumber": -1,
+  "LastReviewDate": "2023-03-12T19:33:34.343384-07:00",
+  "Cards": [
+    {
+      "Number": 1,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 2,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 3,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    }
+  ]
+}

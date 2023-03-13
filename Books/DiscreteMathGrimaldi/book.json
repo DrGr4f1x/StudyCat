@@ -1,0 +1,910 @@
+{
+  "Title": "Discrete and Combinatorial Mathematics",
+  "Authors": "Ralph P. Grimaldi",
+  "Publisher": "Addison Wesley",
+  "Year": "1999",
+  "Chapters": [
+    {
+      "Title": "Fundamental Principals of Counting",
+      "Number": 1,
+      "Sections": [
+        {
+          "Title": "Permutations",
+          "Number": 2,
+          "Pages": "pp. 12-15",
+          "NumProblems": 37,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Combinations: The Binomial Theorem",
+          "Number": 3,
+          "Pages": "pp. 25-27",
+          "NumProblems": 34,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Combinations with Repetition",
+          "Number": 4,
+          "Pages": "pp. 34-35",
+          "NumProblems": 24,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Catalan Numbers",
+          "Number": 6,
+          "Pages": "pp. 40-41",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 44-46",
+          "NumProblems": 33,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Fundamentals of Logic",
+      "Number": 2,
+      "Sections": [
+        {
+          "Title": "Basic Connectives and Truth Tables",
+          "Number": 1,
+          "Pages": "pp. 54-55",
+          "NumProblems": 17,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Logical Equivalence: The Laws of Logic",
+          "Number": 2,
+          "Pages": "pp. 67-68",
+          "NumProblems": 20,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Logical Implication: Rules of Inference",
+          "Number": 3,
+          "Pages": "pp. 87-89",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Use of Quantifiers",
+          "Number": 4,
+          "Pages": "pp. 103-107",
+          "NumProblems": 26,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Quantifiers, Definitions, and the Proofs of Theorems",
+          "Number": 5,
+          "Pages": "pp. 121-122",
+          "NumProblems": 221,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 125-126",
+          "NumProblems": 16,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Set Theory",
+      "Number": 3,
+      "Sections": [
+        {
+          "Title": "Sets and Subsets",
+          "Number": 1,
+          "Pages": "pp. 137-139",
+          "NumProblems": 26,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Set Operations and the Laws of Set Theory",
+          "Number": 2,
+          "Pages": "pp. 150-151",
+          "NumProblems": 20,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 159-161",
+          "NumProblems": 23,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Properties of the Integers: Mathematical Induction",
+      "Number": 4,
+      "Sections": [
+        {
+          "Title": "The Well-Ordering Principal: Mathematical Induction",
+          "Number": 1,
+          "Pages": "pp. 176-177",
+          "NumProblems": 21,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Recursive Definitions",
+          "Number": 2,
+          "Pages": "pp. 187-189",
+          "NumProblems": 20,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Division Algorithm: Prime Numbers",
+          "Number": 3,
+          "Pages": "pp. 199-200",
+          "NumProblems": 29,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Greatest Common Denominator: The Euclidean Algorithm",
+          "Number": 4,
+          "Pages": "pp. 206-207",
+          "NumProblems": 20,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Fundamental Theorem of Arithmetic",
+          "Number": 5,
+          "Pages": "pp. 210-211",
+          "NumProblems": 27,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 215-216",
+          "NumProblems": 20,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Relations and Functions",
+      "Number": 5,
+      "Sections": [
+        {
+          "Title": "Cartesian Products and Relations",
+          "Number": 1,
+          "Pages": "pp. 222",
+          "NumProblems": 14,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Functions: Plain and One-to-One",
+          "Number": 2,
+          "Pages": "pp. 228-230",
+          "NumProblems": 28,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Onto Functions: The Stirling Numbers of the Second Kind",
+          "Number": 3,
+          "Pages": "pp. 236-238",
+          "NumProblems": 19,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Special Functions",
+          "Number": 4,
+          "Pages": "pp. 243-244",
+          "NumProblems": 14,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Pigeonhole Principal",
+          "Number": 5,
+          "Pages": "pp. 248-249",
+          "NumProblems": 24,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Function Composition and Inverse Functions",
+          "Number": 6,
+          "Pages": "pp. 259-261",
+          "NumProblems": 23,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Computational Complexity",
+          "Number": 7,
+          "Pages": "pp. 265",
+          "NumProblems": 16,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Analysis of Algorithms",
+          "Number": 8,
+          "Pages": "pp. 272-273",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 277-279",
+          "NumProblems": 37,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Languages: Finite State Machines",
+      "Number": 6,
+      "Sections": [
+        {
+          "Title": "Language: The Set Theory of Strings",
+          "Number": 1,
+          "Pages": "pp. 290-291",
+          "NumProblems": 24,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Finite State Machines: A First Encounter",
+          "Number": 2,
+          "Pages": "pp. 297-299",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Finite State Machines: A Second Encounter",
+          "Number": 3,
+          "Pages": "pp. 305-306",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 308-309",
+          "NumProblems": 12,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Relations: The Second Time Around",
+      "Number": 7,
+      "Sections": [
+        {
+          "Title": "Relations Revisited: Properties of Relations",
+          "Number": 1,
+          "Pages": "pp. 317-318",
+          "NumProblems": 17,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Computer Recognition: Zero-One Matrices and Directed Graphs",
+          "Number": 2,
+          "Pages": "pp. 329-331",
+          "NumProblems": 26,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Partial Orders: Hasse Diagrams",
+          "Number": 3,
+          "Pages": "pp. 339-341",
+          "NumProblems": 27,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Equivalence Relations and Partitions",
+          "Number": 4,
+          "Pages": "pp. 345-346",
+          "NumProblems": 17,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Finite State Machines: The Minimization Process",
+          "Number": 5,
+          "Pages": "pp. 351-352",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 354-357",
+          "NumProblems": 25,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "The Principal of Inclusion and Exclusion",
+      "Number": 8,
+      "Sections": [
+        {
+          "Title": "The Principal of Inclusion and Exclusion",
+          "Number": 1,
+          "Pages": "pp. 369",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Generalizations of the Principal",
+          "Number": 2,
+          "Pages": "pp. 373",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Derangements: Nothing Is in Its Right Place",
+          "Number": 3,
+          "Pages": "pp. 375-376",
+          "NumProblems": 16,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Arrangements with Forbidden Positions",
+          "Number": 5,
+          "Pages": "pp. 382-383",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 385-386",
+          "NumProblems": 18,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Generating Functions",
+      "Number": 9,
+      "Sections": [
+        {
+          "Title": "Introductory Examples",
+          "Number": 1,
+          "Pages": "pp. 389-390",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Definition and Examples: Calculational Techniques",
+          "Number": 2,
+          "Pages": "pp. 398-400",
+          "NumProblems": 23,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Partitions of Integers",
+          "Number": 3,
+          "Pages": "pp. 403",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Exponential Generating Function",
+          "Number": 4,
+          "Pages": "pp. 407-408",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 412-413",
+          "NumProblems": 23,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Recurrence Relations",
+      "Number": 10,
+      "Sections": [
+        {
+          "Title": "The First-Order Linear Recurrence Relation",
+          "Number": 1,
+          "Pages": "pp. 423",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Second-Order Linear Recurrence Relation with Constant Coefficients",
+          "Number": 2,
+          "Pages": "pp. 432-433",
+          "NumProblems": 18,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Nonhomogeneous Recurrence Relation",
+          "Number": 3,
+          "Pages": "pp. 444-445",
+          "NumProblems": 13,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Method of Generating Functions",
+          "Number": 4,
+          "Pages": "pp. 450",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "A Special Kind of Nonlinear Recurrence Relation",
+          "Number": 5,
+          "Pages": "pp. 457-459",
+          "NumProblems": 15,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Divide and Conquer Algorithms",
+          "Number": 6,
+          "Pages": "pp. 468-469",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 471-473",
+          "NumProblems": 17,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "An Introduction to Graph Theory",
+      "Number": 11,
+      "Sections": [
+        {
+          "Title": "Definitions and Examples",
+          "Number": 1,
+          "Pages": "pp. 483-484",
+          "NumProblems": 15,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Subgraphs, Complements, and Graph Isomorphism",
+          "Number": 2,
+          "Pages": "pp. 493-495",
+          "NumProblems": 26,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Vertex Degree: Euler Trails and Circuits",
+          "Number": 3,
+          "Pages": "pp. 503-505",
+          "NumProblems": 30,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Planar Graphs",
+          "Number": 4,
+          "Pages": "pp. 519-522",
+          "NumProblems": 27,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Hamilton Paths and Cycles",
+          "Number": 5,
+          "Pages": "pp. 529-531",
+          "NumProblems": 26,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Graph Coloring and Chromatic Polynomials",
+          "Number": 6,
+          "Pages": "pp. 538-540",
+          "NumProblems": 19,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 544-546",
+          "NumProblems": 21,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Trees",
+      "Number": 12,
+      "Sections": [
+        {
+          "Title": "Definitions, Properties, and Examples",
+          "Number": 1,
+          "Pages": "pp. 551-553",
+          "NumProblems": 17,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Rooted Trees",
+          "Number": 2,
+          "Pages": "pp. 568-570",
+          "NumProblems": 20,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Trees and Sorting",
+          "Number": 3,
+          "Pages": "pp. 574",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Weighted Trees and Prefix Codes",
+          "Number": 4,
+          "Pages": "pp. 579-580",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Biconnected Components and Articulation Points",
+          "Number": 5,
+          "Pages": "pp. 584-585",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 588-590",
+          "NumProblems": 16,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Optimization and Matching",
+      "Number": 13,
+      "Sections": [
+        {
+          "Title": "Dijkstra's Shortest-Path Algorithm",
+          "Number": 1,
+          "Pages": "pp. 598",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Minimal Spanning Trees: The Algorithms of Kruskal and Prim",
+          "Number": 2,
+          "Pages": "pp. 604",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Transport Networks: The Max-Flow Min-Cut Theorem",
+          "Number": 3,
+          "Pages": "pp. 615",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Matching Theory",
+          "Number": 4,
+          "Pages": "pp. 623-625",
+          "NumProblems": 14,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 628-629",
+          "NumProblems": 9,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Rings and Modular Arithmetic",
+      "Number": 14,
+      "Sections": [
+        {
+          "Title": "The Ring Structure: Definition and Examples",
+          "Number": 1,
+          "Pages": "pp. 638-639",
+          "NumProblems": 15,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Ring Properties and Substructures",
+          "Number": 2,
+          "Pages": "pp. 645-646",
+          "NumProblems": 21,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Integers Modulo n",
+          "Number": 3,
+          "Pages": "pp. 651-652",
+          "NumProblems": 22,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Ring Homomorphisms and Isomorphisms",
+          "Number": 4,
+          "Pages": "pp. 657",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 661-662",
+          "NumProblems": 16,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Boolean Algebra and Switching Functions",
+      "Number": 15,
+      "Sections": [
+        {
+          "Title": "Switching Functions: Disjunctive and Conjunctive Normal Forms",
+          "Number": 1,
+          "Pages": "pp. 671-672",
+          "NumProblems": 15,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Gating Networks: Minimal Sums of Products: Karnaugh Maps",
+          "Number": 2,
+          "Pages": "pp. 681-682",
+          "NumProblems": 13,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Further Applications: Don't-Care Conditions",
+          "Number": 3,
+          "Pages": "pp. 686-687",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Structure of a Boolean Algebra",
+          "Number": 4,
+          "Pages": "pp. 695-696",
+          "NumProblems": 15,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 698-699",
+          "NumProblems": 14,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Groups, Coding Theory, and Polya's Method of Enumeration",
+      "Number": 16,
+      "Sections": [
+        {
+          "Title": "Definition, Examples, and Elementary Properties",
+          "Number": 1,
+          "Pages": "pp. 707-708",
+          "NumProblems": 20,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Homomorphisms, Isomorphisms, and Cyclic Groups",
+          "Number": 2,
+          "Pages": "pp. 712-713",
+          "NumProblems": 16,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Cosets and Lagrange's Theorem",
+          "Number": 3,
+          "Pages": "pp. 715",
+          "NumProblems": 13,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Elements of Coding Theory",
+          "Number": 4,
+          "Pages": "pp. 719-720",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Parity Check and Generator Matrices",
+          "Number": 6,
+          "Pages": "pp. 726",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Hamming Matrices",
+          "Number": 8,
+          "Pages": "pp. 733",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Counting and Equivalence: Burnside's Theorem",
+          "Number": 9,
+          "Pages": "pp. 739-740",
+          "NumProblems": 14,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Cyclic Index",
+          "Number": 10,
+          "Pages": "pp. 743-744",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Pattern Inventory: Polya's Method of Enumeration",
+          "Number": 11,
+          "Pages": "pp. 748-749",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 753",
+          "NumProblems": 12,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Finite Fields and Combinatorial Designs",
+      "Number": 17,
+      "Sections": [
+        {
+          "Title": "Polynomial Rings",
+          "Number": 1,
+          "Pages": "pp. 762-763",
+          "NumProblems": 18,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Irreducible Polynomials: Finite Fields",
+          "Number": 2,
+          "Pages": "pp. 770-772",
+          "NumProblems": 26,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Latin Squares",
+          "Number": 3,
+          "Pages": "pp. 777",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Finite Geometries and Affine Planes",
+          "Number": 4,
+          "Pages": "pp. 782-783",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Block Designs and Projective Planes",
+          "Number": 5,
+          "Pages": "pp. 787-788",
+          "NumProblems": 18,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises",
+          "Number": 1,
+          "Pages": "pp. 790-791",
+          "NumProblems": 12,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    }
+  ]
+}
