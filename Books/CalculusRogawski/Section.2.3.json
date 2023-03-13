@@ -3,47 +3,48 @@
   "ChapterNumber": 2,
   "SectionTitle": "Basic Limit Laws",
   "SectionNumber": 3,
-  "SessionNumber": 4,
-  "LastReviewDate": "2020-08-20T21:04:29.4961142-07:00",
+  "SectionType": 0,
+  "SessionNumber": -1,
+  "LastReviewDate": "2023-03-12T17:05:13.6249668-07:00",
   "Cards": [
     {
       "Number": 1,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 2,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 3,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 4,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 5,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 6,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
@@ -64,84 +65,84 @@
     },
     {
       "Number": 9,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 10,
-      "Deck": 4,
+      "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 1,
+      "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 11,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 12,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 13,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 14,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 15,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 16,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 17,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 18,
-      "Deck": 4,
+      "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 1,
+      "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 19,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 20,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
@@ -155,14 +156,14 @@
     },
     {
       "Number": 22,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 23,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
@@ -176,56 +177,56 @@
     },
     {
       "Number": 25,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 26,
-      "Deck": 5,
+      "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 1,
+      "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 27,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 28,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 29,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 30,
-      "Deck": 4,
+      "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 1,
+      "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 31,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 32,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
@@ -241,54 +242,54 @@
       "Number": 34,
       "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 2,
+      "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 35,
-      "Deck": 5,
+      "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 2,
+      "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 36,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 37,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 38,
-      "Deck": 4,
+      "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 1,
+      "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 39,
-      "Deck": 5,
+      "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 1,
+      "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 40,
-      "Deck": 5,
+      "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 1,
+      "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 41,
-      "Deck": 1,
+      "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
       "Text": null
@@ -297,14 +298,14 @@
       "Number": 42,
       "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 1,
+      "TimesReviewed": 0,
       "Text": null
     },
     {
       "Number": 1,
-      "Deck": 4,
+      "Deck": 0,
       "CardType": 2,
-      "TimesReviewed": 1,
+      "TimesReviewed": 0,
       "Text": "Basic Limit Laws"
     }
   ]

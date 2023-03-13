@@ -1,10 +1,11 @@
 {
-  "ChapterTitle": "Applications of the Integral",
-  "ChapterNumber": 6,
+  "ChapterTitle": "Further Applications of the Integral and Taylor Polynomials",
+  "ChapterNumber": 9,
   "SectionTitle": "Chapter Review",
-  "SectionNumber": 6,
+  "SectionNumber": 1,
+  "SectionType": 1,
   "SessionNumber": -1,
-  "LastReviewDate": "2020-08-20T21:04:29.7396467-07:00",
+  "LastReviewDate": "2023-03-12T17:05:13.7289889-07:00",
   "Cards": [
     {
       "Number": 1,
@@ -260,125 +261,6 @@
     },
     {
       "Number": 37,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 38,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 39,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 40,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 41,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 42,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 43,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 44,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 45,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 46,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 47,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 48,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 49,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 50,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 51,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 52,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 53,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 54,
       "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,

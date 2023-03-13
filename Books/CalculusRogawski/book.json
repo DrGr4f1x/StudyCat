@@ -175,9 +175,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 10,
+          "Number": 1,
           "Pages": "pp. 94-96",
           "NumProblems": 80,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -251,9 +252,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 10,
+          "Number": 1,
           "Pages": "pp. 162-165",
           "NumProblems": 85,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -313,9 +315,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 8,
+          "Number": 1,
           "Pages": "pp. 221-223",
           "NumProblems": 70,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -375,9 +378,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 8,
+          "Number": 1,
           "Pages": "pp. 277-280",
           "NumProblems": 95,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -423,9 +427,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 6,
+          "Number": 1,
           "Pages": "pp. 319-320",
           "NumProblems": 54,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -499,9 +504,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 10,
+          "Number": 1,
           "Pages": "pp. 386-389",
           "NumProblems": 133,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -575,9 +581,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 10,
+          "Number": 1,
           "Pages": "pp. 459-462",
           "NumProblems": 109,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -616,9 +623,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 5,
+          "Number": 1,
           "Pages": "pp. 496-497",
           "NumProblems": 37,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -657,9 +665,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 5,
+          "Number": 1,
           "Pages": "pp. 525-527",
           "NumProblems": 45,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -719,9 +728,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 8,
+          "Number": 1,
           "Pages": "pp. 591-593",
           "NumProblems": 128,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -767,9 +777,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 6,
+          "Number": 1,
           "Pages": "pp. 638-639",
           "NumProblems": 55,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -829,9 +840,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 8,
+          "Number": 1,
           "Pages": "pp. 701-703",
           "NumProblems": 71,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -884,9 +896,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 7,
+          "Number": 1,
           "Pages": "pp. 753-754",
           "NumProblems": 42,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -953,9 +966,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 9,
+          "Number": 1,
           "Pages": "pp. 834-836",
           "NumProblems": 63,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -1008,9 +1022,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 7,
+          "Number": 1,
           "Pages": "pp. 907-910",
           "NumProblems": 61,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -1056,9 +1071,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 6,
+          "Number": 1,
           "Pages": "pp. 970-972",
           "NumProblems": 61,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]
@@ -1090,9 +1106,10 @@
         },
         {
           "Title": "Chapter Review",
-          "Number": 4,
+          "Number": 1,
           "Pages": "pp. 1009-1012",
           "NumProblems": 40,
+          "SectionType": 1,
           "AdditionalCards": []
         }
       ]

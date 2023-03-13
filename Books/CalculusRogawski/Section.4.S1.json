@@ -1,10 +1,11 @@
 {
-  "ChapterTitle": "Calculus of Vector-Valued Functions",
-  "ChapterNumber": 14,
+  "ChapterTitle": "Applications of the Derivative",
+  "ChapterNumber": 4,
   "SectionTitle": "Chapter Review",
-  "SectionNumber": 7,
+  "SectionNumber": 1,
+  "SectionType": 1,
   "SessionNumber": -1,
-  "LastReviewDate": "2020-08-20T21:04:30.0754786-07:00",
+  "LastReviewDate": "2023-03-12T17:05:13.6670011-07:00",
   "Cards": [
     {
       "Number": 1,
@@ -295,6 +296,202 @@
     },
     {
       "Number": 42,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 43,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 44,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 45,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 46,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 47,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 48,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 49,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 50,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 51,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 52,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 53,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 54,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 55,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 56,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 57,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 58,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 59,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 60,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 61,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 62,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 63,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 64,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 65,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 66,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 67,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 68,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 69,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 70,
       "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,

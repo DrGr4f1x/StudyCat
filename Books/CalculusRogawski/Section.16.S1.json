@@ -1,10 +1,11 @@
 {
-  "ChapterTitle": "Differentiation in Several Variables",
-  "ChapterNumber": 15,
+  "ChapterTitle": "Multiple Integration",
+  "ChapterNumber": 16,
   "SectionTitle": "Chapter Review",
-  "SectionNumber": 9,
+  "SectionNumber": 1,
+  "SectionType": 1,
   "SessionNumber": -1,
-  "LastReviewDate": "2020-08-20T21:04:30.121123-07:00",
+  "LastReviewDate": "2023-03-12T17:05:13.8119666-07:00",
   "Cards": [
     {
       "Number": 1,
@@ -428,20 +429,6 @@
     },
     {
       "Number": 61,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 62,
-      "Deck": 0,
-      "CardType": 0,
-      "TimesReviewed": 0,
-      "Text": null
-    },
-    {
-      "Number": 63,
       "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,

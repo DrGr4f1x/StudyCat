@@ -1,10 +1,11 @@
 {
-  "ChapterTitle": "Line and Surface Integrals",
-  "ChapterNumber": 17,
+  "ChapterTitle": "Differentiation",
+  "ChapterNumber": 3,
   "SectionTitle": "Chapter Review",
-  "SectionNumber": 6,
+  "SectionNumber": 1,
+  "SectionType": 1,
   "SessionNumber": -1,
-  "LastReviewDate": "2020-08-20T21:04:30.1978437-07:00",
+  "LastReviewDate": "2023-03-12T17:05:13.6528986-07:00",
   "Cards": [
     {
       "Number": 1,
@@ -428,6 +429,174 @@
     },
     {
       "Number": 61,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 62,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 63,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 64,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 65,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 66,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 67,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 68,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 69,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 70,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 71,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 72,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 73,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 74,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 75,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 76,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 77,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 78,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 79,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 80,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 81,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 82,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 83,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 84,
+      "Deck": 0,
+      "CardType": 0,
+      "TimesReviewed": 0,
+      "Text": null
+    },
+    {
+      "Number": 85,
       "Deck": 0,
       "CardType": 0,
       "TimesReviewed": 0,
