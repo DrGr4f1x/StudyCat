@@ -1,0 +1,668 @@
+{
+  "Title": "Topology",
+  "Authors": "James R. Munkres",
+  "Publisher": "Prentice Hall",
+  "Year": "2000",
+  "Chapters": [
+    {
+      "Title": "Set Theory and Logic",
+      "Number": 1,
+      "Sections": [
+        {
+          "Title": "Fundamental Concepts",
+          "Number": 1,
+          "Pages": "pp. 14-15",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Functions",
+          "Number": 2,
+          "Pages": "pp. 20-21",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Relations",
+          "Number": 3,
+          "Pages": "pp. 28-29",
+          "NumProblems": 15,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Integers and the Real Numbers",
+          "Number": 4,
+          "Pages": "pp. 34-36",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Cartesian Products",
+          "Number": 5,
+          "Pages": "pp. 38-39",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Finite Sets",
+          "Number": 6,
+          "Pages": "pp. 44",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Countable and Uncountable Sets",
+          "Number": 7,
+          "Pages": "pp. 51-52",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Principle of Recursive Definition",
+          "Number": 8,
+          "Pages": "pp. 55-56",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Infinite Sets and the Axiom of Choice",
+          "Number": 9,
+          "Pages": "pp. 61-62",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Well-Ordered Sets",
+          "Number": 10,
+          "Pages": "pp. 66-68",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Maximum Principle",
+          "Number": 11,
+          "Pages": "pp. 71-72",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises: Well-Ordering",
+          "Number": 1,
+          "Pages": "pp. 72-74",
+          "NumProblems": 8,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Topological Spaces and Continuous Functions",
+      "Number": 2,
+      "Sections": [
+        {
+          "Title": "Basis for a Topology",
+          "Number": 13,
+          "Pages": "pp. 83-84",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Subspace Topology",
+          "Number": 16,
+          "Pages": "pp. 91-92",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Closed Sets and Limit Points",
+          "Number": 17,
+          "Pages": "pp. 100-102",
+          "NumProblems": 21,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Continuous Functions",
+          "Number": 18,
+          "Pages": "pp. 111-112",
+          "NumProblems": 13,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Product Topology",
+          "Number": 19,
+          "Pages": "pp. 118",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Metric Topology",
+          "Number": 20,
+          "Pages": "pp. 126-129",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Metric Topology (continued)",
+          "Number": 21,
+          "Pages": "pp. 133-136",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Quotient Topology",
+          "Number": 22,
+          "Pages": "pp. 144-145",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises: Topological Groups",
+          "Number": 1,
+          "Pages": "pp. 145-146",
+          "NumProblems": 7,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Connectedness and Compactness",
+      "Number": 3,
+      "Sections": [
+        {
+          "Title": "Connected Spaces",
+          "Number": 23,
+          "Pages": "pp. 152",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Connected Subspaces of the Real Line",
+          "Number": 24,
+          "Pages": "pp. 157-159",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Components and Local Connectedness",
+          "Number": 25,
+          "Pages": "pp. 162-163",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Compact Spaces",
+          "Number": 26,
+          "Pages": "pp. 170-172",
+          "NumProblems": 13,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Compact Subspaces of the Real Line",
+          "Number": 27,
+          "Pages": "pp. 177-178",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Limit Point Compactness",
+          "Number": 28,
+          "Pages": "pp. 181-182",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Local Compactness",
+          "Number": 29,
+          "Pages": "pp. 186",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises: Nets",
+          "Number": 1,
+          "Pages": "pp. 187-188",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Countability and Separation Axioms",
+      "Number": 4,
+      "Sections": [
+        {
+          "Title": "The Countability Axioms",
+          "Number": 30,
+          "Pages": "pp. 194-195",
+          "NumProblems": 18,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Separation Axioms",
+          "Number": 31,
+          "Pages": "pp. 199-200",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Normal Spaces",
+          "Number": 32,
+          "Pages": "pp. 205-207",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Urysohn Lemma",
+          "Number": 33,
+          "Pages": "pp. 212-214",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Urysohn Metrization Theorem",
+          "Number": 34,
+          "Pages": "pp. 218",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Tietze Extension Theorem",
+          "Number": 35,
+          "Pages": "pp. 223-224",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Imbeddings of Manifolds",
+          "Number": 36,
+          "Pages": "pp. 227",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises: Review of the Basics",
+          "Number": 1,
+          "Pages": "pp. 228-229",
+          "NumProblems": 7,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "The Tychonoff Theorem",
+      "Number": 5,
+      "Sections": [
+        {
+          "Title": "The Tychonoff Theorem",
+          "Number": 37,
+          "Pages": "pp. 235-237",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Stone-Cech Compactification",
+          "Number": 38,
+          "Pages": "pp. 241-242",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Metrization Theorems and Paracompactness",
+      "Number": 6,
+      "Sections": [
+        {
+          "Title": "Local Finiteness",
+          "Number": 39,
+          "Pages": "pp. 248",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Nagata-Smirnov Metrization Theorem",
+          "Number": 40,
+          "Pages": "pp. 252",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Paracompactness",
+          "Number": 41,
+          "Pages": "pp. 260-261",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Smirnoff Metrization Theorem",
+          "Number": 42,
+          "Pages": "pp. 262",
+          "NumProblems": 2,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Complete Metric Spaces and Function Spaces",
+      "Number": 7,
+      "Sections": [
+        {
+          "Title": "Complete Metric Spaces",
+          "Number": 43,
+          "Pages": "pp. 270-271",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "A Space-Filling Curve",
+          "Number": 44,
+          "Pages": "pp. 274-275",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Compactness in Metric Spaces",
+          "Number": 45,
+          "Pages": "pp. 280-281",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Pointwise and Compact Convergence",
+          "Number": 46,
+          "Pages": "pp. 288-290",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Ascoli's Theorem",
+          "Number": 47,
+          "Pages": "pp. 292-293",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Baire Spaces and Dimension Theory",
+      "Number": 8,
+      "Sections": [
+        {
+          "Title": "Baire Spaces",
+          "Number": 48,
+          "Pages": "pp. 298-300",
+          "NumProblems": 13,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "A Nowhere Differentiable Function",
+          "Number": 49,
+          "Pages": "pp. 304",
+          "NumProblems": 2,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Introduction to Dimension Theory",
+          "Number": 50,
+          "Pages": "pp. 315-316",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises: Locally Euclidean Spaces",
+          "Number": 1,
+          "Pages": "pp. 317-318",
+          "NumProblems": 9,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "The Fundamental Group",
+      "Number": 9,
+      "Sections": [
+        {
+          "Title": "Homotopy of Paths",
+          "Number": 51,
+          "Pages": "pp. 330",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Fundamental Group",
+          "Number": 52,
+          "Pages": "pp. 334-335",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Covering Spaces",
+          "Number": 53,
+          "Pages": "pp. 341",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Fundamental Group of the Circle",
+          "Number": 54,
+          "Pages": "pp. 347-348",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Retractions and Fixed Points",
+          "Number": 55,
+          "Pages": "pp. 353",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Fundamental Theorem of Algebra",
+          "Number": 56,
+          "Pages": "pp. 356",
+          "NumProblems": 2,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Borsuk-Ulam Theorem",
+          "Number": 57,
+          "Pages": "pp. 359",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Deformation Retracts and Homotopy Type",
+          "Number": 58,
+          "Pages": "pp. 366-367",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Fundamental Group of S^n",
+          "Number": 59,
+          "Pages": "pp. 370",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Fundamental Groups of Some Surfaces",
+          "Number": 60,
+          "Pages": "pp. 375",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Chapter 10",
+      "Number": 10,
+      "Sections": [
+        {
+          "Title": "Section 1",
+          "Number": 1,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Section 2",
+          "Number": 2,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Chapter 11",
+      "Number": 11,
+      "Sections": [
+        {
+          "Title": "Section 1",
+          "Number": 1,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Section 2",
+          "Number": 2,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Chapter 12",
+      "Number": 12,
+      "Sections": [
+        {
+          "Title": "Section 1",
+          "Number": 1,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Section 2",
+          "Number": 2,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Chapter 13",
+      "Number": 13,
+      "Sections": [
+        {
+          "Title": "Section 1",
+          "Number": 1,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Section 2",
+          "Number": 2,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Chapter 14",
+      "Number": 14,
+      "Sections": [
+        {
+          "Title": "Section 1",
+          "Number": 1,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Section 2",
+          "Number": 2,
+          "Pages": "pp. 20-22",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    }
+  ]
+}
