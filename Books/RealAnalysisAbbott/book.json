@@ -1,0 +1,383 @@
+{
+  "Title": "Understanding Analysis",
+  "Authors": "Stephen Abbott",
+  "Publisher": "Springer",
+  "Year": "2010",
+  "Chapters": [
+    {
+      "Title": "Chapter 1",
+      "Number": 1,
+      "Sections": [
+        {
+          "Title": "Some Preliminaries",
+          "Number": 2,
+          "Pages": "pp. 11-14",
+          "NumProblems": 13,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Axiom of Completeness",
+          "Number": 3,
+          "Pages": "pp. 18-20",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Consequences of Completeness",
+          "Number": 4,
+          "Pages": "pp. 24",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Cardinality",
+          "Number": 5,
+          "Pages": "pp. 29-32",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Cantor's Theorem",
+          "Number": 6,
+          "Pages": "pp. 32-35",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Chapter 2",
+      "Number": 2,
+      "Sections": [
+        {
+          "Title": "The Limit of a Sequence",
+          "Number": 2,
+          "Pages": "pp. 47-48",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Algebraic and Order Limit Theorems",
+          "Number": 3,
+          "Pages": "pp. 54-56",
+          "NumProblems": 13,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Monotone Convergence Theorems and a First Look at Infinite Series",
+          "Number": 4,
+          "Pages": "pp. 59-62",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },{
+          "Title": "Subsequences and the Bozano-Weierstrass Theorem",
+          "Number": 5,
+          "Pages": "pp. 65-66",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Cauchy Criterion",
+          "Number": 6,
+          "Pages": "pp. 70-71",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Properties of Infinite Series",
+          "Number": 7,
+          "Pages": "pp. 76-79",
+          "NumProblems": 14,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Double Summations and Products of Infinite Series",
+          "Number": 8,
+          "Pages": "pp. 80-83",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Basic Topology of R",
+      "Number": 3,
+      "Sections": [
+        {
+          "Title": "Open and Closed Sets",
+          "Number": 2,
+          "Pages": "pp. 93-95",
+          "NumProblems": 15,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Compact Sets",
+          "Number": 3,
+          "Pages": "pp. 99-101",
+          "NumProblems": 13,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Perfect Sets and Connected Sets",
+          "Number": 4,
+          "Pages": "pp. 105-106",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Baire's Theorem",
+          "Number": 5,
+          "Pages": "pp. 107-108",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Functional Limits and Continuity",
+      "Number": 4,
+      "Sections": [
+        {
+          "Title": "Functional Limits",
+          "Number": 2,
+          "Pages": "pp. 120-122",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Continuous Functions",
+          "Number": 3,
+          "Pages": "pp. 126-129",
+          "NumProblems": 14,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Continuous Functions on Compact Sets",
+          "Number": 4,
+          "Pages": "pp. 134-136",
+          "NumProblems": 14,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Intermediate Value Theorem",
+          "Number": 5,
+          "Pages": "pp. 139-140",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Sets of Discontinuity",
+          "Number": 6,
+          "Pages": "pp. 141-143",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "The Derivative",
+      "Number": 5,
+      "Sections": [
+        {
+          "Title": "Derivatives and the Intermediate Value Property",
+          "Number": 2,
+          "Pages": "pp. 152-155",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Mean Value Theorems",
+          "Number": 3,
+          "Pages": "pp. 160-162",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "A Continuous Nowhere-Differentiable Function",
+          "Number": 4,
+          "Pages": "pp. 163-168",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Sequences and Series of Functions",
+      "Number": 6,
+      "Sections": [
+        {
+          "Title": "Uniform Convergence of a Sequence of Functions",
+          "Number": 2,
+          "Pages": "pp. 180-183",
+          "NumProblems": 15,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Uniform Convergence and Differentiation",
+          "Number": 3,
+          "Pages": "pp. 186-187",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Series of Functions",
+          "Number": 4,
+          "Pages": "pp. 189-191",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Power Series",
+          "Number": 5,
+          "Pages": "pp. 195-197",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Taylor Series",
+          "Number": 6,
+          "Pages": "pp. 203-205",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Weierstrass Approximation Theorem",
+          "Number": 7,
+          "Pages": "pp. 206-211",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "The Riemann Integral",
+      "Number": 7,
+      "Sections": [
+        {
+          "Title": "The Definition of the Riemann Integral",
+          "Number": 2,
+          "Pages": "pp. 222-223",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Integrating Functions with Discontinuities",
+          "Number": 3,
+          "Pages": "pp. 226-228",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Properties of the Integral",
+          "Number": 4,
+          "Pages": "pp. 232-234",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Fundamental Theorem of Calculus",
+          "Number": 5,
+          "Pages": "pp. 236-238",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Lebesgue's Criterion for Riemann Integrability",
+          "Number": 6,
+          "Pages": "pp. 239-246",
+          "NumProblems": 19,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Additional Topics",
+      "Number": 8,
+      "Sections": [
+        {
+          "Title": "The Generalized Riemann Integral",
+          "Number": 1,
+          "Pages": "pp. 251-257",
+          "NumProblems": 14,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Metric Spaces and the Baire Category Theorem",
+          "Number": 2,
+          "Pages": "pp. 258-264",
+          "NumProblems": 18,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Euler's Sum",
+          "Number": 3,
+          "Pages": "pp. 265-269",
+          "NumProblems": 13,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Inventing the Factorial Function",
+          "Number": 4,
+          "Pages": "pp. 271-281",
+          "NumProblems": 23,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Fourier Series",
+          "Number": 5,
+          "Pages": "pp. 283-296",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "A Construction of R from Q",
+          "Number": 6,
+          "Pages": "pp. 298-302",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    }
+  ]
+}
