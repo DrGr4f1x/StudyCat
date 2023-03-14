@@ -555,110 +555,230 @@
       ]
     },
     {
-      "Title": "Chapter 10",
+      "Title": "Separation Theorems in the Plane",
       "Number": 10,
       "Sections": [
         {
-          "Title": "Section 1",
-          "Number": 1,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Title": "The Jordan Separation Theorem",
+          "Number": 61,
+          "Pages": "pp. 380-381",
+          "NumProblems": 2,
           "SectionType": 0,
           "AdditionalCards": []
         },
         {
-          "Title": "Section 2",
-          "Number": 2,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Title": "Invariance of Domain",
+          "Number": 62,
+          "Pages": "pp. 384-385",
+          "NumProblems": 6,
           "SectionType": 0,
           "AdditionalCards": []
-        }
+        },
+        {
+          "Title": "The Jordan Curve Theorem",
+          "Number": 63,
+          "Pages": "pp. 393-394",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Imbedding Graphs in the Plane",
+          "Number": 64,
+          "Pages": "pp. 398",
+          "NumProblems": 1,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Cauchy Integral Formula",
+          "Number": 66,
+          "Pages": "pp. 406",
+          "NumProblems": 2,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
       ]
     },
     {
-      "Title": "Chapter 11",
+      "Title": "The Seifert-van Kampen Theorem",
       "Number": 11,
       "Sections": [
         {
-          "Title": "Section 1",
-          "Number": 1,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Title": "Direct Sums of Abelian Groups",
+          "Number": 67,
+          "Pages": "pp. 411-412",
+          "NumProblems": 6,
           "SectionType": 0,
           "AdditionalCards": []
         },
         {
-          "Title": "Section 2",
-          "Number": 2,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Title": "Free Products of Groups",
+          "Number": 68,
+          "Pages": "pp. 421",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Free Groups",
+          "Number": 69,
+          "Pages": "pp. 425",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Seifert-van Kampen Theorem",
+          "Number": 70,
+          "Pages": "pp. 433",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Fundamental Group of a Wedge of Circles",
+          "Number": 71,
+          "Pages": "pp. 438",
+          "NumProblems": 5,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Adjoining a Two-cell",
+          "Number": 72,
+          "Pages": "pp. 441",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Fundamental Groups of the Torus and the Dunce Cap",
+          "Number": 73,
+          "Pages": "pp. 445",
+          "NumProblems": 4,
           "SectionType": 0,
           "AdditionalCards": []
         }
       ]
     },
     {
-      "Title": "Chapter 12",
+      "Title": "Classification of Surfaces",
       "Number": 12,
       "Sections": [
         {
-          "Title": "Section 1",
-          "Number": 1,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Title": "Fundamental Groups of Surfaces",
+          "Number": 74,
+          "Pages": "pp. 453-454",
+          "NumProblems": 7,
           "SectionType": 0,
           "AdditionalCards": []
         },
         {
-          "Title": "Section 2",
-          "Number": 2,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Title": "Homology of Surfaces",
+          "Number": 75,
+          "Pages": "pp. 457",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Cutting and Pasting",
+          "Number": 76,
+          "Pages": "pp. 462",
+          "NumProblems": 2,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "The Classification Theorem",
+          "Number": 77,
+          "Pages": "pp. 470-471",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Constructing Compact Surfaces",
+          "Number": 78,
+          "Pages": "pp. 476",
+          "NumProblems": 5,
           "SectionType": 0,
           "AdditionalCards": []
         }
       ]
     },
     {
-      "Title": "Chapter 13",
+      "Title": "Classification of Covering Spaces",
       "Number": 13,
       "Sections": [
         {
-          "Title": "Section 1",
-          "Number": 1,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Title": "Equivalence of Covering Spaces",
+          "Number": 79,
+          "Pages": "pp. 483-484",
+          "NumProblems": 7,
           "SectionType": 0,
           "AdditionalCards": []
         },
         {
-          "Title": "Section 2",
-          "Number": 2,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Title": "The Universal Covering Space",
+          "Number": 80,
+          "Pages": "pp. 487",
+          "NumProblems": 1,
           "SectionType": 0,
           "AdditionalCards": []
-        }
+        },
+        {
+          "Title": "Covering Transformations",
+          "Number": 81,
+          "Pages": "pp. 492-494",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Existence of Covering Spaces",
+          "Number": 82,
+          "Pages": "pp. 499",
+          "NumProblems": 2,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Supplementary Exercises: Topological Properties of pi_1",
+          "Number": 1,
+          "Pages": "pp. 499-500",
+          "NumProblems": 5,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
       ]
     },
     {
-      "Title": "Chapter 14",
+      "Title": "Applications to Group Theory",
       "Number": 14,
       "Sections": [
         {
-          "Title": "Section 1",
-          "Number": 1,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Title": "Covering Spaces of a Graph",
+          "Number": 83,
+          "Pages": "pp. 505-506",
+          "NumProblems": 2,
           "SectionType": 0,
           "AdditionalCards": []
         },
         {
-          "Title": "Section 2",
-          "Number": 2,
-          "Pages": "pp. 20-22",
-          "NumProblems": 25,
+          "Title": "The Fundamental Group of a Graph",
+          "Number": 84,
+          "Pages": "pp. 513",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Subgroups of Free Groups",
+          "Number": 85,
+          "Pages": "pp. 515",
+          "NumProblems": 3,
           "SectionType": 0,
           "AdditionalCards": []
         }
