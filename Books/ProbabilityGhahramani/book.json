@@ -1,0 +1,546 @@
+{
+  "Title": "Fundamentals of Probability",
+  "Authors": "Saeed Ghahramani",
+  "Publisher": "Prentice-Hall",
+  "Year": "2000",
+  "Chapters": [
+    {
+      "Title": "Axioms of Probability",
+      "Number": 1,
+      "Sections": [
+        {
+          "Title": "Sample Spaces and Events",
+          "Number": 2,
+          "Pages": "pp. 9-11",
+          "NumProblems": 19,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Basic Theorems",
+          "Number": 4,
+          "Pages": "pp. 23-27",
+          "NumProblems": 31,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Random Selection of Points from Intervals",
+          "Number": 7,
+          "Pages": "pp. 34-35",
+          "NumProblems": 14,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Problems",
+          "Number": 1,
+          "Pages": "pp. 35-37",
+          "NumProblems": 19,
+          "SectionType": 1,
+          "AdditionalCards": []
+        },
+      ]
+    },
+    {
+      "Title": "Combinatorial Methods",
+      "Number": 2,
+      "Sections": [
+        {
+          "Title": "Counting Principle",
+          "Number": 2,
+          "Pages": "pp. 44-47",
+          "NumProblems": 30,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Permutations",
+          "Number": 3,
+          "Pages": "pp. 51-53",
+          "NumProblems": 27,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Combinations",
+          "Number": 4,
+          "Pages": "pp. 64-70",
+          "NumProblems": 48,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Stirling's Formula",
+          "Number": 5,
+          "Pages": "pp. 71",
+          "NumProblems": 1,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Problems",
+          "Number": 1,
+          "Pages": "pp. 72-74",
+          "NumProblems": 26,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Conditional Probability and Independence",
+      "Number": 3,
+      "Sections": [
+        {
+          "Title": "Conditional Probability",
+          "Number": 1,
+          "Pages": "pp. 82-84",
+          "NumProblems": 22,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Law of Multiplication",
+          "Number": 2,
+          "Pages": "pp. 87-88",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Law of Total Probability",
+          "Number": 3,
+          "Pages": "pp. 96-99",
+          "NumProblems": 19,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Bayes' Formula",
+          "Number": 4,
+          "Pages": "pp. 104-106",
+          "NumProblems": 14,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Independence",
+          "Number": 5,
+          "Pages": "pp. 119-125",
+          "NumProblems": 42,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Problems",
+          "Number": 1,
+          "Pages": "pp. 126-128",
+          "NumProblems": 19,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Distribution Functions and Discrete Random Variables",
+      "Number": 4,
+      "Sections": [
+        {
+          "Title": "Distribution Functions",
+          "Number": 2,
+          "Pages": "pp. 140-143",
+          "NumProblems": 18,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Discrete Random Variables",
+          "Number": 3,
+          "Pages": "pp. 148-149",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Expectations of Discrete Random Variables",
+          "Number": 4,
+          "Pages": "pp. 159-161",
+          "NumProblems": 18,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Variances and Moments of Discrete Random Variables",
+          "Number": 5,
+          "Pages": "pp. 168-169",
+          "NumProblems": 15,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Standardized Random Variables",
+          "Number": 6,
+          "Pages": "pp. 171",
+          "NumProblems": 2,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Problems",
+          "Number": 1,
+          "Pages": "pp. 171-173",
+          "NumProblems": 10,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Special Discrete Distributions",
+      "Number": 5,
+      "Sections": [
+        {
+          "Title": "Bernoulli and Binomial Random Variables",
+          "Number": 1,
+          "Pages": "pp. 184-188",
+          "NumProblems": 33,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Poisson Random Variable",
+          "Number": 2,
+          "Pages": "pp. 199-202",
+          "NumProblems": 26,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Other Discrete Random Variables",
+          "Number": 3,
+          "Pages": "pp. 211-214",
+          "NumProblems": 27,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Problems",
+          "Number": 1,
+          "Pages": "pp. 215-217",
+          "NumProblems": 26,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Continuous Random Variables",
+      "Number": 6,
+      "Sections": [
+        {
+          "Title": "Probability Density Functions",
+          "Number": 1,
+          "Pages": "pp. 225-227",
+          "NumProblems": 11,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Density Function of a Function of a Random Variable",
+          "Number": 2,
+          "Pages": "pp. 232-233",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Expectations and Variances",
+          "Number": 3,
+          "Pages": "pp. 241-244",
+          "NumProblems": 19,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Problems",
+          "Number": 1,
+          "Pages": "pp. 245-246",
+          "NumProblems": 12,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Special Continuous Distributions",
+      "Number": 7,
+      "Sections": [
+        {
+          "Title": "Uniform Random Variable",
+          "Number": 1,
+          "Pages": "pp. 252-253",
+          "NumProblems": 17,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Normal Random Variable",
+          "Number": 2,
+          "Pages": "pp. 265-269",
+          "NumProblems": 34,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Exponential Random Variable",
+          "Number": 3,
+          "Pages": "pp. 274-276",
+          "NumProblems": 14,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Gamma Distribution",
+          "Number": 4,
+          "Pages": "pp. 280-281",
+          "NumProblems": 10,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Problems",
+          "Number": 1,
+          "Pages": "pp. 285-286",
+          "NumProblems": 16,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Joint Distributions",
+      "Number": 8,
+      "Sections": [
+        {
+          "Title": "Bivariate Distributions",
+          "Number": 1,
+          "Pages": "pp. 301-304",
+          "NumProblems": 28,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Independent Random Variables",
+          "Number": 2,
+          "Pages": "pp. 311-315",
+          "NumProblems": 26,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Conditional Distributions",
+          "Number": 3,
+          "Pages": "pp. 326-329",
+          "NumProblems": 21,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Multivariate Distributions",
+          "Number": 4,
+          "Pages": "pp. 341-344",
+          "NumProblems": 23,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Order Statistics",
+          "Number": 5,
+          "Pages": "pp. 351-352",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Multinomial Distributions",
+          "Number": 6,
+          "Pages": "pp. 355-356",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Transformations of Two Random Variables",
+          "Number": 7,
+          "Pages": "pp. 360-362",
+          "NumProblems": 12,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Problems",
+          "Number": 1,
+          "Pages": "pp. 362-368",
+          "NumProblems": 28,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "More Expectations and Variances",
+      "Number": 9,
+      "Sections": [
+        {
+          "Title": "Expected Values of Sums of Random Variables",
+          "Number": 1,
+          "Pages": "pp. 380-383",
+          "NumProblems": 20,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Covariance",
+          "Number": 2,
+          "Pages": "pp. 389-392",
+          "NumProblems": 20,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Correlation",
+          "Number": 3,
+          "Pages": "pp. 396-397",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Conditioning on Random Variables",
+          "Number": 4,
+          "Pages": "pp. 405-408",
+          "NumProblems": 17,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Bivariate Normal Distribution",
+          "Number": 5,
+          "Pages": "pp. 413",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Problems",
+          "Number": 1,
+          "Pages": "pp. 414-415",
+          "NumProblems": 15,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Sums of Independent Random Variables and Limit Theorems",
+      "Number": 10,
+      "Sections": [
+        {
+          "Title": "Moment-Generating Functions",
+          "Number": 1,
+          "Pages": "pp. 424-426",
+          "NumProblems": 25,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Sums of Independent Random Variables",
+          "Number": 2,
+          "Pages": "pp. 434-436",
+          "NumProblems": 22,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Markov and Chebyshev Inequalities",
+          "Number": 3,
+          "Pages": "pp. 441-443",
+          "NumProblems": 14,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Laws of Large Numbers",
+          "Number": 4,
+          "Pages": "pp. 450-451",
+          "NumProblems": 6,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Central Limit Theorem",
+          "Number": 5,
+          "Pages": "pp. 457-458",
+          "NumProblems": 9,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Review Problems",
+          "Number": 1,
+          "Pages": "pp. 458-460",
+          "NumProblems": 17,
+          "SectionType": 1,
+          "AdditionalCards": []
+        }
+      ]
+    },
+    {
+      "Title": "Simulation",
+      "Number": 11,
+      "Sections": [
+        {
+          "Title": "Introduction",
+          "Number": 1,
+          "Pages": "pp. 465",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Simulation of Combinatorial Problems",
+          "Number": 2,
+          "Pages": "pp. 468-469",
+          "NumProblems": 7,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Simulation of Conditional Probabilities",
+          "Number": 3,
+          "Pages": "pp. 473",
+          "NumProblems": 4,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Simulation of Random Variables",
+          "Number": 4,
+          "Pages": "pp. 480-481",
+          "NumProblems": 8,
+          "SectionType": 0,
+          "AdditionalCards": []
+        },
+        {
+          "Title": "Monte Carlo Method",
+          "Number": 5,
+          "Pages": "pp. 485-486",
+          "NumProblems": 3,
+          "SectionType": 0,
+          "AdditionalCards": []
+        }
+      ]
+    }
+  ]
+}
