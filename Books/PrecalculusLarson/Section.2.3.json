@@ -4,7 +4,7 @@
   "SectionTitle": "Polynomial and Synthetic Division",
   "SectionNumber": 3,
   "SectionType": 0,
-  "SessionNumber": -1,
+  "SessionNumber": 0,
   "LastReviewDate": "2023-03-12T17:17:06.2082019-07:00",
   "Cards": [
     {
@@ -72,9 +72,9 @@
     },
     {
       "Number": 10,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -121,9 +121,9 @@
     },
     {
       "Number": 17,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -191,9 +191,9 @@
     },
     {
       "Number": 27,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -205,9 +205,9 @@
     },
     {
       "Number": 29,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -268,9 +268,9 @@
     },
     {
       "Number": 38,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -415,9 +415,9 @@
     },
     {
       "Number": 59,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -443,9 +443,9 @@
     },
     {
       "Number": 63,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
@@ -597,16 +597,16 @@
     },
     {
       "Number": 85,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 86,
-      "Deck": 0,
+      "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
