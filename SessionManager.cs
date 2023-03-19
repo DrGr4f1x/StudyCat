@@ -251,9 +251,10 @@ namespace StudyCat
                 }
                 else
                 {
+                    string sectionTypeStr = chapterSection.sectionType == SectionType.Normal ? "" : "S";
                     foreach (var file in files)
                     {
-                        if (file.Contains(string.Format("Section.{0}.{1}", chapterSection.chapter, chapterSection.section)))
+                        if (file.Contains(string.Format("Section.{0}.{1}{2}", chapterSection.chapter, sectionTypeStr, chapterSection.section)))
                             filesToOpen.Add(file);
                     }
                 }
