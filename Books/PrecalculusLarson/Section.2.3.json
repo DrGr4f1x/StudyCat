@@ -4,7 +4,7 @@
   "SectionTitle": "Polynomial and Synthetic Division",
   "SectionNumber": 3,
   "SectionType": 0,
-  "SessionNumber": 1,
+  "SessionNumber": 2,
   "LastReviewDate": "2023-03-12T17:17:06.2082019-07:00",
   "Cards": [
     {
@@ -37,23 +37,23 @@
     },
     {
       "Number": 5,
-      "Deck": 0,
+      "Deck": 3,
       "CardType": 0,
-      "TimesReviewed": 1,
+      "TimesReviewed": 2,
       "Text": null
     },
     {
       "Number": 6,
-      "Deck": 0,
+      "Deck": 3,
       "CardType": 0,
-      "TimesReviewed": 1,
+      "TimesReviewed": 2,
       "Text": null
     },
     {
       "Number": 7,
-      "Deck": 0,
+      "Deck": 3,
       "CardType": 0,
-      "TimesReviewed": 1,
+      "TimesReviewed": 2,
       "Text": null
     },
     {
@@ -74,7 +74,7 @@
       "Number": 10,
       "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 1,
+      "TimesReviewed": 2,
       "Text": null
     },
     {
@@ -123,7 +123,7 @@
       "Number": 17,
       "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 1,
+      "TimesReviewed": 2,
       "Text": null
     },
     {
@@ -142,100 +142,100 @@
     },
     {
       "Number": 20,
-      "Deck": 0,
+      "Deck": 3,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 21,
-      "Deck": 0,
+      "Deck": 3,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 22,
-      "Deck": 0,
+      "Deck": 3,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 23,
       "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 24,
-      "Deck": 0,
+      "Deck": 3,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 25,
-      "Deck": 0,
+      "Deck": 3,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 26,
-      "Deck": 0,
+      "Deck": 3,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 27,
       "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 1,
+      "TimesReviewed": 2,
       "Text": null
     },
     {
       "Number": 28,
-      "Deck": 0,
+      "Deck": 3,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 29,
       "Deck": 1,
       "CardType": 0,
-      "TimesReviewed": 1,
+      "TimesReviewed": 2,
       "Text": null
     },
     {
       "Number": 30,
-      "Deck": 0,
+      "Deck": 3,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 31,
       "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 32,
-      "Deck": 0,
+      "Deck": 3,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
       "Number": 33,
       "Deck": 0,
       "CardType": 0,
-      "TimesReviewed": 0,
+      "TimesReviewed": 1,
       "Text": null
     },
     {
